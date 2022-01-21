@@ -1,11 +1,24 @@
 __all__ = ["PokemonDatabase"]
 
-import pokedb
+from pokedb.core.singleton import Singleton
 
 
-class _PokemonDatabase(metaclass=pokedb.core.Singleton):
+class _PokemonDatabase(metaclass=Singleton):
     def __init__(self) -> None:
         self._dict = {}
+
+    def get_by_slug(self, slug):
+        return self.query(lambda pokemon: pokemon.slug == slug)
+
+    def query(self, search_function):
+        return [
+            pokemon for pokemon in self._dict.values() if search_function(pokemon)
+        ]
+
+    def __iter__(self):
+        return (
+            pokemon for _, pokemon in sorted(self._dict.items(), key=lambda kvp: (kvp[0][0], kvp[0][1]))
+        )
 
     def __getitem__(self, idx):
         if isinstance(idx, tuple):
@@ -18,9 +31,12 @@ class _PokemonDatabase(metaclass=pokedb.core.Singleton):
     def __setitem__(self, idx, pokemon):
         if not isinstance(idx, tuple):
             raise IndexError("Index must be a tuple.")
-        if not isinstance(pokemon, pokedb.Pokemon):
+        if pokemon.__class__.__name__ != "Pokemon":
             raise ValueError("Can only store Pokemon.")
         self._dict[idx] = pokemon
+
+    def __len__(self) -> int:
+        return len(self._dict)
 
 
 PokemonDatabase = _PokemonDatabase()
