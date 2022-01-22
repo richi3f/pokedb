@@ -1,5 +1,6 @@
-__all__ = ["EggGroup", "Color", "Type"]
+__all__ = ["Color", "EggGroup", "Gender", "Type"]
 
-from pokedb.core.enums.egg_groups import EggGroup
 from pokedb.core.enums.colors import Color
+from pokedb.core.enums.egg_groups import EggGroup
+from pokedb.core.enums.genders import Gender
 from pokedb.core.enums.types import Type
