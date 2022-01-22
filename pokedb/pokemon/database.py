@@ -1,5 +1,7 @@
 __all__ = ["PokemonDatabase"]
 
+import pandas as pd
+
 from pokedb.core.singleton import Singleton
 
 
@@ -17,12 +19,7 @@ class _PokemonDatabase(metaclass=Singleton):
         return [pokemon for pokemon in self._dict.values() if search_function(pokemon)]
 
     def __iter__(self):
-        return (
-            pokemon
-            for _, pokemon in sorted(
-                self._dict.items(), key=lambda kvp: (kvp[0][0], kvp[0][1])
-            )
-        )
+        return iter(sorted(self._dict.values()))
 
     def __getitem__(self, idx):
         if isinstance(idx, tuple):

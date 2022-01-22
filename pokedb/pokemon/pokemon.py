@@ -40,6 +40,9 @@ class Pokemon:
     def is_mega(self) -> bool:
         return MEGA_PATTERN.fullmatch(self.name) is not None
 
+    def __lt__(self, other: "Pokemon") -> bool:
+        return self.base_id < other.base_id and self.form_id < other.base_id
+
     def __repr__(self) -> str:
         suffix = "" if self.form_name is None else f" ({self.form_name})"
         return f"{self.name}{suffix}"
