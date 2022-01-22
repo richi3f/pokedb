@@ -2,10 +2,10 @@ __all__ = ["Type"]
 
 from enum import auto
 
-from pokedb.core.enums.extended_enum import ExtendedEnum
+from pokedb.core.enums.base import IntEnum
 
 
-class Type(ExtendedEnum):
+class Type(IntEnum):
     NORMAL = auto()
     FIGHTING = auto()
     FLYING = auto()

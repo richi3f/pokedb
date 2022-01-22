@@ -2,10 +2,10 @@ __all__ = ["EggGroup"]
 
 from enum import auto
 
-from pokedb.core.enums.extended_enum import ExtendedEnum
+from pokedb.core.enums.base import IntEnum
 
 
-class EggGroup(ExtendedEnum):
+class EggGroup(IntEnum):
     MONSTER = auto()
     WATER_1 = auto()
     BUG = auto()
