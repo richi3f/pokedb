@@ -27,6 +27,7 @@ class Pokemon:
     is_mythical: bool = False
     is_baby: bool = False
     color: int = None
+    experience_group: Enum = None
 
     def __post_init__(self) -> None:
         PokemonDatabase[(self.base_id, self.form_id)] = self
@@ -37,6 +38,10 @@ class Pokemon:
         return tuple(PokemonDatabase[idx] for idx in self._evolutions)
 
     @property
+    def index(self) -> tuple[int, int]:
+        return self.base_id, self.form_id
+
+    @property
     def is_mega(self) -> bool:
         return MEGA_PATTERN.fullmatch(self.name) is not None
 
@@ -44,7 +49,7 @@ class Pokemon:
         return self.base_id < other.base_id and self.form_id < other.base_id
 
     def __repr__(self) -> str:
-        suffix = "" if self.form_name is None else f" ({self.form_name})"
+        suffix = "" if not self.form_name else f" ({self.form_name})"
         return f"{self.name}{suffix}"
 
     def to_dict(self) -> tuple[dict, list]:
