@@ -1,5 +1,5 @@
-__all__ = ["Color", "EggGroup", "Gender", "ROOT_DIR", "Singleton", "Type"]
+__all__ = ["Color", "EggGroup", "ExperienceGroup", "Gender", "ROOT_DIR", "Singleton", "Type"]
 
-from pokedb.core.enums import Color, EggGroup, Gender, Type
+from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.root import ROOT_DIR
 from pokedb.core.singleton import Singleton
