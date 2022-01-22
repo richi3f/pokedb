@@ -39,5 +39,15 @@ class _PokemonDatabase(metaclass=Singleton):
     def __len__(self) -> int:
         return len(self._dict)
 
+    def to_csv(self, file_path) -> None:
+        all_pokemon = []
+        all_evolutions = []
+        for entry in self:
+            pokemon, evolutions = entry.to_dict()
+            all_pokemon.append(pokemon)
+            all_evolutions.extend(evolutions)
+        pd.DataFrame(all_pokemon).to_csv(file_path / "pokemon.csv", index=False)
+        pd.DataFrame(all_evolutions).to_csv(file_path / "evolutions.csv", index=False)
+
 
 PokemonDatabase = _PokemonDatabase()
