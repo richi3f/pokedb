@@ -2,9 +2,7 @@ __all__ = ["read_js", "to_js"]
 
 
 import json
-
 from os import PathLike
-
 
 JS_PREFIX = "export default "
 JS_SUFFIX = ";"
@@ -17,6 +15,6 @@ def read_js(file_path: PathLike) -> str:
     return json.loads(json_str)
 
 
-def to_js(data: dict, file_path: PathLike) -> None:
+def to_js(data: dict, file_path: PathLike, **kwargs) -> None:
     with open(file_path, "w", encoding="utf-8") as file:
-        file.write(JS_PREFIX + json.dumps(data) + JS_SUFFIX)
+        file.write(JS_PREFIX + json.dumps(data, **kwargs) + JS_SUFFIX)

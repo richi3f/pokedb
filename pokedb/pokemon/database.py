@@ -1,6 +1,5 @@
 __all__ = ["PokemonDatabase"]
 
-import csv
 from typing import TYPE_CHECKING, Callable, Union
 
 import pandas as pd
@@ -46,41 +45,41 @@ class PokemonDatabase(metaclass=Singleton):
     def __len__(self) -> int:
         return len(self._dict)
 
-    def to_json(self, file_path) -> None:
+    def to_js(self, file_path, **kwargs) -> None:
         data = {}
-        entry: "Pokemon"
-        for entry in self:
-            pokemon = {
-                "id": entry.base_id,
-                "form_id": entry.form_id,
-                "name": entry.name,
-                "type": [*map(str, entry.pokemon_type)],
-                "genders": [*map(str, entry.gender)],
-                "gender_ratio": entry.gender_ratio,
-                "gen": entry.generation,
-                "egg": [*map(str, entry.egg_group)],
-                "exp": str(entry.experience_group),
+        pokemon: "Pokemon"
+        for pokemon in self:
+            entry = {
+                "id": pokemon.base_id,
+                "form_id": pokemon.form_id,
+                "name": pokemon.name,
+                "type": [*map(str, pokemon.pokemon_type)],
+                "gender": [*map(str, pokemon.gender)],
+                "gender_ratio": pokemon.gender_ratio,
+                "gen": pokemon.generation,
+                "egg": [*map(str, pokemon.egg_group)],
+                "exp": str(pokemon.experience_group),
             }
-            if entry.form_name:
-                pokemon["form"] = entry.form_name
-            if entry.color is not None:
-                pokemon["color"] = str(entry.color)
-            if entry.is_baby:
-                pokemon["baby"] = True
-            if entry.is_legendary:
-                pokemon["legendary"] = True
-            if entry.is_sublegendary:
-                pokemon["sublegendary"] = True
-            if entry.is_mythical:
-                pokemon["mythical"] = True
-            if entry.is_mega:
-                pokemon["mega"] = True
-            if entry.has_gigantamax:
-                pokemon["gmax"] = True
-            if not entry.evolutions:
-                pokemon["fully_evolved"] = True
-            data[entry.slug] = pokemon
-        io.to_js(data, file_path)
+            if pokemon.form_name:
+                entry["form"] = pokemon.form_name
+            if pokemon.color is not None:
+                entry["color"] = str(pokemon.color)
+            if pokemon.is_baby:
+                entry["baby"] = True
+            if pokemon.is_legendary:
+                entry["legendary"] = True
+            if pokemon.is_sublegendary:
+                entry["sublegendary"] = True
+            if pokemon.is_mythical:
+                entry["mythical"] = True
+            if pokemon.is_mega:
+                entry["mega"] = True
+            if pokemon.has_gigantamax:
+                entry["gmax"] = True
+            if pokemon.evolutions:
+                entry["evolves"] = [evolution.index for evolution in pokemon.evolutions]
+            data[pokemon.slug] = entry
+        io.to_js(data, file_path, **kwargs)
 
     def to_csv(self, file_path) -> None:
         all_pokemon = []
