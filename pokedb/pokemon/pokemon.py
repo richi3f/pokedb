@@ -9,8 +9,8 @@ MEGA_PATTERN = re.compile(r"Mega (\w+)(?: X| Y)?")
 
 @dataclass
 class Pokemon:
-    base_id: int
-    form_id: int
+    base_id: int = None
+    form_id: int = None
     slug: str = None
     name: str = None
     form_name: str = None
@@ -60,7 +60,6 @@ class Pokemon:
                     pokemon[f"{key}_2"] = str(value[1])
             elif isinstance(value, Enum):
                 pokemon[key] = str(value)
-        pokemon["is_mega"] = self.is_mega
         # Create evolution dictionaries
         evolutions = []
         for evolution in self.evolutions:

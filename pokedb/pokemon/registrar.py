@@ -9,6 +9,8 @@ from pokedb.pokemon.database import PokemonDatabase
 from pokedb.pokemon.pokemon import Pokemon
 
 FIELD_FACTORIES = (
+    ("base_id", int),
+    ("form_id", int),
     ("slug", str),
     ("name", str),
     ("form_name", str),
@@ -46,12 +48,13 @@ class _Registrar(metaclass=Singleton):
             with open(evolutions_csv_path, "r") as file:
                 reader = csv.DictReader(file)
                 for row in reader:
+                    row = {k: int(v) for k, v in row.items()}
                     index = row["base_id"], row["form_id"]
                     evolution_index = row["evolution_base_id"], row["evolution_form_id"]
                     self.register_evolution(index, evolution_index)
 
     def from_dict(self, data: dict) -> None:
-        pokemon = Pokemon(data["base_id"], data["form_id"])
+        pokemon = Pokemon()
         field: str
         factory: Callable
         for field, factory in FIELD_FACTORIES:
