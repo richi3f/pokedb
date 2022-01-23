@@ -1,5 +1,6 @@
 __all__ = ["PokemonDatabase"]
 
+from collections.abc import Iterator
 from typing import TYPE_CHECKING, Callable, Union
 
 import pandas as pd
@@ -21,10 +22,10 @@ class PokemonDatabase(metaclass=Singleton):
             raise KeyError(f"Pokémon {slug} was not found in the database.")
         return matches[0]
 
-    def query(self, search_function: Callable[["Pokemon"], bool]) -> list:
+    def query(self, search_function: Callable[["Pokemon"], bool]) -> list["Pokemon"]:
         return [pokemon for pokemon in self._dict.values() if search_function(pokemon)]
 
-    def __iter__(self):
+    def __iter__(self) -> Iterator["Pokemon"]:
         return iter(sorted(self._dict.values()))
 
     def __getitem__(self, idx: Union[int, tuple[int, int]]) -> "Pokemon":
@@ -45,9 +46,22 @@ class PokemonDatabase(metaclass=Singleton):
     def __len__(self) -> int:
         return len(self._dict)
 
+    def remove(self, i: Union["Pokemon", tuple[int, int], str]) -> None:
+        if isinstance(i, tuple):
+            index_to_remove = i
+        elif isinstance(i, str):
+            index_to_remove = self.get_by_slug(i).index
+        elif i.__class__.__name__ == "Pokemon":
+            index_to_remove = i.index
+        else:
+            raise ValueError("Input must be an ID, slug, or Pokémon.")
+        removed_pokemon = self._dict.pop(index_to_remove)
+        for pokemon in self:
+            if removed_pokemon in pokemon.evolutions:
+                pokemon._evolutions.remove(removed_pokemon)
+
     def to_js(self, file_path, **kwargs) -> None:
         data = {}
-        pokemon: "Pokemon"
         for pokemon in self:
             entry = {
                 "id": pokemon.base_id,
