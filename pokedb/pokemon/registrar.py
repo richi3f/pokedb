@@ -1,14 +1,14 @@
 __all__ = ["Registrar"]
 
 import csv
-from typing import Callable
+from typing import Callable, Union
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.singleton import Singleton
 from pokedb.pokemon.database import PokemonDatabase
 from pokedb.pokemon.pokemon import Pokemon
 
-SINGLE_VALUE_FIELDS = (
+FIELD_FACTORIES = (
     ("slug", str),
     ("name", str),
     ("form_name", str),
@@ -21,8 +21,6 @@ SINGLE_VALUE_FIELDS = (
     ("is_sublegendary", bool),
     ("color", Color.from_str),
     ("experience_group", ExperienceGroup.from_str),
-)
-DUAL_VALUE_FIELDS = (
     ("pokemon_type", Type.from_str),
     ("gender", Gender.from_str),
     ("egg_group", EggGroup.from_str),
@@ -56,15 +54,17 @@ class _Registrar(metaclass=Singleton):
         pokemon = Pokemon(data["base_id"], data["form_id"])
         field: str
         factory: Callable
-        for field, factory in SINGLE_VALUE_FIELDS:
-            if data.get(field):
+        for field, factory in FIELD_FACTORIES:
+            value: Union[tuple, None] = getattr(pokemon, field)
+            if isinstance(value, tuple):
+                # Field is dual value
+                for i in range(2):
+                    ith_field = f"{field}_{i}"
+                    if data.get(ith_field):
+                        setattr(pokemon, field, value + (factory(data[ith_field]),))
+            elif data.get(field):
+                # Field is single value
                 setattr(pokemon, field, factory(data[field]))
-        for field, factory in DUAL_VALUE_FIELDS:
-            for i in range(2):
-                ith_field = f"{field}_{i}"
-                if data.get(ith_field):
-                    value: tuple = getattr(pokemon, field)
-                    setattr(pokemon, field, value + (factory(data[ith_field]),))
         self.register(pokemon)
 
     def get_by_index(self, ids: list[tuple[int, int]]) -> tuple[Pokemon, ...]:
