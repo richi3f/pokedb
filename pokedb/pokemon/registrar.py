@@ -1,12 +1,18 @@
 __all__ = ["Registrar"]
 
 import csv
+import distutils.util
 from typing import Callable, Union
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.singleton import Singleton
 from pokedb.pokemon.database import PokemonDatabase
 from pokedb.pokemon.pokemon import Pokemon
+
+
+def strtobool(value: str) -> bool:
+    return bool(distutils.util.strtobool(value))
+
 
 FIELD_FACTORIES = (
     ("base_id", int),
@@ -16,11 +22,11 @@ FIELD_FACTORIES = (
     ("form_name", str),
     ("generation", int),
     ("gender_ratio", int),
-    ("has_gigantamax", bool),
-    ("is_baby", bool),
-    ("is_mythical", bool),
-    ("is_legendary", bool),
-    ("is_sublegendary", bool),
+    ("has_gigantamax", strtobool),
+    ("is_baby", strtobool),
+    ("is_mythical", strtobool),
+    ("is_legendary", strtobool),
+    ("is_sublegendary", strtobool),
     ("color", Color.from_str),
     ("experience_group", ExperienceGroup.from_str),
     ("pokemon_type", Type.from_str),
