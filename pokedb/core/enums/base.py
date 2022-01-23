@@ -2,8 +2,8 @@ __all__ = ["IntEnum", "StrEnum"]
 
 import enum
 
-FROM_STR_TRANS = str.maketrans({" ": "_", "-": "__"})
-TO_STR_TRANS = str.maketrans({"_": None})
+FROM_STR_TRANS = str.maketrans({" ": "_", "-": "_"})
+TO_STR_TRANS = str.maketrans({"_": "-"})
 
 
 class IntEnum(enum.IntEnum):

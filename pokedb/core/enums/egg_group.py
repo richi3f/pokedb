@@ -13,7 +13,7 @@ class EggGroup(IntEnum):
     FIELD = auto()
     FAIRY = auto()
     GRASS = auto()
-    HUMAN__LIKE = auto()
+    HUMAN_LIKE = auto()
     WATER_3 = auto()
     MINERAL = auto()
     AMORPHOUS = auto()
