@@ -1,10 +1,8 @@
 __all__ = ["Pokemon"]
 
 import re
-from dataclasses import asdict, dataclass, field
+from dataclasses import asdict, dataclass
 from enum import Enum
-
-from pokedb.pokemon.database import PokemonDatabase
 
 MEGA_PATTERN = re.compile(r"Mega (\w+)(?: X| Y)?")
 
@@ -16,11 +14,10 @@ class Pokemon:
     slug: str = None
     name: str = None
     form_name: str = None
-    egg_group: tuple = None
-    generation: int = None
-    gender: tuple = None
+    pokemon_type: tuple = ()
+    egg_group: tuple = ()
+    gender: tuple = ()
     gender_ratio: int = None
-    pokemon_type: tuple = None
     has_gigantamax: bool = False
     is_sublegendary: bool = False
     is_legendary: bool = False
@@ -28,14 +25,14 @@ class Pokemon:
     is_baby: bool = False
     color: int = None
     experience_group: Enum = None
+    generation: int = None
 
     def __post_init__(self) -> None:
-        PokemonDatabase[(self.base_id, self.form_id)] = self
-        self._evolutions = []
+        self._evolutions: list["Pokemon"] = []
 
     @property
     def evolutions(self) -> tuple["Pokemon", ...]:
-        return tuple(PokemonDatabase[idx] for idx in self._evolutions)
+        return tuple(self._evolutions)
 
     @property
     def index(self) -> tuple[int, int]:
@@ -71,8 +68,8 @@ class Pokemon:
                 {
                     "base_id": self.base_id,
                     "form_id": self.form_id,
-                    "evo_base_id": evolution.base_id,
-                    "evo_form_id": evolution.form_id,
+                    "evolution_base_id": evolution.base_id,
+                    "evolution_form_id": evolution.form_id,
                 }
             )
         return pokemon, evolutions
