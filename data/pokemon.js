@@ -20777,6 +20777,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_baby": true,
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 8,
