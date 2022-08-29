@@ -17,7 +17,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 2,
                 0
@@ -42,7 +42,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 3,
                 0
@@ -107,7 +107,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 5,
                 0
@@ -131,7 +131,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 6,
                 0
@@ -215,7 +215,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 8,
                 0
@@ -239,7 +239,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 9,
                 0
@@ -300,7 +300,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 11,
                 0
@@ -323,7 +323,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 12,
                 0
@@ -367,7 +367,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 14,
                 0
@@ -391,7 +391,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 15,
                 0
@@ -452,7 +452,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 17,
                 0
@@ -476,7 +476,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 18,
                 0
@@ -537,7 +537,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 20,
                 0
@@ -562,7 +562,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 20,
                 1
@@ -623,7 +623,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 22,
                 0
@@ -665,7 +665,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 24,
                 0
@@ -709,7 +709,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 26,
                 0
@@ -775,7 +775,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 28,
                 0
@@ -800,7 +800,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 28,
                 1
@@ -860,7 +860,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 30,
                 0
@@ -883,7 +883,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 31,
                 0
@@ -924,7 +924,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 33,
                 0
@@ -947,7 +947,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 34,
                 0
@@ -988,7 +988,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 36,
                 0
@@ -1028,7 +1028,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 38,
                 0
@@ -1052,7 +1052,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 38,
                 1
@@ -1112,7 +1112,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 40,
                 0
@@ -1155,7 +1155,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 42,
                 0
@@ -1180,7 +1180,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 169,
                 0
@@ -1204,7 +1204,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 44,
                 0
@@ -1229,7 +1229,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 45,
                 0
@@ -1277,7 +1277,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 47,
                 0
@@ -1320,7 +1320,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 49,
                 0
@@ -1361,7 +1361,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 51,
                 0
@@ -1386,7 +1386,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 51,
                 1
@@ -1446,7 +1446,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 53,
                 0
@@ -1470,7 +1470,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 53,
                 1
@@ -1494,7 +1494,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 863,
                 0
@@ -1553,7 +1553,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 55,
                 0
@@ -1594,7 +1594,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 57,
                 0
@@ -1634,7 +1634,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 59,
                 0
@@ -1659,7 +1659,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 59,
                 1
@@ -1718,7 +1718,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 61,
                 0
@@ -1741,7 +1741,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 62,
                 0
@@ -1786,7 +1786,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 64,
                 0
@@ -1810,7 +1810,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 65,
                 0
@@ -1869,7 +1869,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 67,
                 0
@@ -1892,7 +1892,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 68,
                 0
@@ -1934,7 +1934,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 70,
                 0
@@ -1958,7 +1958,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 71,
                 0
@@ -2000,7 +2000,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 73,
                 0
@@ -2042,7 +2042,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 75,
                 0
@@ -2067,7 +2067,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 75,
                 1
@@ -2091,7 +2091,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 76,
                 0
@@ -2116,7 +2116,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 76,
                 1
@@ -2176,7 +2176,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 78,
                 0
@@ -2200,7 +2200,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 78,
                 1
@@ -2261,7 +2261,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 80,
                 0
@@ -2290,7 +2290,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 80,
                 2
@@ -2377,7 +2377,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 82,
                 0
@@ -2401,7 +2401,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 462,
                 0
@@ -2445,7 +2445,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 865,
                 0
@@ -2470,7 +2470,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 85,
                 0
@@ -2513,7 +2513,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 87,
                 0
@@ -2555,7 +2555,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 89,
                 0
@@ -2580,7 +2580,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 89,
                 1
@@ -2639,7 +2639,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 91,
                 0
@@ -2681,7 +2681,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 93,
                 0
@@ -2705,7 +2705,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 94,
                 0
@@ -2767,7 +2767,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 208,
                 0
@@ -2790,7 +2790,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 97,
                 0
@@ -2831,7 +2831,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 99,
                 0
@@ -2872,7 +2872,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 101,
                 0
@@ -2897,7 +2897,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 101,
                 1
@@ -2957,7 +2957,7 @@ export default {
         "color": "PINK",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 103,
                 0
@@ -3021,7 +3021,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 105,
                 0
@@ -3116,7 +3116,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 463,
                 0
@@ -3139,7 +3139,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 110,
                 0
@@ -3205,7 +3205,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 112,
                 0
@@ -3231,7 +3231,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 464,
                 0
@@ -3254,7 +3254,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 242,
                 0
@@ -3277,7 +3277,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 465,
                 0
@@ -3336,7 +3336,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 117,
                 0
@@ -3360,7 +3360,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 230,
                 0
@@ -3384,7 +3384,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 119,
                 0
@@ -3425,7 +3425,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 121,
                 0
@@ -3486,7 +3486,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 866,
                 0
@@ -3511,7 +3511,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 212,
                 0
@@ -3556,7 +3556,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 466,
                 0
@@ -3579,7 +3579,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 467,
                 0
@@ -3656,7 +3656,7 @@ export default {
         "color": "RED",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 130,
                 0
@@ -3758,7 +3758,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 134,
                 0
@@ -3860,7 +3860,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 233,
                 0
@@ -3885,7 +3885,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 139,
                 0
@@ -3929,7 +3929,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 141,
                 0
@@ -4144,7 +4144,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 148,
                 0
@@ -4168,7 +4168,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 1,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 149,
                 0
@@ -4286,7 +4286,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 153,
                 0
@@ -4310,7 +4310,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 154,
                 0
@@ -4352,7 +4352,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 156,
                 0
@@ -4375,7 +4375,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 157,
                 0
@@ -4439,7 +4439,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 159,
                 0
@@ -4463,7 +4463,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 160,
                 0
@@ -4504,7 +4504,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 162,
                 0
@@ -4545,7 +4545,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 164,
                 0
@@ -4588,7 +4588,7 @@ export default {
         "color": "RED",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 166,
                 0
@@ -4631,7 +4631,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 168,
                 0
@@ -4691,7 +4691,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 171,
                 0
@@ -4733,7 +4733,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 25,
                 0
@@ -4757,7 +4757,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 35,
                 0
@@ -4782,7 +4782,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 39,
                 0
@@ -4806,7 +4806,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 176,
                 0
@@ -4831,7 +4831,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 468,
                 0
@@ -4855,7 +4855,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 178,
                 0
@@ -4898,7 +4898,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 180,
                 0
@@ -4922,7 +4922,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 181,
                 0
@@ -5002,7 +5002,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 184,
                 0
@@ -5082,7 +5082,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 188,
                 0
@@ -5107,7 +5107,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 189,
                 0
@@ -5150,7 +5150,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 424,
                 0
@@ -5173,7 +5173,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 192,
                 0
@@ -5214,7 +5214,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 469,
                 0
@@ -5240,7 +5240,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 195,
                 0
@@ -5319,7 +5319,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 430,
                 0
@@ -5381,7 +5381,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 429,
                 0
@@ -5458,7 +5458,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 205,
                 0
@@ -5518,7 +5518,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 472,
                 0
@@ -5580,7 +5580,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 210,
                 0
@@ -5641,7 +5641,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 904,
                 0
@@ -5760,7 +5760,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 461,
                 0
@@ -5786,7 +5786,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 903,
                 0
@@ -5809,7 +5809,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 217,
                 0
@@ -5833,7 +5833,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 901,
                 0
@@ -5856,7 +5856,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 219,
                 0
@@ -5898,7 +5898,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 221,
                 0
@@ -5923,7 +5923,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 473,
                 0
@@ -5967,7 +5967,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 864,
                 0
@@ -5991,7 +5991,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 224,
                 0
@@ -6089,7 +6089,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 229,
                 0
@@ -6169,7 +6169,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 232,
                 0
@@ -6210,7 +6210,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 474,
                 0
@@ -6233,7 +6233,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 899,
                 0
@@ -6273,7 +6273,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 106,
                 0
@@ -6322,7 +6322,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 124,
                 0
@@ -6346,7 +6346,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 125,
                 0
@@ -6370,7 +6370,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 126,
                 0
@@ -6482,7 +6482,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 247,
                 0
@@ -6506,7 +6506,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 2,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 248,
                 0
@@ -6624,7 +6624,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 253,
                 0
@@ -6648,7 +6648,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 254,
                 0
@@ -6710,7 +6710,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 256,
                 0
@@ -6735,7 +6735,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 257,
                 0
@@ -6797,7 +6797,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 259,
                 0
@@ -6822,7 +6822,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 260,
                 0
@@ -6884,7 +6884,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 262,
                 0
@@ -6924,7 +6924,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 264,
                 0
@@ -6949,7 +6949,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 264,
                 1
@@ -6991,7 +6991,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 862,
                 0
@@ -7014,7 +7014,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 266,
                 0
@@ -7041,7 +7041,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 267,
                 0
@@ -7083,7 +7083,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 269,
                 0
@@ -7127,7 +7127,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 271,
                 0
@@ -7152,7 +7152,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 272,
                 0
@@ -7196,7 +7196,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 274,
                 0
@@ -7222,7 +7222,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 275,
                 0
@@ -7266,7 +7266,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 277,
                 0
@@ -7309,7 +7309,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 279,
                 0
@@ -7352,7 +7352,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 281,
                 0
@@ -7376,7 +7376,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 282,
                 0
@@ -7442,7 +7442,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 284,
                 0
@@ -7485,7 +7485,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Fluctuating",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 286,
                 0
@@ -7527,7 +7527,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 288,
                 0
@@ -7550,7 +7550,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 289,
                 0
@@ -7591,7 +7591,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 291,
                 0
@@ -7655,7 +7655,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 294,
                 0
@@ -7679,7 +7679,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 295,
                 0
@@ -7720,7 +7720,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Fluctuating",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 297,
                 0
@@ -7762,7 +7762,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 183,
                 0
@@ -7785,7 +7785,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 476,
                 0
@@ -7809,7 +7809,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 301,
                 0
@@ -7927,7 +7927,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 305,
                 0
@@ -7951,7 +7951,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 306,
                 0
@@ -8012,7 +8012,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 308,
                 0
@@ -8073,7 +8073,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 310,
                 0
@@ -8203,7 +8203,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 407,
                 0
@@ -8227,7 +8227,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Fluctuating",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 317,
                 0
@@ -8269,7 +8269,7 @@ export default {
         "color": "RED",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 319,
                 0
@@ -8330,7 +8330,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Fluctuating",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 321,
                 0
@@ -8373,7 +8373,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 323,
                 0
@@ -8451,7 +8451,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 326,
                 0
@@ -8509,7 +8509,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 329,
                 0
@@ -8533,7 +8533,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 330,
                 0
@@ -8575,7 +8575,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 332,
                 0
@@ -8620,7 +8620,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 334,
                 0
@@ -8754,7 +8754,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 340,
                 0
@@ -8796,7 +8796,7 @@ export default {
         "color": "RED",
         "experience_group": "Fluctuating",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 342,
                 0
@@ -8839,7 +8839,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 344,
                 0
@@ -8881,7 +8881,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 346,
                 0
@@ -8923,7 +8923,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 348,
                 0
@@ -8965,7 +8965,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 350,
                 0
@@ -9042,7 +9042,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 354,
                 0
@@ -9100,7 +9100,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 356,
                 0
@@ -9123,7 +9123,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 477,
                 0
@@ -9218,7 +9218,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 202,
                 0
@@ -9242,7 +9242,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 362,
                 0
@@ -9308,7 +9308,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 364,
                 0
@@ -9333,7 +9333,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 365,
                 0
@@ -9375,7 +9375,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Erratic",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 367,
                 0
@@ -9473,7 +9473,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 372,
                 0
@@ -9496,7 +9496,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 373,
                 0
@@ -9557,7 +9557,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 375,
                 0
@@ -9581,7 +9581,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 3,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 376,
                 0
@@ -9984,7 +9984,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 388,
                 0
@@ -10008,7 +10008,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 389,
                 0
@@ -10051,7 +10051,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 391,
                 0
@@ -10076,7 +10076,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 392,
                 0
@@ -10119,7 +10119,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 394,
                 0
@@ -10143,7 +10143,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 395,
                 0
@@ -10187,7 +10187,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 397,
                 0
@@ -10212,7 +10212,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 398,
                 0
@@ -10256,7 +10256,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 400,
                 0
@@ -10300,7 +10300,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 402,
                 0
@@ -10342,7 +10342,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 404,
                 0
@@ -10366,7 +10366,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 405,
                 0
@@ -10409,7 +10409,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 315,
                 0
@@ -10452,7 +10452,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Erratic",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 409,
                 0
@@ -10493,7 +10493,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Erratic",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 411,
                 0
@@ -10535,7 +10535,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 413,
                 0
@@ -10564,7 +10564,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 413,
                 1
@@ -10593,7 +10593,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 413,
                 2
@@ -10698,7 +10698,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 416,
                 0
@@ -10760,7 +10760,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 419,
                 0
@@ -10803,7 +10803,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 421,
                 1
@@ -10847,7 +10847,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 423,
                 0
@@ -10873,7 +10873,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 423,
                 1
@@ -10956,7 +10956,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Fluctuating",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 426,
                 0
@@ -10998,7 +10998,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 428,
                 0
@@ -11094,7 +11094,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 432,
                 0
@@ -11135,7 +11135,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 358,
                 0
@@ -11159,7 +11159,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 435,
                 0
@@ -11201,7 +11201,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 437,
                 0
@@ -11243,7 +11243,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 185,
                 0
@@ -11268,7 +11268,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 122,
                 0
@@ -11296,7 +11296,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 113,
                 0
@@ -11358,7 +11358,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 444,
                 0
@@ -11384,7 +11384,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 445,
                 0
@@ -11448,7 +11448,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 143,
                 0
@@ -11472,7 +11472,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 448,
                 0
@@ -11535,7 +11535,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 450,
                 0
@@ -11578,7 +11578,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 452,
                 0
@@ -11622,7 +11622,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 454,
                 0
@@ -11682,7 +11682,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Erratic",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 457,
                 0
@@ -11725,7 +11725,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 226,
                 0
@@ -11751,7 +11751,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 4,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 460,
                 0
@@ -12340,8 +12340,8 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "WHITE",
         "is_legendary": true,
+        "color": "WHITE",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -12631,7 +12631,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 496,
                 0
@@ -12655,7 +12655,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 497,
                 0
@@ -12696,7 +12696,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 499,
                 0
@@ -12720,7 +12720,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 500,
                 0
@@ -12761,7 +12761,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 502,
                 0
@@ -12784,7 +12784,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 503,
                 0
@@ -12847,7 +12847,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 505,
                 0
@@ -12887,7 +12887,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 507,
                 0
@@ -12910,7 +12910,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 508,
                 0
@@ -12950,7 +12950,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 510,
                 0
@@ -12990,7 +12990,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 512,
                 0
@@ -13030,7 +13030,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 514,
                 0
@@ -13070,7 +13070,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 516,
                 0
@@ -13110,7 +13110,7 @@ export default {
         "color": "PINK",
         "experience_group": "Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 518,
                 0
@@ -13151,7 +13151,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 520,
                 0
@@ -13175,7 +13175,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 521,
                 0
@@ -13217,7 +13217,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 523,
                 0
@@ -13257,7 +13257,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 525,
                 0
@@ -13280,7 +13280,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 526,
                 0
@@ -13322,7 +13322,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 528,
                 0
@@ -13364,7 +13364,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 530,
                 0
@@ -13441,7 +13441,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 533,
                 0
@@ -13464,7 +13464,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 534,
                 0
@@ -13504,7 +13504,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 536,
                 0
@@ -13528,7 +13528,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 537,
                 0
@@ -13602,7 +13602,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 541,
                 0
@@ -13626,7 +13626,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 542,
                 0
@@ -13668,7 +13668,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 544,
                 0
@@ -13692,7 +13692,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 545,
                 0
@@ -13735,7 +13735,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 547,
                 0
@@ -13777,7 +13777,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 549,
                 0
@@ -13879,7 +13879,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 902,
                 0
@@ -13907,7 +13907,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 552,
                 0
@@ -13931,7 +13931,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 553,
                 0
@@ -13972,7 +13972,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 555,
                 0
@@ -13996,7 +13996,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 555,
                 2
@@ -14073,7 +14073,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 558,
                 0
@@ -14117,7 +14117,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 560,
                 0
@@ -14178,7 +14178,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 563,
                 0
@@ -14204,7 +14204,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 867,
                 0
@@ -14247,7 +14247,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 565,
                 0
@@ -14291,7 +14291,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 567,
                 0
@@ -14333,7 +14333,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 569,
                 0
@@ -14374,7 +14374,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 571,
                 0
@@ -14399,7 +14399,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 571,
                 1
@@ -14458,7 +14458,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 573,
                 0
@@ -14498,7 +14498,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 575,
                 0
@@ -14521,7 +14521,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 576,
                 0
@@ -14561,7 +14561,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 578,
                 0
@@ -14584,7 +14584,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 579,
                 0
@@ -14626,7 +14626,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 581,
                 0
@@ -14668,7 +14668,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 583,
                 0
@@ -14691,7 +14691,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 584,
                 0
@@ -14733,7 +14733,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 586,
                 0
@@ -14759,7 +14759,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 586,
                 1
@@ -14785,7 +14785,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 586,
                 2
@@ -14811,7 +14811,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 586,
                 3
@@ -14931,7 +14931,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 589,
                 0
@@ -14973,7 +14973,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 591,
                 0
@@ -15016,7 +15016,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 593,
                 0
@@ -15077,7 +15077,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 596,
                 0
@@ -15120,7 +15120,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 598,
                 0
@@ -15162,7 +15162,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 600,
                 0
@@ -15185,7 +15185,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 601,
                 0
@@ -15225,7 +15225,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 603,
                 0
@@ -15248,7 +15248,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 604,
                 0
@@ -15288,7 +15288,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 606,
                 0
@@ -15329,7 +15329,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 608,
                 0
@@ -15353,7 +15353,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 609,
                 0
@@ -15395,7 +15395,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 611,
                 0
@@ -15419,7 +15419,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 612,
                 0
@@ -15460,7 +15460,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 614,
                 0
@@ -15517,7 +15517,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 617,
                 0
@@ -15597,7 +15597,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 620,
                 0
@@ -15657,7 +15657,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 623,
                 0
@@ -15699,7 +15699,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 625,
                 0
@@ -15757,7 +15757,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 628,
                 0
@@ -15820,7 +15820,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 630,
                 0
@@ -15897,7 +15897,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 634,
                 0
@@ -15921,7 +15921,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 635,
                 0
@@ -15963,7 +15963,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 637,
                 0
@@ -16330,7 +16330,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 651,
                 0
@@ -16353,7 +16353,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 652,
                 0
@@ -16394,7 +16394,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 654,
                 0
@@ -16417,7 +16417,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 655,
                 0
@@ -16458,7 +16458,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 657,
                 0
@@ -16481,7 +16481,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 658,
                 0
@@ -16522,7 +16522,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 660,
                 0
@@ -16564,7 +16564,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 662,
                 0
@@ -16588,7 +16588,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 663,
                 0
@@ -16630,7 +16630,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 665,
                 6
@@ -16654,7 +16654,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 666,
                 6
@@ -16698,7 +16698,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 668,
                 0
@@ -16741,7 +16741,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 670,
                 0
@@ -16765,7 +16765,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 671,
                 0
@@ -16806,7 +16806,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 673,
                 0
@@ -16847,7 +16847,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 675,
                 0
@@ -16907,7 +16907,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 678,
                 0
@@ -16971,7 +16971,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 680,
                 0
@@ -16995,7 +16995,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 681,
                 1
@@ -17037,7 +17037,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 683,
                 0
@@ -17077,7 +17077,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 685,
                 0
@@ -17119,7 +17119,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 687,
                 0
@@ -17162,7 +17162,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 689,
                 0
@@ -17205,7 +17205,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 691,
                 0
@@ -17248,7 +17248,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 693,
                 0
@@ -17291,7 +17291,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 695,
                 0
@@ -17335,7 +17335,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 697,
                 0
@@ -17378,7 +17378,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 699,
                 0
@@ -17492,7 +17492,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 705,
                 0
@@ -17519,7 +17519,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 706,
                 0
@@ -17544,7 +17544,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 706,
                 1
@@ -17623,7 +17623,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 709,
                 0
@@ -17666,7 +17666,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 711,
                 0
@@ -17707,7 +17707,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 713,
                 0
@@ -17771,7 +17771,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 6,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 715,
                 0
@@ -17988,7 +17988,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 723,
                 0
@@ -18012,7 +18012,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 724,
                 0
@@ -18076,7 +18076,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 726,
                 0
@@ -18099,7 +18099,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 727,
                 0
@@ -18141,7 +18141,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 729,
                 0
@@ -18165,7 +18165,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 730,
                 0
@@ -18208,7 +18208,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 732,
                 0
@@ -18232,7 +18232,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 733,
                 0
@@ -18273,7 +18273,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 735,
                 0
@@ -18313,7 +18313,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 737,
                 0
@@ -18337,7 +18337,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 738,
                 0
@@ -18378,7 +18378,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 740,
                 0
@@ -18500,7 +18500,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 743,
                 0
@@ -18542,7 +18542,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 745,
                 0
@@ -18644,7 +18644,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 748,
                 0
@@ -18685,7 +18685,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 750,
                 0
@@ -18727,7 +18727,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 752,
                 0
@@ -18769,7 +18769,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 754,
                 0
@@ -18810,7 +18810,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 756,
                 0
@@ -18853,7 +18853,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 758,
                 0
@@ -18896,7 +18896,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 760,
                 0
@@ -18937,7 +18937,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 762,
                 0
@@ -18960,7 +18960,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 763,
                 0
@@ -19054,7 +19054,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 768,
                 0
@@ -19097,7 +19097,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 770,
                 0
@@ -19156,7 +19156,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 773,
                 0
@@ -19345,7 +19345,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 783,
                 0
@@ -19369,7 +19369,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 784,
                 0
@@ -19487,7 +19487,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 790,
                 0
@@ -19511,7 +19511,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 791,
                 0
@@ -19825,7 +19825,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 804,
                 0
@@ -19924,7 +19924,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 7,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 809,
                 0
@@ -19967,7 +19967,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 811,
                 0
@@ -19991,7 +19991,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 812,
                 0
@@ -20034,7 +20034,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 814,
                 0
@@ -20058,7 +20058,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 815,
                 0
@@ -20101,7 +20101,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 817,
                 0
@@ -20125,7 +20125,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 818,
                 0
@@ -20167,7 +20167,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 820,
                 0
@@ -20207,7 +20207,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 822,
                 0
@@ -20230,7 +20230,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 823,
                 0
@@ -20272,7 +20272,7 @@ export default {
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 825,
                 0
@@ -20296,7 +20296,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 826,
                 0
@@ -20338,7 +20338,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 828,
                 0
@@ -20378,7 +20378,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 830,
                 0
@@ -20418,7 +20418,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 832,
                 0
@@ -20459,7 +20459,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 834,
                 0
@@ -20502,7 +20502,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 836,
                 0
@@ -20542,7 +20542,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 838,
                 0
@@ -20566,7 +20566,7 @@ export default {
         "color": "BLACK",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 839,
                 0
@@ -20610,7 +20610,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Erratic",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 841,
                 0
@@ -20678,7 +20678,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 844,
                 0
@@ -20739,7 +20739,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 847,
                 0
@@ -20781,7 +20781,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 849,
                 0
@@ -20850,7 +20850,7 @@ export default {
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 851,
                 0
@@ -20893,7 +20893,7 @@ export default {
         "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 853,
                 0
@@ -20935,7 +20935,7 @@ export default {
         "color": "PURPLE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 855,
                 0
@@ -20976,7 +20976,7 @@ export default {
         "color": "PINK",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 857,
                 0
@@ -20999,7 +20999,7 @@ export default {
         "color": "PINK",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 858,
                 0
@@ -21042,7 +21042,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 860,
                 0
@@ -21066,7 +21066,7 @@ export default {
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 861,
                 0
@@ -21217,7 +21217,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 869,
                 0
@@ -21296,7 +21296,7 @@ export default {
         "color": "WHITE",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 873,
                 0
@@ -21430,7 +21430,7 @@ export default {
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 879,
                 0
@@ -21566,7 +21566,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 886,
                 0
@@ -21591,7 +21591,7 @@ export default {
         "color": "GREEN",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 887,
                 0
@@ -21733,7 +21733,7 @@ export default {
         "color": "GRAY",
         "experience_group": "Slow",
         "generation": 8,
-        "evolutions_ids": [
+        "evolution_ids": [
             [
                 892,
                 0
@@ -22080,8 +22080,8 @@ export default {
             "fd"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
         "is_sublegendary": true,
+        "color": "PINK",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22101,8 +22101,8 @@ export default {
             "fd"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
         "is_sublegendary": true,
+        "color": "PINK",
         "experience_group": "Slow",
         "generation": 8
     }
