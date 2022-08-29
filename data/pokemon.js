@@ -21377,7 +21377,7 @@ export default {
     "indeedee-female": {
         "base_id": 876,
         "form_id": 1,
-        "name": "Female Indeedee",
+        "name": "Indeedee",
         "form_name": "Female",
         "pokemon_type": [
             "PSYCHIC",
