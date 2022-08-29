@@ -1656,6 +1656,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 2,
+        "color": "BROWN",
         "experience_group": "Slow",
         "generation": 8,
         "evolutions_ids": [
@@ -1697,6 +1698,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 2,
+        "color": "BROWN",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -2892,6 +2894,7 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
+        "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolutions_ids": [
@@ -2933,6 +2936,7 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
+        "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -4414,6 +4418,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 1,
+        "color": "YELLOW",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -5633,6 +5638,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolutions_ids": [
@@ -5777,6 +5783,7 @@ export default {
             "md"
         ],
         "gender_ratio": 4,
+        "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolutions_ids": [
@@ -12333,6 +12340,7 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
+        "color": "WHITE",
         "is_legendary": true,
         "experience_group": "Slow",
         "generation": 8
@@ -12373,6 +12381,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -12818,6 +12827,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 1,
+        "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -13810,6 +13820,7 @@ export default {
             "fo"
         ],
         "gender_ratio": 8,
+        "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -13865,6 +13876,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolutions_ids": [
@@ -14384,6 +14396,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 1,
+        "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolutions_ids": [
@@ -14425,6 +14438,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 1,
+        "color": "GRAY",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -15785,6 +15799,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "color": "WHITE",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -17526,6 +17541,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 8,
         "evolutions_ids": [
@@ -17567,6 +17583,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "PURPLE",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -17733,6 +17750,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -18038,6 +18056,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 1,
+        "color": "BROWN",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21931,6 +21950,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "GRAY",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -21948,6 +21968,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21965,6 +21986,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21982,6 +22004,7 @@ export default {
         "gender": [
             "md"
         ],
+        "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22001,6 +22024,7 @@ export default {
             "fd"
         ],
         "gender_ratio": 8,
+        "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22018,6 +22042,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BLUE",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -22035,6 +22060,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "BLACK",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22053,6 +22079,7 @@ export default {
             "fd"
         ],
         "gender_ratio": 8,
+        "color": "PINK",
         "is_sublegendary": true,
         "experience_group": "Slow",
         "generation": 8
@@ -22073,6 +22100,7 @@ export default {
             "fd"
         ],
         "gender_ratio": 8,
+        "color": "PINK",
         "is_sublegendary": true,
         "experience_group": "Slow",
         "generation": 8
