@@ -1,4 +1,3 @@
-
 from typing import Callable, Iterator, TYPE_CHECKING
 
 from pokedb.core.typing import PokemonIndex, PokemonIndexOrSlug

@@ -2,8 +2,9 @@ __all__ = ["Pokemon"]
 
 import re
 from dataclasses import dataclass
-from enum import Enum
-from typing import Optional
+
+from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
+
 
 MEGA_PATTERN = re.compile(r"Mega (\w+)(?: X| Y)?")
 
@@ -15,30 +16,23 @@ class Pokemon:
     slug: str = None
     name: str = None
     form_name: str = None
-    pokemon_type: tuple = ()
-    egg_group: tuple = ()
-    gender: tuple = ()
+    pokemon_type: tuple[Type, Type] = ()
+    egg_group: tuple[EggGroup, EggGroup] = ()
+    gender: tuple[Gender] = ()
     gender_ratio: int = None
     has_gigantamax: bool = False
     is_sublegendary: bool = False
     is_legendary: bool = False
     is_mythical: bool = False
     is_baby: bool = False
-    color: int = None
-    experience_group: Enum = None
+    color: Color = None
+    experience_group: ExperienceGroup = None
     generation: int = None
-
-    def __post_init__(self) -> None:
-        self._evolutions: list["Pokemon"] = []
-        self._base_form: Optional["Pokemon"] = None
+    evolution_ids: tuple[tuple[int, int], ...] = ()
 
     @property
-    def base_form(self) -> Optional["Pokemon"]:
-        return self._base_form
-
-    @property
-    def evolutions(self) -> tuple["Pokemon", ...]:
-        return tuple(self._evolutions)
+    def base_form_index(self) -> tuple[int, int]:
+        return self.base_id, 0
 
     @property
     def index(self) -> tuple[int, int]:
