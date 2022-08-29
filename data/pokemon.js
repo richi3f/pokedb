@@ -1,6 +1,7 @@
 export default {
     "bulbasaur": {
         "base_id": 1,
+        "form_id": 0,
         "name": "Bulbasaur",
         "pokemon_type": [
             "GRASS",
@@ -26,6 +27,7 @@ export default {
     },
     "ivysaur": {
         "base_id": 2,
+        "form_id": 0,
         "name": "Ivysaur",
         "pokemon_type": [
             "GRASS",
@@ -51,6 +53,7 @@ export default {
     },
     "venusaur": {
         "base_id": 3,
+        "form_id": 0,
         "name": "Venusaur",
         "pokemon_type": [
             "GRASS",
@@ -92,6 +95,7 @@ export default {
     },
     "charmander": {
         "base_id": 4,
+        "form_id": 0,
         "name": "Charmander",
         "pokemon_type": [
             "FIRE"
@@ -116,6 +120,7 @@ export default {
     },
     "charmeleon": {
         "base_id": 5,
+        "form_id": 0,
         "name": "Charmeleon",
         "pokemon_type": [
             "FIRE"
@@ -140,6 +145,7 @@ export default {
     },
     "charizard": {
         "base_id": 6,
+        "form_id": 0,
         "name": "Charizard",
         "pokemon_type": [
             "FIRE",
@@ -200,6 +206,7 @@ export default {
     },
     "squirtle": {
         "base_id": 7,
+        "form_id": 0,
         "name": "Squirtle",
         "pokemon_type": [
             "WATER"
@@ -224,6 +231,7 @@ export default {
     },
     "wartortle": {
         "base_id": 8,
+        "form_id": 0,
         "name": "Wartortle",
         "pokemon_type": [
             "WATER"
@@ -248,6 +256,7 @@ export default {
     },
     "blastoise": {
         "base_id": 9,
+        "form_id": 0,
         "name": "Blastoise",
         "pokemon_type": [
             "WATER"
@@ -286,6 +295,7 @@ export default {
     },
     "caterpie": {
         "base_id": 10,
+        "form_id": 0,
         "name": "Caterpie",
         "pokemon_type": [
             "BUG"
@@ -309,6 +319,7 @@ export default {
     },
     "metapod": {
         "base_id": 11,
+        "form_id": 0,
         "name": "Metapod",
         "pokemon_type": [
             "BUG"
@@ -332,6 +343,7 @@ export default {
     },
     "butterfree": {
         "base_id": 12,
+        "form_id": 0,
         "name": "Butterfree",
         "pokemon_type": [
             "BUG",
@@ -352,6 +364,7 @@ export default {
     },
     "weedle": {
         "base_id": 13,
+        "form_id": 0,
         "name": "Weedle",
         "pokemon_type": [
             "BUG",
@@ -376,6 +389,7 @@ export default {
     },
     "kakuna": {
         "base_id": 14,
+        "form_id": 0,
         "name": "Kakuna",
         "pokemon_type": [
             "BUG",
@@ -400,6 +414,7 @@ export default {
     },
     "beedrill": {
         "base_id": 15,
+        "form_id": 0,
         "name": "Beedrill",
         "pokemon_type": [
             "BUG",
@@ -437,6 +452,7 @@ export default {
     },
     "pidgey": {
         "base_id": 16,
+        "form_id": 0,
         "name": "Pidgey",
         "pokemon_type": [
             "NORMAL",
@@ -461,6 +477,7 @@ export default {
     },
     "pidgeotto": {
         "base_id": 17,
+        "form_id": 0,
         "name": "Pidgeotto",
         "pokemon_type": [
             "NORMAL",
@@ -485,6 +502,7 @@ export default {
     },
     "pidgeot": {
         "base_id": 18,
+        "form_id": 0,
         "name": "Pidgeot",
         "pokemon_type": [
             "NORMAL",
@@ -522,6 +540,7 @@ export default {
     },
     "rattata": {
         "base_id": 19,
+        "form_id": 0,
         "name": "Rattata",
         "pokemon_type": [
             "NORMAL"
@@ -571,6 +590,7 @@ export default {
     },
     "raticate": {
         "base_id": 20,
+        "form_id": 0,
         "name": "Raticate",
         "pokemon_type": [
             "NORMAL"
@@ -608,6 +628,7 @@ export default {
     },
     "spearow": {
         "base_id": 21,
+        "form_id": 0,
         "name": "Spearow",
         "pokemon_type": [
             "NORMAL",
@@ -632,6 +653,7 @@ export default {
     },
     "fearow": {
         "base_id": 22,
+        "form_id": 0,
         "name": "Fearow",
         "pokemon_type": [
             "NORMAL",
@@ -650,6 +672,7 @@ export default {
     },
     "ekans": {
         "base_id": 23,
+        "form_id": 0,
         "name": "Ekans",
         "pokemon_type": [
             "POISON"
@@ -674,6 +697,7 @@ export default {
     },
     "arbok": {
         "base_id": 24,
+        "form_id": 0,
         "name": "Arbok",
         "pokemon_type": [
             "POISON"
@@ -692,6 +716,7 @@ export default {
     },
     "pikachu": {
         "base_id": 25,
+        "form_id": 0,
         "name": "Pikachu",
         "pokemon_type": [
             "ELECTRIC"
@@ -722,6 +747,7 @@ export default {
     },
     "raichu": {
         "base_id": 26,
+        "form_id": 0,
         "name": "Raichu",
         "pokemon_type": [
             "ELECTRIC"
@@ -761,6 +787,7 @@ export default {
     },
     "sandshrew": {
         "base_id": 27,
+        "form_id": 0,
         "name": "Sandshrew",
         "pokemon_type": [
             "GROUND"
@@ -809,6 +836,7 @@ export default {
     },
     "sandslash": {
         "base_id": 28,
+        "form_id": 0,
         "name": "Sandslash",
         "pokemon_type": [
             "GROUND"
@@ -845,6 +873,7 @@ export default {
     },
     "nidoran-f": {
         "base_id": 29,
+        "form_id": 0,
         "name": "Nidoran\u00e2\u2122\u20ac",
         "pokemon_type": [
             "POISON"
@@ -869,6 +898,7 @@ export default {
     },
     "nidorina": {
         "base_id": 30,
+        "form_id": 0,
         "name": "Nidorina",
         "pokemon_type": [
             "POISON"
@@ -892,6 +922,7 @@ export default {
     },
     "nidoqueen": {
         "base_id": 31,
+        "form_id": 0,
         "name": "Nidoqueen",
         "pokemon_type": [
             "POISON",
@@ -910,6 +941,7 @@ export default {
     },
     "nidoran-m": {
         "base_id": 32,
+        "form_id": 0,
         "name": "Nidoran\u00e2\u2122\u201a",
         "pokemon_type": [
             "POISON"
@@ -921,6 +953,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
@@ -933,6 +966,7 @@ export default {
     },
     "nidorino": {
         "base_id": 33,
+        "form_id": 0,
         "name": "Nidorino",
         "pokemon_type": [
             "POISON"
@@ -944,6 +978,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1,
@@ -956,6 +991,7 @@ export default {
     },
     "nidoking": {
         "base_id": 34,
+        "form_id": 0,
         "name": "Nidoking",
         "pokemon_type": [
             "POISON",
@@ -968,12 +1004,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PURPLE",
         "experience_group": "Medium Slow",
         "generation": 1
     },
     "clefairy": {
         "base_id": 35,
+        "form_id": 0,
         "name": "Clefairy",
         "pokemon_type": [
             "FAIRY"
@@ -997,6 +1035,7 @@ export default {
     },
     "clefable": {
         "base_id": 36,
+        "form_id": 0,
         "name": "Clefable",
         "pokemon_type": [
             "FAIRY"
@@ -1014,6 +1053,7 @@ export default {
     },
     "vulpix": {
         "base_id": 37,
+        "form_id": 0,
         "name": "Vulpix",
         "pokemon_type": [
             "FIRE"
@@ -1061,6 +1101,7 @@ export default {
     },
     "ninetales": {
         "base_id": 38,
+        "form_id": 0,
         "name": "Ninetales",
         "pokemon_type": [
             "FIRE"
@@ -1097,6 +1138,7 @@ export default {
     },
     "jigglypuff": {
         "base_id": 39,
+        "form_id": 0,
         "name": "Jigglypuff",
         "pokemon_type": [
             "NORMAL",
@@ -1121,6 +1163,7 @@ export default {
     },
     "wigglytuff": {
         "base_id": 40,
+        "form_id": 0,
         "name": "Wigglytuff",
         "pokemon_type": [
             "NORMAL",
@@ -1139,6 +1182,7 @@ export default {
     },
     "zubat": {
         "base_id": 41,
+        "form_id": 0,
         "name": "Zubat",
         "pokemon_type": [
             "POISON",
@@ -1164,6 +1208,7 @@ export default {
     },
     "golbat": {
         "base_id": 42,
+        "form_id": 0,
         "name": "Golbat",
         "pokemon_type": [
             "POISON",
@@ -1189,6 +1234,7 @@ export default {
     },
     "oddish": {
         "base_id": 43,
+        "form_id": 0,
         "name": "Oddish",
         "pokemon_type": [
             "GRASS",
@@ -1213,6 +1259,7 @@ export default {
     },
     "gloom": {
         "base_id": 44,
+        "form_id": 0,
         "name": "Gloom",
         "pokemon_type": [
             "GRASS",
@@ -1242,6 +1289,7 @@ export default {
     },
     "vileplume": {
         "base_id": 45,
+        "form_id": 0,
         "name": "Vileplume",
         "pokemon_type": [
             "GRASS",
@@ -1261,6 +1309,7 @@ export default {
     },
     "paras": {
         "base_id": 46,
+        "form_id": 0,
         "name": "Paras",
         "pokemon_type": [
             "BUG",
@@ -1286,6 +1335,7 @@ export default {
     },
     "parasect": {
         "base_id": 47,
+        "form_id": 0,
         "name": "Parasect",
         "pokemon_type": [
             "BUG",
@@ -1305,6 +1355,7 @@ export default {
     },
     "venonat": {
         "base_id": 48,
+        "form_id": 0,
         "name": "Venonat",
         "pokemon_type": [
             "BUG",
@@ -1329,6 +1380,7 @@ export default {
     },
     "venomoth": {
         "base_id": 49,
+        "form_id": 0,
         "name": "Venomoth",
         "pokemon_type": [
             "BUG",
@@ -1347,6 +1399,7 @@ export default {
     },
     "diglett": {
         "base_id": 50,
+        "form_id": 0,
         "name": "Diglett",
         "pokemon_type": [
             "GROUND"
@@ -1395,6 +1448,7 @@ export default {
     },
     "dugtrio": {
         "base_id": 51,
+        "form_id": 0,
         "name": "Dugtrio",
         "pokemon_type": [
             "GROUND"
@@ -1431,6 +1485,7 @@ export default {
     },
     "meowth": {
         "base_id": 52,
+        "form_id": 0,
         "name": "Meowth",
         "pokemon_type": [
             "NORMAL"
@@ -1503,6 +1558,7 @@ export default {
     },
     "persian": {
         "base_id": 53,
+        "form_id": 0,
         "name": "Persian",
         "pokemon_type": [
             "NORMAL"
@@ -1538,6 +1594,7 @@ export default {
     },
     "psyduck": {
         "base_id": 54,
+        "form_id": 0,
         "name": "Psyduck",
         "pokemon_type": [
             "WATER"
@@ -1562,6 +1619,7 @@ export default {
     },
     "golduck": {
         "base_id": 55,
+        "form_id": 0,
         "name": "Golduck",
         "pokemon_type": [
             "WATER"
@@ -1580,6 +1638,7 @@ export default {
     },
     "mankey": {
         "base_id": 56,
+        "form_id": 0,
         "name": "Mankey",
         "pokemon_type": [
             "FIGHTING"
@@ -1603,6 +1662,7 @@ export default {
     },
     "primeape": {
         "base_id": 57,
+        "form_id": 0,
         "name": "Primeape",
         "pokemon_type": [
             "FIGHTING"
@@ -1620,6 +1680,7 @@ export default {
     },
     "growlithe": {
         "base_id": 58,
+        "form_id": 0,
         "name": "Growlithe",
         "pokemon_type": [
             "FIRE"
@@ -1668,6 +1729,7 @@ export default {
     },
     "arcanine": {
         "base_id": 59,
+        "form_id": 0,
         "name": "Arcanine",
         "pokemon_type": [
             "FIRE"
@@ -1704,6 +1766,7 @@ export default {
     },
     "poliwag": {
         "base_id": 60,
+        "form_id": 0,
         "name": "Poliwag",
         "pokemon_type": [
             "WATER"
@@ -1727,6 +1790,7 @@ export default {
     },
     "poliwhirl": {
         "base_id": 61,
+        "form_id": 0,
         "name": "Poliwhirl",
         "pokemon_type": [
             "WATER"
@@ -1754,6 +1818,7 @@ export default {
     },
     "poliwrath": {
         "base_id": 62,
+        "form_id": 0,
         "name": "Poliwrath",
         "pokemon_type": [
             "WATER",
@@ -1772,6 +1837,7 @@ export default {
     },
     "abra": {
         "base_id": 63,
+        "form_id": 0,
         "name": "Abra",
         "pokemon_type": [
             "PSYCHIC"
@@ -1795,6 +1861,7 @@ export default {
     },
     "kadabra": {
         "base_id": 64,
+        "form_id": 0,
         "name": "Kadabra",
         "pokemon_type": [
             "PSYCHIC"
@@ -1819,6 +1886,7 @@ export default {
     },
     "alakazam": {
         "base_id": 65,
+        "form_id": 0,
         "name": "Alakazam",
         "pokemon_type": [
             "PSYCHIC"
@@ -1855,6 +1923,7 @@ export default {
     },
     "machop": {
         "base_id": 66,
+        "form_id": 0,
         "name": "Machop",
         "pokemon_type": [
             "FIGHTING"
@@ -1878,6 +1947,7 @@ export default {
     },
     "machoke": {
         "base_id": 67,
+        "form_id": 0,
         "name": "Machoke",
         "pokemon_type": [
             "FIGHTING"
@@ -1901,6 +1971,7 @@ export default {
     },
     "machamp": {
         "base_id": 68,
+        "form_id": 0,
         "name": "Machamp",
         "pokemon_type": [
             "FIGHTING"
@@ -1919,6 +1990,7 @@ export default {
     },
     "bellsprout": {
         "base_id": 69,
+        "form_id": 0,
         "name": "Bellsprout",
         "pokemon_type": [
             "GRASS",
@@ -1943,6 +2015,7 @@ export default {
     },
     "weepinbell": {
         "base_id": 70,
+        "form_id": 0,
         "name": "Weepinbell",
         "pokemon_type": [
             "GRASS",
@@ -1967,6 +2040,7 @@ export default {
     },
     "victreebel": {
         "base_id": 71,
+        "form_id": 0,
         "name": "Victreebel",
         "pokemon_type": [
             "GRASS",
@@ -1985,6 +2059,7 @@ export default {
     },
     "tentacool": {
         "base_id": 72,
+        "form_id": 0,
         "name": "Tentacool",
         "pokemon_type": [
             "WATER",
@@ -2009,6 +2084,7 @@ export default {
     },
     "tentacruel": {
         "base_id": 73,
+        "form_id": 0,
         "name": "Tentacruel",
         "pokemon_type": [
             "WATER",
@@ -2027,6 +2103,7 @@ export default {
     },
     "geodude": {
         "base_id": 74,
+        "form_id": 0,
         "name": "Geodude",
         "pokemon_type": [
             "ROCK",
@@ -2076,6 +2153,7 @@ export default {
     },
     "graveler": {
         "base_id": 75,
+        "form_id": 0,
         "name": "Graveler",
         "pokemon_type": [
             "ROCK",
@@ -2125,6 +2203,7 @@ export default {
     },
     "golem": {
         "base_id": 76,
+        "form_id": 0,
         "name": "Golem",
         "pokemon_type": [
             "ROCK",
@@ -2162,6 +2241,7 @@ export default {
     },
     "ponyta": {
         "base_id": 77,
+        "form_id": 0,
         "name": "Ponyta",
         "pokemon_type": [
             "FIRE"
@@ -2209,6 +2289,7 @@ export default {
     },
     "rapidash": {
         "base_id": 78,
+        "form_id": 0,
         "name": "Rapidash",
         "pokemon_type": [
             "FIRE"
@@ -2245,6 +2326,7 @@ export default {
     },
     "slowpoke": {
         "base_id": 79,
+        "form_id": 0,
         "name": "Slowpoke",
         "pokemon_type": [
             "WATER",
@@ -2303,6 +2385,7 @@ export default {
     },
     "slowbro": {
         "base_id": 80,
+        "form_id": 0,
         "name": "Slowbro",
         "pokemon_type": [
             "WATER",
@@ -2362,6 +2445,7 @@ export default {
     },
     "magnemite": {
         "base_id": 81,
+        "form_id": 0,
         "name": "Magnemite",
         "pokemon_type": [
             "ELECTRIC",
@@ -2386,6 +2470,7 @@ export default {
     },
     "magneton": {
         "base_id": 82,
+        "form_id": 0,
         "name": "Magneton",
         "pokemon_type": [
             "ELECTRIC",
@@ -2410,6 +2495,7 @@ export default {
     },
     "farfetchd": {
         "base_id": 83,
+        "form_id": 0,
         "name": "Farfetch'd",
         "pokemon_type": [
             "NORMAL",
@@ -2454,6 +2540,7 @@ export default {
     },
     "doduo": {
         "base_id": 84,
+        "form_id": 0,
         "name": "Doduo",
         "pokemon_type": [
             "NORMAL",
@@ -2479,6 +2566,7 @@ export default {
     },
     "dodrio": {
         "base_id": 85,
+        "form_id": 0,
         "name": "Dodrio",
         "pokemon_type": [
             "NORMAL",
@@ -2498,6 +2586,7 @@ export default {
     },
     "seel": {
         "base_id": 86,
+        "form_id": 0,
         "name": "Seel",
         "pokemon_type": [
             "WATER"
@@ -2522,6 +2611,7 @@ export default {
     },
     "dewgong": {
         "base_id": 87,
+        "form_id": 0,
         "name": "Dewgong",
         "pokemon_type": [
             "WATER",
@@ -2541,6 +2631,7 @@ export default {
     },
     "grimer": {
         "base_id": 88,
+        "form_id": 0,
         "name": "Grimer",
         "pokemon_type": [
             "POISON"
@@ -2589,6 +2680,7 @@ export default {
     },
     "muk": {
         "base_id": 89,
+        "form_id": 0,
         "name": "Muk",
         "pokemon_type": [
             "POISON"
@@ -2625,6 +2717,7 @@ export default {
     },
     "shellder": {
         "base_id": 90,
+        "form_id": 0,
         "name": "Shellder",
         "pokemon_type": [
             "WATER"
@@ -2648,6 +2741,7 @@ export default {
     },
     "cloyster": {
         "base_id": 91,
+        "form_id": 0,
         "name": "Cloyster",
         "pokemon_type": [
             "WATER",
@@ -2666,6 +2760,7 @@ export default {
     },
     "gastly": {
         "base_id": 92,
+        "form_id": 0,
         "name": "Gastly",
         "pokemon_type": [
             "GHOST",
@@ -2690,6 +2785,7 @@ export default {
     },
     "haunter": {
         "base_id": 93,
+        "form_id": 0,
         "name": "Haunter",
         "pokemon_type": [
             "GHOST",
@@ -2714,6 +2810,7 @@ export default {
     },
     "gengar": {
         "base_id": 94,
+        "form_id": 0,
         "name": "Gengar",
         "pokemon_type": [
             "GHOST",
@@ -2752,6 +2849,7 @@ export default {
     },
     "onix": {
         "base_id": 95,
+        "form_id": 0,
         "name": "Onix",
         "pokemon_type": [
             "ROCK",
@@ -2776,6 +2874,7 @@ export default {
     },
     "drowzee": {
         "base_id": 96,
+        "form_id": 0,
         "name": "Drowzee",
         "pokemon_type": [
             "PSYCHIC"
@@ -2799,6 +2898,7 @@ export default {
     },
     "hypno": {
         "base_id": 97,
+        "form_id": 0,
         "name": "Hypno",
         "pokemon_type": [
             "PSYCHIC"
@@ -2817,6 +2917,7 @@ export default {
     },
     "krabby": {
         "base_id": 98,
+        "form_id": 0,
         "name": "Krabby",
         "pokemon_type": [
             "WATER"
@@ -2840,6 +2941,7 @@ export default {
     },
     "kingler": {
         "base_id": 99,
+        "form_id": 0,
         "name": "Kingler",
         "pokemon_type": [
             "WATER"
@@ -2858,6 +2960,7 @@ export default {
     },
     "voltorb": {
         "base_id": 100,
+        "form_id": 0,
         "name": "Voltorb",
         "pokemon_type": [
             "ELECTRIC"
@@ -2906,6 +3009,7 @@ export default {
     },
     "electrode": {
         "base_id": 101,
+        "form_id": 0,
         "name": "Electrode",
         "pokemon_type": [
             "ELECTRIC"
@@ -2942,6 +3046,7 @@ export default {
     },
     "exeggcute": {
         "base_id": 102,
+        "form_id": 0,
         "name": "Exeggcute",
         "pokemon_type": [
             "GRASS",
@@ -2970,6 +3075,7 @@ export default {
     },
     "exeggutor": {
         "base_id": 103,
+        "form_id": 0,
         "name": "Exeggutor",
         "pokemon_type": [
             "GRASS",
@@ -3007,6 +3113,7 @@ export default {
     },
     "cubone": {
         "base_id": 104,
+        "form_id": 0,
         "name": "Cubone",
         "pokemon_type": [
             "GROUND"
@@ -3034,6 +3141,7 @@ export default {
     },
     "marowak": {
         "base_id": 105,
+        "form_id": 0,
         "name": "Marowak",
         "pokemon_type": [
             "GROUND"
@@ -3070,6 +3178,7 @@ export default {
     },
     "hitmonlee": {
         "base_id": 106,
+        "form_id": 0,
         "name": "Hitmonlee",
         "pokemon_type": [
             "FIGHTING"
@@ -3080,12 +3189,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1
     },
     "hitmonchan": {
         "base_id": 107,
+        "form_id": 0,
         "name": "Hitmonchan",
         "pokemon_type": [
             "FIGHTING"
@@ -3096,12 +3207,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 1
     },
     "lickitung": {
         "base_id": 108,
+        "form_id": 0,
         "name": "Lickitung",
         "pokemon_type": [
             "NORMAL"
@@ -3125,6 +3238,7 @@ export default {
     },
     "koffing": {
         "base_id": 109,
+        "form_id": 0,
         "name": "Koffing",
         "pokemon_type": [
             "POISON"
@@ -3152,6 +3266,7 @@ export default {
     },
     "weezing": {
         "base_id": 110,
+        "form_id": 0,
         "name": "Weezing",
         "pokemon_type": [
             "POISON"
@@ -3188,6 +3303,7 @@ export default {
     },
     "rhyhorn": {
         "base_id": 111,
+        "form_id": 0,
         "name": "Rhyhorn",
         "pokemon_type": [
             "GROUND",
@@ -3214,6 +3330,7 @@ export default {
     },
     "rhydon": {
         "base_id": 112,
+        "form_id": 0,
         "name": "Rhydon",
         "pokemon_type": [
             "GROUND",
@@ -3240,6 +3357,7 @@ export default {
     },
     "chansey": {
         "base_id": 113,
+        "form_id": 0,
         "name": "Chansey",
         "pokemon_type": [
             "NORMAL"
@@ -3263,6 +3381,7 @@ export default {
     },
     "tangela": {
         "base_id": 114,
+        "form_id": 0,
         "name": "Tangela",
         "pokemon_type": [
             "GRASS"
@@ -3286,6 +3405,7 @@ export default {
     },
     "kangaskhan": {
         "base_id": 115,
+        "form_id": 0,
         "name": "Kangaskhan",
         "pokemon_type": [
             "NORMAL"
@@ -3321,6 +3441,7 @@ export default {
     },
     "horsea": {
         "base_id": 116,
+        "form_id": 0,
         "name": "Horsea",
         "pokemon_type": [
             "WATER"
@@ -3345,6 +3466,7 @@ export default {
     },
     "seadra": {
         "base_id": 117,
+        "form_id": 0,
         "name": "Seadra",
         "pokemon_type": [
             "WATER"
@@ -3369,6 +3491,7 @@ export default {
     },
     "goldeen": {
         "base_id": 118,
+        "form_id": 0,
         "name": "Goldeen",
         "pokemon_type": [
             "WATER"
@@ -3393,6 +3516,7 @@ export default {
     },
     "seaking": {
         "base_id": 119,
+        "form_id": 0,
         "name": "Seaking",
         "pokemon_type": [
             "WATER"
@@ -3411,6 +3535,7 @@ export default {
     },
     "staryu": {
         "base_id": 120,
+        "form_id": 0,
         "name": "Staryu",
         "pokemon_type": [
             "WATER"
@@ -3434,6 +3559,7 @@ export default {
     },
     "starmie": {
         "base_id": 121,
+        "form_id": 0,
         "name": "Starmie",
         "pokemon_type": [
             "WATER",
@@ -3452,6 +3578,7 @@ export default {
     },
     "mr-mime": {
         "base_id": 122,
+        "form_id": 0,
         "name": "Mr. Mime",
         "pokemon_type": [
             "PSYCHIC",
@@ -3495,6 +3622,7 @@ export default {
     },
     "scyther": {
         "base_id": 123,
+        "form_id": 0,
         "name": "Scyther",
         "pokemon_type": [
             "BUG",
@@ -3524,6 +3652,7 @@ export default {
     },
     "jynx": {
         "base_id": 124,
+        "form_id": 0,
         "name": "Jynx",
         "pokemon_type": [
             "ICE",
@@ -3542,6 +3671,7 @@ export default {
     },
     "electabuzz": {
         "base_id": 125,
+        "form_id": 0,
         "name": "Electabuzz",
         "pokemon_type": [
             "ELECTRIC"
@@ -3565,6 +3695,7 @@ export default {
     },
     "magmar": {
         "base_id": 126,
+        "form_id": 0,
         "name": "Magmar",
         "pokemon_type": [
             "FIRE"
@@ -3588,6 +3719,7 @@ export default {
     },
     "pinsir": {
         "base_id": 127,
+        "form_id": 0,
         "name": "Pinsir",
         "pokemon_type": [
             "BUG"
@@ -3624,6 +3756,7 @@ export default {
     },
     "tauros": {
         "base_id": 128,
+        "form_id": 0,
         "name": "Tauros",
         "pokemon_type": [
             "NORMAL"
@@ -3634,12 +3767,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BROWN",
         "experience_group": "Slow",
         "generation": 1
     },
     "magikarp": {
         "base_id": 129,
+        "form_id": 0,
         "name": "Magikarp",
         "pokemon_type": [
             "WATER"
@@ -3665,6 +3800,7 @@ export default {
     },
     "gyarados": {
         "base_id": 130,
+        "form_id": 0,
         "name": "Gyarados",
         "pokemon_type": [
             "WATER",
@@ -3705,6 +3841,7 @@ export default {
     },
     "lapras": {
         "base_id": 131,
+        "form_id": 0,
         "name": "Lapras",
         "pokemon_type": [
             "WATER",
@@ -3725,6 +3862,7 @@ export default {
     },
     "ditto": {
         "base_id": 132,
+        "form_id": 0,
         "name": "Ditto",
         "pokemon_type": [
             "NORMAL"
@@ -3742,6 +3880,7 @@ export default {
     },
     "eevee": {
         "base_id": 133,
+        "form_id": 0,
         "name": "Eevee",
         "pokemon_type": [
             "NORMAL"
@@ -3795,6 +3934,7 @@ export default {
     },
     "vaporeon": {
         "base_id": 134,
+        "form_id": 0,
         "name": "Vaporeon",
         "pokemon_type": [
             "WATER"
@@ -3812,6 +3952,7 @@ export default {
     },
     "jolteon": {
         "base_id": 135,
+        "form_id": 0,
         "name": "Jolteon",
         "pokemon_type": [
             "ELECTRIC"
@@ -3829,6 +3970,7 @@ export default {
     },
     "flareon": {
         "base_id": 136,
+        "form_id": 0,
         "name": "Flareon",
         "pokemon_type": [
             "FIRE"
@@ -3846,6 +3988,7 @@ export default {
     },
     "porygon": {
         "base_id": 137,
+        "form_id": 0,
         "name": "Porygon",
         "pokemon_type": [
             "NORMAL"
@@ -3869,6 +4012,7 @@ export default {
     },
     "omanyte": {
         "base_id": 138,
+        "form_id": 0,
         "name": "Omanyte",
         "pokemon_type": [
             "ROCK",
@@ -3894,6 +4038,7 @@ export default {
     },
     "omastar": {
         "base_id": 139,
+        "form_id": 0,
         "name": "Omastar",
         "pokemon_type": [
             "ROCK",
@@ -3913,6 +4058,7 @@ export default {
     },
     "kabuto": {
         "base_id": 140,
+        "form_id": 0,
         "name": "Kabuto",
         "pokemon_type": [
             "ROCK",
@@ -3938,6 +4084,7 @@ export default {
     },
     "kabutops": {
         "base_id": 141,
+        "form_id": 0,
         "name": "Kabutops",
         "pokemon_type": [
             "ROCK",
@@ -3957,6 +4104,7 @@ export default {
     },
     "aerodactyl": {
         "base_id": 142,
+        "form_id": 0,
         "name": "Aerodactyl",
         "pokemon_type": [
             "ROCK",
@@ -3994,6 +4142,7 @@ export default {
     },
     "snorlax": {
         "base_id": 143,
+        "form_id": 0,
         "name": "Snorlax",
         "pokemon_type": [
             "NORMAL"
@@ -4012,6 +4161,7 @@ export default {
     },
     "articuno": {
         "base_id": 144,
+        "form_id": 0,
         "name": "Articuno",
         "pokemon_type": [
             "ICE",
@@ -4051,6 +4201,7 @@ export default {
     },
     "zapdos": {
         "base_id": 145,
+        "form_id": 0,
         "name": "Zapdos",
         "pokemon_type": [
             "ELECTRIC",
@@ -4090,6 +4241,7 @@ export default {
     },
     "moltres": {
         "base_id": 146,
+        "form_id": 0,
         "name": "Moltres",
         "pokemon_type": [
             "FIRE",
@@ -4129,6 +4281,7 @@ export default {
     },
     "dratini": {
         "base_id": 147,
+        "form_id": 0,
         "name": "Dratini",
         "pokemon_type": [
             "DRAGON"
@@ -4153,6 +4306,7 @@ export default {
     },
     "dragonair": {
         "base_id": 148,
+        "form_id": 0,
         "name": "Dragonair",
         "pokemon_type": [
             "DRAGON"
@@ -4177,6 +4331,7 @@ export default {
     },
     "dragonite": {
         "base_id": 149,
+        "form_id": 0,
         "name": "Dragonite",
         "pokemon_type": [
             "DRAGON",
@@ -4196,6 +4351,7 @@ export default {
     },
     "mewtwo": {
         "base_id": 150,
+        "form_id": 0,
         "name": "Mewtwo",
         "pokemon_type": [
             "PSYCHIC"
@@ -4253,6 +4409,7 @@ export default {
     },
     "mew": {
         "base_id": 151,
+        "form_id": 0,
         "name": "Mew",
         "pokemon_type": [
             "PSYCHIC"
@@ -4271,6 +4428,7 @@ export default {
     },
     "chikorita": {
         "base_id": 152,
+        "form_id": 0,
         "name": "Chikorita",
         "pokemon_type": [
             "GRASS"
@@ -4295,6 +4453,7 @@ export default {
     },
     "bayleef": {
         "base_id": 153,
+        "form_id": 0,
         "name": "Bayleef",
         "pokemon_type": [
             "GRASS"
@@ -4319,6 +4478,7 @@ export default {
     },
     "meganium": {
         "base_id": 154,
+        "form_id": 0,
         "name": "Meganium",
         "pokemon_type": [
             "GRASS"
@@ -4338,6 +4498,7 @@ export default {
     },
     "cyndaquil": {
         "base_id": 155,
+        "form_id": 0,
         "name": "Cyndaquil",
         "pokemon_type": [
             "FIRE"
@@ -4361,6 +4522,7 @@ export default {
     },
     "quilava": {
         "base_id": 156,
+        "form_id": 0,
         "name": "Quilava",
         "pokemon_type": [
             "FIRE"
@@ -4388,6 +4550,7 @@ export default {
     },
     "typhlosion": {
         "base_id": 157,
+        "form_id": 0,
         "name": "Typhlosion",
         "pokemon_type": [
             "FIRE"
@@ -4424,6 +4587,7 @@ export default {
     },
     "totodile": {
         "base_id": 158,
+        "form_id": 0,
         "name": "Totodile",
         "pokemon_type": [
             "WATER"
@@ -4448,6 +4612,7 @@ export default {
     },
     "croconaw": {
         "base_id": 159,
+        "form_id": 0,
         "name": "Croconaw",
         "pokemon_type": [
             "WATER"
@@ -4472,6 +4637,7 @@ export default {
     },
     "feraligatr": {
         "base_id": 160,
+        "form_id": 0,
         "name": "Feraligatr",
         "pokemon_type": [
             "WATER"
@@ -4490,6 +4656,7 @@ export default {
     },
     "sentret": {
         "base_id": 161,
+        "form_id": 0,
         "name": "Sentret",
         "pokemon_type": [
             "NORMAL"
@@ -4513,6 +4680,7 @@ export default {
     },
     "furret": {
         "base_id": 162,
+        "form_id": 0,
         "name": "Furret",
         "pokemon_type": [
             "NORMAL"
@@ -4530,6 +4698,7 @@ export default {
     },
     "hoothoot": {
         "base_id": 163,
+        "form_id": 0,
         "name": "Hoothoot",
         "pokemon_type": [
             "NORMAL",
@@ -4554,6 +4723,7 @@ export default {
     },
     "noctowl": {
         "base_id": 164,
+        "form_id": 0,
         "name": "Noctowl",
         "pokemon_type": [
             "NORMAL",
@@ -4572,6 +4742,7 @@ export default {
     },
     "ledyba": {
         "base_id": 165,
+        "form_id": 0,
         "name": "Ledyba",
         "pokemon_type": [
             "BUG",
@@ -4597,6 +4768,7 @@ export default {
     },
     "ledian": {
         "base_id": 166,
+        "form_id": 0,
         "name": "Ledian",
         "pokemon_type": [
             "BUG",
@@ -4616,6 +4788,7 @@ export default {
     },
     "spinarak": {
         "base_id": 167,
+        "form_id": 0,
         "name": "Spinarak",
         "pokemon_type": [
             "BUG",
@@ -4640,6 +4813,7 @@ export default {
     },
     "ariados": {
         "base_id": 168,
+        "form_id": 0,
         "name": "Ariados",
         "pokemon_type": [
             "BUG",
@@ -4658,6 +4832,7 @@ export default {
     },
     "crobat": {
         "base_id": 169,
+        "form_id": 0,
         "name": "Crobat",
         "pokemon_type": [
             "POISON",
@@ -4676,6 +4851,7 @@ export default {
     },
     "chinchou": {
         "base_id": 170,
+        "form_id": 0,
         "name": "Chinchou",
         "pokemon_type": [
             "WATER",
@@ -4700,6 +4876,7 @@ export default {
     },
     "lanturn": {
         "base_id": 171,
+        "form_id": 0,
         "name": "Lanturn",
         "pokemon_type": [
             "WATER",
@@ -4718,6 +4895,7 @@ export default {
     },
     "pichu": {
         "base_id": 172,
+        "form_id": 0,
         "name": "Pichu",
         "pokemon_type": [
             "ELECTRIC"
@@ -4742,6 +4920,7 @@ export default {
     },
     "cleffa": {
         "base_id": 173,
+        "form_id": 0,
         "name": "Cleffa",
         "pokemon_type": [
             "FAIRY"
@@ -4766,6 +4945,7 @@ export default {
     },
     "igglybuff": {
         "base_id": 174,
+        "form_id": 0,
         "name": "Igglybuff",
         "pokemon_type": [
             "NORMAL",
@@ -4791,6 +4971,7 @@ export default {
     },
     "togepi": {
         "base_id": 175,
+        "form_id": 0,
         "name": "Togepi",
         "pokemon_type": [
             "FAIRY"
@@ -4815,6 +4996,7 @@ export default {
     },
     "togetic": {
         "base_id": 176,
+        "form_id": 0,
         "name": "Togetic",
         "pokemon_type": [
             "FAIRY",
@@ -4840,6 +5022,7 @@ export default {
     },
     "natu": {
         "base_id": 177,
+        "form_id": 0,
         "name": "Natu",
         "pokemon_type": [
             "PSYCHIC",
@@ -4864,6 +5047,7 @@ export default {
     },
     "xatu": {
         "base_id": 178,
+        "form_id": 0,
         "name": "Xatu",
         "pokemon_type": [
             "PSYCHIC",
@@ -4883,6 +5067,7 @@ export default {
     },
     "mareep": {
         "base_id": 179,
+        "form_id": 0,
         "name": "Mareep",
         "pokemon_type": [
             "ELECTRIC"
@@ -4907,6 +5092,7 @@ export default {
     },
     "flaaffy": {
         "base_id": 180,
+        "form_id": 0,
         "name": "Flaaffy",
         "pokemon_type": [
             "ELECTRIC"
@@ -4931,6 +5117,7 @@ export default {
     },
     "ampharos": {
         "base_id": 181,
+        "form_id": 0,
         "name": "Ampharos",
         "pokemon_type": [
             "ELECTRIC"
@@ -4969,6 +5156,7 @@ export default {
     },
     "bellossom": {
         "base_id": 182,
+        "form_id": 0,
         "name": "Bellossom",
         "pokemon_type": [
             "GRASS"
@@ -4986,6 +5174,7 @@ export default {
     },
     "marill": {
         "base_id": 183,
+        "form_id": 0,
         "name": "Marill",
         "pokemon_type": [
             "WATER",
@@ -5011,6 +5200,7 @@ export default {
     },
     "azumarill": {
         "base_id": 184,
+        "form_id": 0,
         "name": "Azumarill",
         "pokemon_type": [
             "WATER",
@@ -5030,6 +5220,7 @@ export default {
     },
     "sudowoodo": {
         "base_id": 185,
+        "form_id": 0,
         "name": "Sudowoodo",
         "pokemon_type": [
             "ROCK"
@@ -5048,6 +5239,7 @@ export default {
     },
     "politoed": {
         "base_id": 186,
+        "form_id": 0,
         "name": "Politoed",
         "pokemon_type": [
             "WATER"
@@ -5066,6 +5258,7 @@ export default {
     },
     "hoppip": {
         "base_id": 187,
+        "form_id": 0,
         "name": "Hoppip",
         "pokemon_type": [
             "GRASS",
@@ -5091,6 +5284,7 @@ export default {
     },
     "skiploom": {
         "base_id": 188,
+        "form_id": 0,
         "name": "Skiploom",
         "pokemon_type": [
             "GRASS",
@@ -5116,6 +5310,7 @@ export default {
     },
     "jumpluff": {
         "base_id": 189,
+        "form_id": 0,
         "name": "Jumpluff",
         "pokemon_type": [
             "GRASS",
@@ -5135,6 +5330,7 @@ export default {
     },
     "aipom": {
         "base_id": 190,
+        "form_id": 0,
         "name": "Aipom",
         "pokemon_type": [
             "NORMAL"
@@ -5159,6 +5355,7 @@ export default {
     },
     "sunkern": {
         "base_id": 191,
+        "form_id": 0,
         "name": "Sunkern",
         "pokemon_type": [
             "GRASS"
@@ -5182,6 +5379,7 @@ export default {
     },
     "sunflora": {
         "base_id": 192,
+        "form_id": 0,
         "name": "Sunflora",
         "pokemon_type": [
             "GRASS"
@@ -5199,6 +5397,7 @@ export default {
     },
     "yanma": {
         "base_id": 193,
+        "form_id": 0,
         "name": "Yanma",
         "pokemon_type": [
             "BUG",
@@ -5223,6 +5422,7 @@ export default {
     },
     "wooper": {
         "base_id": 194,
+        "form_id": 0,
         "name": "Wooper",
         "pokemon_type": [
             "WATER",
@@ -5249,6 +5449,7 @@ export default {
     },
     "quagsire": {
         "base_id": 195,
+        "form_id": 0,
         "name": "Quagsire",
         "pokemon_type": [
             "WATER",
@@ -5269,6 +5470,7 @@ export default {
     },
     "espeon": {
         "base_id": 196,
+        "form_id": 0,
         "name": "Espeon",
         "pokemon_type": [
             "PSYCHIC"
@@ -5286,6 +5488,7 @@ export default {
     },
     "umbreon": {
         "base_id": 197,
+        "form_id": 0,
         "name": "Umbreon",
         "pokemon_type": [
             "DARK"
@@ -5303,6 +5506,7 @@ export default {
     },
     "murkrow": {
         "base_id": 198,
+        "form_id": 0,
         "name": "Murkrow",
         "pokemon_type": [
             "DARK",
@@ -5328,6 +5532,7 @@ export default {
     },
     "slowking": {
         "base_id": 199,
+        "form_id": 0,
         "name": "Slowking",
         "pokemon_type": [
             "WATER",
@@ -5367,6 +5572,7 @@ export default {
     },
     "misdreavus": {
         "base_id": 200,
+        "form_id": 0,
         "name": "Misdreavus",
         "pokemon_type": [
             "GHOST"
@@ -5390,6 +5596,7 @@ export default {
     },
     "unown": {
         "base_id": 201,
+        "form_id": 0,
         "name": "Unown",
         "pokemon_type": [
             "PSYCHIC"
@@ -5407,6 +5614,7 @@ export default {
     },
     "wobbuffet": {
         "base_id": 202,
+        "form_id": 0,
         "name": "Wobbuffet",
         "pokemon_type": [
             "PSYCHIC"
@@ -5425,6 +5633,7 @@ export default {
     },
     "girafarig": {
         "base_id": 203,
+        "form_id": 0,
         "name": "Girafarig",
         "pokemon_type": [
             "NORMAL",
@@ -5444,6 +5653,7 @@ export default {
     },
     "pineco": {
         "base_id": 204,
+        "form_id": 0,
         "name": "Pineco",
         "pokemon_type": [
             "BUG"
@@ -5467,6 +5677,7 @@ export default {
     },
     "forretress": {
         "base_id": 205,
+        "form_id": 0,
         "name": "Forretress",
         "pokemon_type": [
             "BUG",
@@ -5485,6 +5696,7 @@ export default {
     },
     "dunsparce": {
         "base_id": 206,
+        "form_id": 0,
         "name": "Dunsparce",
         "pokemon_type": [
             "NORMAL"
@@ -5502,6 +5714,7 @@ export default {
     },
     "gligar": {
         "base_id": 207,
+        "form_id": 0,
         "name": "Gligar",
         "pokemon_type": [
             "GROUND",
@@ -5527,6 +5740,7 @@ export default {
     },
     "steelix": {
         "base_id": 208,
+        "form_id": 0,
         "name": "Steelix",
         "pokemon_type": [
             "STEEL",
@@ -5565,6 +5779,7 @@ export default {
     },
     "snubbull": {
         "base_id": 209,
+        "form_id": 0,
         "name": "Snubbull",
         "pokemon_type": [
             "FAIRY"
@@ -5589,6 +5804,7 @@ export default {
     },
     "granbull": {
         "base_id": 210,
+        "form_id": 0,
         "name": "Granbull",
         "pokemon_type": [
             "FAIRY"
@@ -5607,6 +5823,7 @@ export default {
     },
     "qwilfish": {
         "base_id": 211,
+        "form_id": 0,
         "name": "Qwilfish",
         "pokemon_type": [
             "WATER",
@@ -5650,6 +5867,7 @@ export default {
     },
     "scizor": {
         "base_id": 212,
+        "form_id": 0,
         "name": "Scizor",
         "pokemon_type": [
             "BUG",
@@ -5688,6 +5906,7 @@ export default {
     },
     "shuckle": {
         "base_id": 213,
+        "form_id": 0,
         "name": "Shuckle",
         "pokemon_type": [
             "BUG",
@@ -5706,6 +5925,7 @@ export default {
     },
     "heracross": {
         "base_id": 214,
+        "form_id": 0,
         "name": "Heracross",
         "pokemon_type": [
             "BUG",
@@ -5744,6 +5964,7 @@ export default {
     },
     "sneasel": {
         "base_id": 215,
+        "form_id": 0,
         "name": "Sneasel",
         "pokemon_type": [
             "DARK",
@@ -5795,6 +6016,7 @@ export default {
     },
     "teddiursa": {
         "base_id": 216,
+        "form_id": 0,
         "name": "Teddiursa",
         "pokemon_type": [
             "NORMAL"
@@ -5818,6 +6040,7 @@ export default {
     },
     "ursaring": {
         "base_id": 217,
+        "form_id": 0,
         "name": "Ursaring",
         "pokemon_type": [
             "NORMAL"
@@ -5842,6 +6065,7 @@ export default {
     },
     "slugma": {
         "base_id": 218,
+        "form_id": 0,
         "name": "Slugma",
         "pokemon_type": [
             "FIRE"
@@ -5865,6 +6089,7 @@ export default {
     },
     "magcargo": {
         "base_id": 219,
+        "form_id": 0,
         "name": "Magcargo",
         "pokemon_type": [
             "FIRE",
@@ -5883,6 +6108,7 @@ export default {
     },
     "swinub": {
         "base_id": 220,
+        "form_id": 0,
         "name": "Swinub",
         "pokemon_type": [
             "ICE",
@@ -5907,6 +6133,7 @@ export default {
     },
     "piloswine": {
         "base_id": 221,
+        "form_id": 0,
         "name": "Piloswine",
         "pokemon_type": [
             "ICE",
@@ -5932,6 +6159,7 @@ export default {
     },
     "corsola": {
         "base_id": 222,
+        "form_id": 0,
         "name": "Corsola",
         "pokemon_type": [
             "WATER",
@@ -5976,6 +6204,7 @@ export default {
     },
     "remoraid": {
         "base_id": 223,
+        "form_id": 0,
         "name": "Remoraid",
         "pokemon_type": [
             "WATER"
@@ -6000,6 +6229,7 @@ export default {
     },
     "octillery": {
         "base_id": 224,
+        "form_id": 0,
         "name": "Octillery",
         "pokemon_type": [
             "WATER"
@@ -6019,6 +6249,7 @@ export default {
     },
     "delibird": {
         "base_id": 225,
+        "form_id": 0,
         "name": "Delibird",
         "pokemon_type": [
             "ICE",
@@ -6038,6 +6269,7 @@ export default {
     },
     "mantine": {
         "base_id": 226,
+        "form_id": 0,
         "name": "Mantine",
         "pokemon_type": [
             "WATER",
@@ -6056,6 +6288,7 @@ export default {
     },
     "skarmory": {
         "base_id": 227,
+        "form_id": 0,
         "name": "Skarmory",
         "pokemon_type": [
             "STEEL",
@@ -6074,6 +6307,7 @@ export default {
     },
     "houndour": {
         "base_id": 228,
+        "form_id": 0,
         "name": "Houndour",
         "pokemon_type": [
             "DARK",
@@ -6098,6 +6332,7 @@ export default {
     },
     "houndoom": {
         "base_id": 229,
+        "form_id": 0,
         "name": "Houndoom",
         "pokemon_type": [
             "DARK",
@@ -6136,6 +6371,7 @@ export default {
     },
     "kingdra": {
         "base_id": 230,
+        "form_id": 0,
         "name": "Kingdra",
         "pokemon_type": [
             "WATER",
@@ -6155,6 +6391,7 @@ export default {
     },
     "phanpy": {
         "base_id": 231,
+        "form_id": 0,
         "name": "Phanpy",
         "pokemon_type": [
             "GROUND"
@@ -6178,6 +6415,7 @@ export default {
     },
     "donphan": {
         "base_id": 232,
+        "form_id": 0,
         "name": "Donphan",
         "pokemon_type": [
             "GROUND"
@@ -6196,6 +6434,7 @@ export default {
     },
     "porygon2": {
         "base_id": 233,
+        "form_id": 0,
         "name": "Porygon2",
         "pokemon_type": [
             "NORMAL"
@@ -6219,6 +6458,7 @@ export default {
     },
     "stantler": {
         "base_id": 234,
+        "form_id": 0,
         "name": "Stantler",
         "pokemon_type": [
             "NORMAL"
@@ -6242,6 +6482,7 @@ export default {
     },
     "smeargle": {
         "base_id": 235,
+        "form_id": 0,
         "name": "Smeargle",
         "pokemon_type": [
             "NORMAL"
@@ -6259,6 +6500,7 @@ export default {
     },
     "tyrogue": {
         "base_id": 236,
+        "form_id": 0,
         "name": "Tyrogue",
         "pokemon_type": [
             "FIGHTING"
@@ -6269,6 +6511,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_baby": true,
         "color": "PURPLE",
         "experience_group": "Medium Fast",
@@ -6290,6 +6533,7 @@ export default {
     },
     "hitmontop": {
         "base_id": 237,
+        "form_id": 0,
         "name": "Hitmontop",
         "pokemon_type": [
             "FIGHTING"
@@ -6300,12 +6544,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BROWN",
         "experience_group": "Medium Fast",
         "generation": 2
     },
     "smoochum": {
         "base_id": 238,
+        "form_id": 0,
         "name": "Smoochum",
         "pokemon_type": [
             "ICE",
@@ -6331,6 +6577,7 @@ export default {
     },
     "elekid": {
         "base_id": 239,
+        "form_id": 0,
         "name": "Elekid",
         "pokemon_type": [
             "ELECTRIC"
@@ -6355,6 +6602,7 @@ export default {
     },
     "magby": {
         "base_id": 240,
+        "form_id": 0,
         "name": "Magby",
         "pokemon_type": [
             "FIRE"
@@ -6379,6 +6627,7 @@ export default {
     },
     "miltank": {
         "base_id": 241,
+        "form_id": 0,
         "name": "Miltank",
         "pokemon_type": [
             "NORMAL"
@@ -6396,6 +6645,7 @@ export default {
     },
     "blissey": {
         "base_id": 242,
+        "form_id": 0,
         "name": "Blissey",
         "pokemon_type": [
             "NORMAL"
@@ -6413,6 +6663,7 @@ export default {
     },
     "raikou": {
         "base_id": 243,
+        "form_id": 0,
         "name": "Raikou",
         "pokemon_type": [
             "ELECTRIC"
@@ -6431,6 +6682,7 @@ export default {
     },
     "entei": {
         "base_id": 244,
+        "form_id": 0,
         "name": "Entei",
         "pokemon_type": [
             "FIRE"
@@ -6449,6 +6701,7 @@ export default {
     },
     "suicune": {
         "base_id": 245,
+        "form_id": 0,
         "name": "Suicune",
         "pokemon_type": [
             "WATER"
@@ -6467,6 +6720,7 @@ export default {
     },
     "larvitar": {
         "base_id": 246,
+        "form_id": 0,
         "name": "Larvitar",
         "pokemon_type": [
             "ROCK",
@@ -6491,6 +6745,7 @@ export default {
     },
     "pupitar": {
         "base_id": 247,
+        "form_id": 0,
         "name": "Pupitar",
         "pokemon_type": [
             "ROCK",
@@ -6515,6 +6770,7 @@ export default {
     },
     "tyranitar": {
         "base_id": 248,
+        "form_id": 0,
         "name": "Tyranitar",
         "pokemon_type": [
             "ROCK",
@@ -6552,6 +6808,7 @@ export default {
     },
     "lugia": {
         "base_id": 249,
+        "form_id": 0,
         "name": "Lugia",
         "pokemon_type": [
             "PSYCHIC",
@@ -6571,6 +6828,7 @@ export default {
     },
     "ho-oh": {
         "base_id": 250,
+        "form_id": 0,
         "name": "Ho-Oh",
         "pokemon_type": [
             "FIRE",
@@ -6590,6 +6848,7 @@ export default {
     },
     "celebi": {
         "base_id": 251,
+        "form_id": 0,
         "name": "Celebi",
         "pokemon_type": [
             "PSYCHIC",
@@ -6609,6 +6868,7 @@ export default {
     },
     "treecko": {
         "base_id": 252,
+        "form_id": 0,
         "name": "Treecko",
         "pokemon_type": [
             "GRASS"
@@ -6633,6 +6893,7 @@ export default {
     },
     "grovyle": {
         "base_id": 253,
+        "form_id": 0,
         "name": "Grovyle",
         "pokemon_type": [
             "GRASS"
@@ -6657,6 +6918,7 @@ export default {
     },
     "sceptile": {
         "base_id": 254,
+        "form_id": 0,
         "name": "Sceptile",
         "pokemon_type": [
             "GRASS"
@@ -6695,6 +6957,7 @@ export default {
     },
     "torchic": {
         "base_id": 255,
+        "form_id": 0,
         "name": "Torchic",
         "pokemon_type": [
             "FIRE"
@@ -6719,6 +6982,7 @@ export default {
     },
     "combusken": {
         "base_id": 256,
+        "form_id": 0,
         "name": "Combusken",
         "pokemon_type": [
             "FIRE",
@@ -6744,6 +7008,7 @@ export default {
     },
     "blaziken": {
         "base_id": 257,
+        "form_id": 0,
         "name": "Blaziken",
         "pokemon_type": [
             "FIRE",
@@ -6782,6 +7047,7 @@ export default {
     },
     "mudkip": {
         "base_id": 258,
+        "form_id": 0,
         "name": "Mudkip",
         "pokemon_type": [
             "WATER"
@@ -6806,6 +7072,7 @@ export default {
     },
     "marshtomp": {
         "base_id": 259,
+        "form_id": 0,
         "name": "Marshtomp",
         "pokemon_type": [
             "WATER",
@@ -6831,6 +7098,7 @@ export default {
     },
     "swampert": {
         "base_id": 260,
+        "form_id": 0,
         "name": "Swampert",
         "pokemon_type": [
             "WATER",
@@ -6870,6 +7138,7 @@ export default {
     },
     "poochyena": {
         "base_id": 261,
+        "form_id": 0,
         "name": "Poochyena",
         "pokemon_type": [
             "DARK"
@@ -6893,6 +7162,7 @@ export default {
     },
     "mightyena": {
         "base_id": 262,
+        "form_id": 0,
         "name": "Mightyena",
         "pokemon_type": [
             "DARK"
@@ -6910,6 +7180,7 @@ export default {
     },
     "zigzagoon": {
         "base_id": 263,
+        "form_id": 0,
         "name": "Zigzagoon",
         "pokemon_type": [
             "NORMAL"
@@ -6958,6 +7229,7 @@ export default {
     },
     "linoone": {
         "base_id": 264,
+        "form_id": 0,
         "name": "Linoone",
         "pokemon_type": [
             "NORMAL"
@@ -7000,6 +7272,7 @@ export default {
     },
     "wurmple": {
         "base_id": 265,
+        "form_id": 0,
         "name": "Wurmple",
         "pokemon_type": [
             "BUG"
@@ -7027,6 +7300,7 @@ export default {
     },
     "silcoon": {
         "base_id": 266,
+        "form_id": 0,
         "name": "Silcoon",
         "pokemon_type": [
             "BUG"
@@ -7050,6 +7324,7 @@ export default {
     },
     "beautifly": {
         "base_id": 267,
+        "form_id": 0,
         "name": "Beautifly",
         "pokemon_type": [
             "BUG",
@@ -7069,6 +7344,7 @@ export default {
     },
     "cascoon": {
         "base_id": 268,
+        "form_id": 0,
         "name": "Cascoon",
         "pokemon_type": [
             "BUG"
@@ -7092,6 +7368,7 @@ export default {
     },
     "dustox": {
         "base_id": 269,
+        "form_id": 0,
         "name": "Dustox",
         "pokemon_type": [
             "BUG",
@@ -7111,6 +7388,7 @@ export default {
     },
     "lotad": {
         "base_id": 270,
+        "form_id": 0,
         "name": "Lotad",
         "pokemon_type": [
             "WATER",
@@ -7136,6 +7414,7 @@ export default {
     },
     "lombre": {
         "base_id": 271,
+        "form_id": 0,
         "name": "Lombre",
         "pokemon_type": [
             "WATER",
@@ -7161,6 +7440,7 @@ export default {
     },
     "ludicolo": {
         "base_id": 272,
+        "form_id": 0,
         "name": "Ludicolo",
         "pokemon_type": [
             "WATER",
@@ -7181,6 +7461,7 @@ export default {
     },
     "seedot": {
         "base_id": 273,
+        "form_id": 0,
         "name": "Seedot",
         "pokemon_type": [
             "GRASS"
@@ -7205,6 +7486,7 @@ export default {
     },
     "nuzleaf": {
         "base_id": 274,
+        "form_id": 0,
         "name": "Nuzleaf",
         "pokemon_type": [
             "GRASS",
@@ -7231,6 +7513,7 @@ export default {
     },
     "shiftry": {
         "base_id": 275,
+        "form_id": 0,
         "name": "Shiftry",
         "pokemon_type": [
             "GRASS",
@@ -7251,6 +7534,7 @@ export default {
     },
     "taillow": {
         "base_id": 276,
+        "form_id": 0,
         "name": "Taillow",
         "pokemon_type": [
             "NORMAL",
@@ -7275,6 +7559,7 @@ export default {
     },
     "swellow": {
         "base_id": 277,
+        "form_id": 0,
         "name": "Swellow",
         "pokemon_type": [
             "NORMAL",
@@ -7293,6 +7578,7 @@ export default {
     },
     "wingull": {
         "base_id": 278,
+        "form_id": 0,
         "name": "Wingull",
         "pokemon_type": [
             "WATER",
@@ -7318,6 +7604,7 @@ export default {
     },
     "pelipper": {
         "base_id": 279,
+        "form_id": 0,
         "name": "Pelipper",
         "pokemon_type": [
             "WATER",
@@ -7337,6 +7624,7 @@ export default {
     },
     "ralts": {
         "base_id": 280,
+        "form_id": 0,
         "name": "Ralts",
         "pokemon_type": [
             "PSYCHIC",
@@ -7361,6 +7649,7 @@ export default {
     },
     "kirlia": {
         "base_id": 281,
+        "form_id": 0,
         "name": "Kirlia",
         "pokemon_type": [
             "PSYCHIC",
@@ -7389,6 +7678,7 @@ export default {
     },
     "gardevoir": {
         "base_id": 282,
+        "form_id": 0,
         "name": "Gardevoir",
         "pokemon_type": [
             "PSYCHIC",
@@ -7426,6 +7716,7 @@ export default {
     },
     "surskit": {
         "base_id": 283,
+        "form_id": 0,
         "name": "Surskit",
         "pokemon_type": [
             "BUG",
@@ -7451,6 +7742,7 @@ export default {
     },
     "masquerain": {
         "base_id": 284,
+        "form_id": 0,
         "name": "Masquerain",
         "pokemon_type": [
             "BUG",
@@ -7470,6 +7762,7 @@ export default {
     },
     "shroomish": {
         "base_id": 285,
+        "form_id": 0,
         "name": "Shroomish",
         "pokemon_type": [
             "GRASS"
@@ -7494,6 +7787,7 @@ export default {
     },
     "breloom": {
         "base_id": 286,
+        "form_id": 0,
         "name": "Breloom",
         "pokemon_type": [
             "GRASS",
@@ -7513,6 +7807,7 @@ export default {
     },
     "slakoth": {
         "base_id": 287,
+        "form_id": 0,
         "name": "Slakoth",
         "pokemon_type": [
             "NORMAL"
@@ -7536,6 +7831,7 @@ export default {
     },
     "vigoroth": {
         "base_id": 288,
+        "form_id": 0,
         "name": "Vigoroth",
         "pokemon_type": [
             "NORMAL"
@@ -7559,6 +7855,7 @@ export default {
     },
     "slaking": {
         "base_id": 289,
+        "form_id": 0,
         "name": "Slaking",
         "pokemon_type": [
             "NORMAL"
@@ -7576,6 +7873,7 @@ export default {
     },
     "nincada": {
         "base_id": 290,
+        "form_id": 0,
         "name": "Nincada",
         "pokemon_type": [
             "BUG",
@@ -7604,6 +7902,7 @@ export default {
     },
     "ninjask": {
         "base_id": 291,
+        "form_id": 0,
         "name": "Ninjask",
         "pokemon_type": [
             "BUG",
@@ -7622,6 +7921,7 @@ export default {
     },
     "shedinja": {
         "base_id": 292,
+        "form_id": 0,
         "name": "Shedinja",
         "pokemon_type": [
             "BUG",
@@ -7640,6 +7940,7 @@ export default {
     },
     "whismur": {
         "base_id": 293,
+        "form_id": 0,
         "name": "Whismur",
         "pokemon_type": [
             "NORMAL"
@@ -7664,6 +7965,7 @@ export default {
     },
     "loudred": {
         "base_id": 294,
+        "form_id": 0,
         "name": "Loudred",
         "pokemon_type": [
             "NORMAL"
@@ -7688,6 +7990,7 @@ export default {
     },
     "exploud": {
         "base_id": 295,
+        "form_id": 0,
         "name": "Exploud",
         "pokemon_type": [
             "NORMAL"
@@ -7706,6 +8009,7 @@ export default {
     },
     "makuhita": {
         "base_id": 296,
+        "form_id": 0,
         "name": "Makuhita",
         "pokemon_type": [
             "FIGHTING"
@@ -7729,6 +8033,7 @@ export default {
     },
     "hariyama": {
         "base_id": 297,
+        "form_id": 0,
         "name": "Hariyama",
         "pokemon_type": [
             "FIGHTING"
@@ -7746,6 +8051,7 @@ export default {
     },
     "azurill": {
         "base_id": 298,
+        "form_id": 0,
         "name": "Azurill",
         "pokemon_type": [
             "NORMAL",
@@ -7771,6 +8077,7 @@ export default {
     },
     "nosepass": {
         "base_id": 299,
+        "form_id": 0,
         "name": "Nosepass",
         "pokemon_type": [
             "ROCK"
@@ -7794,6 +8101,7 @@ export default {
     },
     "skitty": {
         "base_id": 300,
+        "form_id": 0,
         "name": "Skitty",
         "pokemon_type": [
             "NORMAL"
@@ -7818,6 +8126,7 @@ export default {
     },
     "delcatty": {
         "base_id": 301,
+        "form_id": 0,
         "name": "Delcatty",
         "pokemon_type": [
             "NORMAL"
@@ -7836,6 +8145,7 @@ export default {
     },
     "sableye": {
         "base_id": 302,
+        "form_id": 0,
         "name": "Sableye",
         "pokemon_type": [
             "DARK",
@@ -7873,6 +8183,7 @@ export default {
     },
     "mawile": {
         "base_id": 303,
+        "form_id": 0,
         "name": "Mawile",
         "pokemon_type": [
             "STEEL",
@@ -7912,6 +8223,7 @@ export default {
     },
     "aron": {
         "base_id": 304,
+        "form_id": 0,
         "name": "Aron",
         "pokemon_type": [
             "STEEL",
@@ -7936,6 +8248,7 @@ export default {
     },
     "lairon": {
         "base_id": 305,
+        "form_id": 0,
         "name": "Lairon",
         "pokemon_type": [
             "STEEL",
@@ -7960,6 +8273,7 @@ export default {
     },
     "aggron": {
         "base_id": 306,
+        "form_id": 0,
         "name": "Aggron",
         "pokemon_type": [
             "STEEL",
@@ -7996,6 +8310,7 @@ export default {
     },
     "meditite": {
         "base_id": 307,
+        "form_id": 0,
         "name": "Meditite",
         "pokemon_type": [
             "FIGHTING",
@@ -8021,6 +8336,7 @@ export default {
     },
     "medicham": {
         "base_id": 308,
+        "form_id": 0,
         "name": "Medicham",
         "pokemon_type": [
             "FIGHTING",
@@ -8059,6 +8375,7 @@ export default {
     },
     "electrike": {
         "base_id": 309,
+        "form_id": 0,
         "name": "Electrike",
         "pokemon_type": [
             "ELECTRIC"
@@ -8082,6 +8399,7 @@ export default {
     },
     "manectric": {
         "base_id": 310,
+        "form_id": 0,
         "name": "Manectric",
         "pokemon_type": [
             "ELECTRIC"
@@ -8117,6 +8435,7 @@ export default {
     },
     "plusle": {
         "base_id": 311,
+        "form_id": 0,
         "name": "Plusle",
         "pokemon_type": [
             "ELECTRIC"
@@ -8134,6 +8453,7 @@ export default {
     },
     "minun": {
         "base_id": 312,
+        "form_id": 0,
         "name": "Minun",
         "pokemon_type": [
             "ELECTRIC"
@@ -8151,6 +8471,7 @@ export default {
     },
     "volbeat": {
         "base_id": 313,
+        "form_id": 0,
         "name": "Volbeat",
         "pokemon_type": [
             "BUG"
@@ -8162,12 +8483,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "GRAY",
         "experience_group": "Erratic",
         "generation": 3
     },
     "illumise": {
         "base_id": 314,
+        "form_id": 0,
         "name": "Illumise",
         "pokemon_type": [
             "BUG"
@@ -8186,6 +8509,7 @@ export default {
     },
     "roselia": {
         "base_id": 315,
+        "form_id": 0,
         "name": "Roselia",
         "pokemon_type": [
             "GRASS",
@@ -8212,6 +8536,7 @@ export default {
     },
     "gulpin": {
         "base_id": 316,
+        "form_id": 0,
         "name": "Gulpin",
         "pokemon_type": [
             "POISON"
@@ -8236,6 +8561,7 @@ export default {
     },
     "swalot": {
         "base_id": 317,
+        "form_id": 0,
         "name": "Swalot",
         "pokemon_type": [
             "POISON"
@@ -8254,6 +8580,7 @@ export default {
     },
     "carvanha": {
         "base_id": 318,
+        "form_id": 0,
         "name": "Carvanha",
         "pokemon_type": [
             "WATER",
@@ -8278,6 +8605,7 @@ export default {
     },
     "sharpedo": {
         "base_id": 319,
+        "form_id": 0,
         "name": "Sharpedo",
         "pokemon_type": [
             "WATER",
@@ -8315,6 +8643,7 @@ export default {
     },
     "wailmer": {
         "base_id": 320,
+        "form_id": 0,
         "name": "Wailmer",
         "pokemon_type": [
             "WATER"
@@ -8339,6 +8668,7 @@ export default {
     },
     "wailord": {
         "base_id": 321,
+        "form_id": 0,
         "name": "Wailord",
         "pokemon_type": [
             "WATER"
@@ -8357,6 +8687,7 @@ export default {
     },
     "numel": {
         "base_id": 322,
+        "form_id": 0,
         "name": "Numel",
         "pokemon_type": [
             "FIRE",
@@ -8382,6 +8713,7 @@ export default {
     },
     "camerupt": {
         "base_id": 323,
+        "form_id": 0,
         "name": "Camerupt",
         "pokemon_type": [
             "FIRE",
@@ -8420,6 +8752,7 @@ export default {
     },
     "torkoal": {
         "base_id": 324,
+        "form_id": 0,
         "name": "Torkoal",
         "pokemon_type": [
             "FIRE"
@@ -8437,6 +8770,7 @@ export default {
     },
     "spoink": {
         "base_id": 325,
+        "form_id": 0,
         "name": "Spoink",
         "pokemon_type": [
             "PSYCHIC"
@@ -8460,6 +8794,7 @@ export default {
     },
     "grumpig": {
         "base_id": 326,
+        "form_id": 0,
         "name": "Grumpig",
         "pokemon_type": [
             "PSYCHIC"
@@ -8477,6 +8812,7 @@ export default {
     },
     "spinda": {
         "base_id": 327,
+        "form_id": 0,
         "name": "Spinda",
         "pokemon_type": [
             "NORMAL"
@@ -8495,6 +8831,7 @@ export default {
     },
     "trapinch": {
         "base_id": 328,
+        "form_id": 0,
         "name": "Trapinch",
         "pokemon_type": [
             "GROUND"
@@ -8518,6 +8855,7 @@ export default {
     },
     "vibrava": {
         "base_id": 329,
+        "form_id": 0,
         "name": "Vibrava",
         "pokemon_type": [
             "GROUND",
@@ -8542,6 +8880,7 @@ export default {
     },
     "flygon": {
         "base_id": 330,
+        "form_id": 0,
         "name": "Flygon",
         "pokemon_type": [
             "GROUND",
@@ -8560,6 +8899,7 @@ export default {
     },
     "cacnea": {
         "base_id": 331,
+        "form_id": 0,
         "name": "Cacnea",
         "pokemon_type": [
             "GRASS"
@@ -8584,6 +8924,7 @@ export default {
     },
     "cacturne": {
         "base_id": 332,
+        "form_id": 0,
         "name": "Cacturne",
         "pokemon_type": [
             "GRASS",
@@ -8604,6 +8945,7 @@ export default {
     },
     "swablu": {
         "base_id": 333,
+        "form_id": 0,
         "name": "Swablu",
         "pokemon_type": [
             "NORMAL",
@@ -8629,6 +8971,7 @@ export default {
     },
     "altaria": {
         "base_id": 334,
+        "form_id": 0,
         "name": "Altaria",
         "pokemon_type": [
             "DRAGON",
@@ -8668,6 +9011,7 @@ export default {
     },
     "zangoose": {
         "base_id": 335,
+        "form_id": 0,
         "name": "Zangoose",
         "pokemon_type": [
             "NORMAL"
@@ -8685,6 +9029,7 @@ export default {
     },
     "seviper": {
         "base_id": 336,
+        "form_id": 0,
         "name": "Seviper",
         "pokemon_type": [
             "POISON"
@@ -8703,6 +9048,7 @@ export default {
     },
     "lunatone": {
         "base_id": 337,
+        "form_id": 0,
         "name": "Lunatone",
         "pokemon_type": [
             "ROCK",
@@ -8721,6 +9067,7 @@ export default {
     },
     "solrock": {
         "base_id": 338,
+        "form_id": 0,
         "name": "Solrock",
         "pokemon_type": [
             "ROCK",
@@ -8739,6 +9086,7 @@ export default {
     },
     "barboach": {
         "base_id": 339,
+        "form_id": 0,
         "name": "Barboach",
         "pokemon_type": [
             "WATER",
@@ -8763,6 +9111,7 @@ export default {
     },
     "whiscash": {
         "base_id": 340,
+        "form_id": 0,
         "name": "Whiscash",
         "pokemon_type": [
             "WATER",
@@ -8781,6 +9130,7 @@ export default {
     },
     "corphish": {
         "base_id": 341,
+        "form_id": 0,
         "name": "Corphish",
         "pokemon_type": [
             "WATER"
@@ -8805,6 +9155,7 @@ export default {
     },
     "crawdaunt": {
         "base_id": 342,
+        "form_id": 0,
         "name": "Crawdaunt",
         "pokemon_type": [
             "WATER",
@@ -8824,6 +9175,7 @@ export default {
     },
     "baltoy": {
         "base_id": 343,
+        "form_id": 0,
         "name": "Baltoy",
         "pokemon_type": [
             "GROUND",
@@ -8848,6 +9200,7 @@ export default {
     },
     "claydol": {
         "base_id": 344,
+        "form_id": 0,
         "name": "Claydol",
         "pokemon_type": [
             "GROUND",
@@ -8866,6 +9219,7 @@ export default {
     },
     "lileep": {
         "base_id": 345,
+        "form_id": 0,
         "name": "Lileep",
         "pokemon_type": [
             "ROCK",
@@ -8890,6 +9244,7 @@ export default {
     },
     "cradily": {
         "base_id": 346,
+        "form_id": 0,
         "name": "Cradily",
         "pokemon_type": [
             "ROCK",
@@ -8908,6 +9263,7 @@ export default {
     },
     "anorith": {
         "base_id": 347,
+        "form_id": 0,
         "name": "Anorith",
         "pokemon_type": [
             "ROCK",
@@ -8932,6 +9288,7 @@ export default {
     },
     "armaldo": {
         "base_id": 348,
+        "form_id": 0,
         "name": "Armaldo",
         "pokemon_type": [
             "ROCK",
@@ -8950,6 +9307,7 @@ export default {
     },
     "feebas": {
         "base_id": 349,
+        "form_id": 0,
         "name": "Feebas",
         "pokemon_type": [
             "WATER"
@@ -8974,6 +9332,7 @@ export default {
     },
     "milotic": {
         "base_id": 350,
+        "form_id": 0,
         "name": "Milotic",
         "pokemon_type": [
             "WATER"
@@ -8993,6 +9352,7 @@ export default {
     },
     "castform": {
         "base_id": 351,
+        "form_id": 0,
         "name": "Castform",
         "pokemon_type": [
             "NORMAL"
@@ -9011,6 +9371,7 @@ export default {
     },
     "kecleon": {
         "base_id": 352,
+        "form_id": 0,
         "name": "Kecleon",
         "pokemon_type": [
             "NORMAL"
@@ -9028,6 +9389,7 @@ export default {
     },
     "shuppet": {
         "base_id": 353,
+        "form_id": 0,
         "name": "Shuppet",
         "pokemon_type": [
             "GHOST"
@@ -9051,6 +9413,7 @@ export default {
     },
     "banette": {
         "base_id": 354,
+        "form_id": 0,
         "name": "Banette",
         "pokemon_type": [
             "GHOST"
@@ -9086,6 +9449,7 @@ export default {
     },
     "duskull": {
         "base_id": 355,
+        "form_id": 0,
         "name": "Duskull",
         "pokemon_type": [
             "GHOST"
@@ -9109,6 +9473,7 @@ export default {
     },
     "dusclops": {
         "base_id": 356,
+        "form_id": 0,
         "name": "Dusclops",
         "pokemon_type": [
             "GHOST"
@@ -9132,6 +9497,7 @@ export default {
     },
     "tropius": {
         "base_id": 357,
+        "form_id": 0,
         "name": "Tropius",
         "pokemon_type": [
             "GRASS",
@@ -9151,6 +9517,7 @@ export default {
     },
     "chimecho": {
         "base_id": 358,
+        "form_id": 0,
         "name": "Chimecho",
         "pokemon_type": [
             "PSYCHIC"
@@ -9168,6 +9535,7 @@ export default {
     },
     "absol": {
         "base_id": 359,
+        "form_id": 0,
         "name": "Absol",
         "pokemon_type": [
             "DARK"
@@ -9203,6 +9571,7 @@ export default {
     },
     "wynaut": {
         "base_id": 360,
+        "form_id": 0,
         "name": "Wynaut",
         "pokemon_type": [
             "PSYCHIC"
@@ -9227,6 +9596,7 @@ export default {
     },
     "snorunt": {
         "base_id": 361,
+        "form_id": 0,
         "name": "Snorunt",
         "pokemon_type": [
             "ICE"
@@ -9255,6 +9625,7 @@ export default {
     },
     "glalie": {
         "base_id": 362,
+        "form_id": 0,
         "name": "Glalie",
         "pokemon_type": [
             "ICE"
@@ -9292,6 +9663,7 @@ export default {
     },
     "spheal": {
         "base_id": 363,
+        "form_id": 0,
         "name": "Spheal",
         "pokemon_type": [
             "ICE",
@@ -9317,6 +9689,7 @@ export default {
     },
     "sealeo": {
         "base_id": 364,
+        "form_id": 0,
         "name": "Sealeo",
         "pokemon_type": [
             "ICE",
@@ -9342,6 +9715,7 @@ export default {
     },
     "walrein": {
         "base_id": 365,
+        "form_id": 0,
         "name": "Walrein",
         "pokemon_type": [
             "ICE",
@@ -9361,6 +9735,7 @@ export default {
     },
     "clamperl": {
         "base_id": 366,
+        "form_id": 0,
         "name": "Clamperl",
         "pokemon_type": [
             "WATER"
@@ -9388,6 +9763,7 @@ export default {
     },
     "huntail": {
         "base_id": 367,
+        "form_id": 0,
         "name": "Huntail",
         "pokemon_type": [
             "WATER"
@@ -9405,6 +9781,7 @@ export default {
     },
     "gorebyss": {
         "base_id": 368,
+        "form_id": 0,
         "name": "Gorebyss",
         "pokemon_type": [
             "WATER"
@@ -9422,6 +9799,7 @@ export default {
     },
     "relicanth": {
         "base_id": 369,
+        "form_id": 0,
         "name": "Relicanth",
         "pokemon_type": [
             "WATER",
@@ -9442,6 +9820,7 @@ export default {
     },
     "luvdisc": {
         "base_id": 370,
+        "form_id": 0,
         "name": "Luvdisc",
         "pokemon_type": [
             "WATER"
@@ -9459,6 +9838,7 @@ export default {
     },
     "bagon": {
         "base_id": 371,
+        "form_id": 0,
         "name": "Bagon",
         "pokemon_type": [
             "DRAGON"
@@ -9482,6 +9862,7 @@ export default {
     },
     "shelgon": {
         "base_id": 372,
+        "form_id": 0,
         "name": "Shelgon",
         "pokemon_type": [
             "DRAGON"
@@ -9505,6 +9886,7 @@ export default {
     },
     "salamence": {
         "base_id": 373,
+        "form_id": 0,
         "name": "Salamence",
         "pokemon_type": [
             "DRAGON",
@@ -9542,6 +9924,7 @@ export default {
     },
     "beldum": {
         "base_id": 374,
+        "form_id": 0,
         "name": "Beldum",
         "pokemon_type": [
             "STEEL",
@@ -9566,6 +9949,7 @@ export default {
     },
     "metang": {
         "base_id": 375,
+        "form_id": 0,
         "name": "Metang",
         "pokemon_type": [
             "STEEL",
@@ -9590,6 +9974,7 @@ export default {
     },
     "metagross": {
         "base_id": 376,
+        "form_id": 0,
         "name": "Metagross",
         "pokemon_type": [
             "STEEL",
@@ -9627,6 +10012,7 @@ export default {
     },
     "regirock": {
         "base_id": 377,
+        "form_id": 0,
         "name": "Regirock",
         "pokemon_type": [
             "ROCK"
@@ -9645,6 +10031,7 @@ export default {
     },
     "regice": {
         "base_id": 378,
+        "form_id": 0,
         "name": "Regice",
         "pokemon_type": [
             "ICE"
@@ -9663,6 +10050,7 @@ export default {
     },
     "registeel": {
         "base_id": 379,
+        "form_id": 0,
         "name": "Registeel",
         "pokemon_type": [
             "STEEL"
@@ -9681,6 +10069,7 @@ export default {
     },
     "latias": {
         "base_id": 380,
+        "form_id": 0,
         "name": "Latias",
         "pokemon_type": [
             "DRAGON",
@@ -9720,6 +10109,7 @@ export default {
     },
     "latios": {
         "base_id": 381,
+        "form_id": 0,
         "name": "Latios",
         "pokemon_type": [
             "DRAGON",
@@ -9731,6 +10121,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "BLUE",
         "experience_group": "Slow",
@@ -9750,6 +10141,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "PURPLE",
         "experience_group": "Slow",
@@ -9757,6 +10149,7 @@ export default {
     },
     "kyogre": {
         "base_id": 382,
+        "form_id": 0,
         "name": "Kyogre",
         "pokemon_type": [
             "WATER"
@@ -9794,6 +10187,7 @@ export default {
     },
     "groudon": {
         "base_id": 383,
+        "form_id": 0,
         "name": "Groudon",
         "pokemon_type": [
             "GROUND"
@@ -9832,6 +10226,7 @@ export default {
     },
     "rayquaza": {
         "base_id": 384,
+        "form_id": 0,
         "name": "Rayquaza",
         "pokemon_type": [
             "DRAGON",
@@ -9871,6 +10266,7 @@ export default {
     },
     "jirachi": {
         "base_id": 385,
+        "form_id": 0,
         "name": "Jirachi",
         "pokemon_type": [
             "STEEL",
@@ -9890,6 +10286,7 @@ export default {
     },
     "deoxys": {
         "base_id": 386,
+        "form_id": 0,
         "name": "Deoxys",
         "form_name": "Normal Forme",
         "pokemon_type": [
@@ -9969,6 +10366,7 @@ export default {
     },
     "turtwig": {
         "base_id": 387,
+        "form_id": 0,
         "name": "Turtwig",
         "pokemon_type": [
             "GRASS"
@@ -9993,6 +10391,7 @@ export default {
     },
     "grotle": {
         "base_id": 388,
+        "form_id": 0,
         "name": "Grotle",
         "pokemon_type": [
             "GRASS"
@@ -10017,6 +10416,7 @@ export default {
     },
     "torterra": {
         "base_id": 389,
+        "form_id": 0,
         "name": "Torterra",
         "pokemon_type": [
             "GRASS",
@@ -10036,6 +10436,7 @@ export default {
     },
     "chimchar": {
         "base_id": 390,
+        "form_id": 0,
         "name": "Chimchar",
         "pokemon_type": [
             "FIRE"
@@ -10060,6 +10461,7 @@ export default {
     },
     "monferno": {
         "base_id": 391,
+        "form_id": 0,
         "name": "Monferno",
         "pokemon_type": [
             "FIRE",
@@ -10085,6 +10487,7 @@ export default {
     },
     "infernape": {
         "base_id": 392,
+        "form_id": 0,
         "name": "Infernape",
         "pokemon_type": [
             "FIRE",
@@ -10104,6 +10507,7 @@ export default {
     },
     "piplup": {
         "base_id": 393,
+        "form_id": 0,
         "name": "Piplup",
         "pokemon_type": [
             "WATER"
@@ -10128,6 +10532,7 @@ export default {
     },
     "prinplup": {
         "base_id": 394,
+        "form_id": 0,
         "name": "Prinplup",
         "pokemon_type": [
             "WATER"
@@ -10152,6 +10557,7 @@ export default {
     },
     "empoleon": {
         "base_id": 395,
+        "form_id": 0,
         "name": "Empoleon",
         "pokemon_type": [
             "WATER",
@@ -10171,6 +10577,7 @@ export default {
     },
     "starly": {
         "base_id": 396,
+        "form_id": 0,
         "name": "Starly",
         "pokemon_type": [
             "NORMAL",
@@ -10196,6 +10603,7 @@ export default {
     },
     "staravia": {
         "base_id": 397,
+        "form_id": 0,
         "name": "Staravia",
         "pokemon_type": [
             "NORMAL",
@@ -10221,6 +10629,7 @@ export default {
     },
     "staraptor": {
         "base_id": 398,
+        "form_id": 0,
         "name": "Staraptor",
         "pokemon_type": [
             "NORMAL",
@@ -10240,6 +10649,7 @@ export default {
     },
     "bidoof": {
         "base_id": 399,
+        "form_id": 0,
         "name": "Bidoof",
         "pokemon_type": [
             "NORMAL"
@@ -10265,6 +10675,7 @@ export default {
     },
     "bibarel": {
         "base_id": 400,
+        "form_id": 0,
         "name": "Bibarel",
         "pokemon_type": [
             "NORMAL",
@@ -10285,6 +10696,7 @@ export default {
     },
     "kricketot": {
         "base_id": 401,
+        "form_id": 0,
         "name": "Kricketot",
         "pokemon_type": [
             "BUG"
@@ -10309,6 +10721,7 @@ export default {
     },
     "kricketune": {
         "base_id": 402,
+        "form_id": 0,
         "name": "Kricketune",
         "pokemon_type": [
             "BUG"
@@ -10327,6 +10740,7 @@ export default {
     },
     "shinx": {
         "base_id": 403,
+        "form_id": 0,
         "name": "Shinx",
         "pokemon_type": [
             "ELECTRIC"
@@ -10351,6 +10765,7 @@ export default {
     },
     "luxio": {
         "base_id": 404,
+        "form_id": 0,
         "name": "Luxio",
         "pokemon_type": [
             "ELECTRIC"
@@ -10375,6 +10790,7 @@ export default {
     },
     "luxray": {
         "base_id": 405,
+        "form_id": 0,
         "name": "Luxray",
         "pokemon_type": [
             "ELECTRIC"
@@ -10393,6 +10809,7 @@ export default {
     },
     "budew": {
         "base_id": 406,
+        "form_id": 0,
         "name": "Budew",
         "pokemon_type": [
             "GRASS",
@@ -10418,6 +10835,7 @@ export default {
     },
     "roserade": {
         "base_id": 407,
+        "form_id": 0,
         "name": "Roserade",
         "pokemon_type": [
             "GRASS",
@@ -10438,6 +10856,7 @@ export default {
     },
     "cranidos": {
         "base_id": 408,
+        "form_id": 0,
         "name": "Cranidos",
         "pokemon_type": [
             "ROCK"
@@ -10461,6 +10880,7 @@ export default {
     },
     "rampardos": {
         "base_id": 409,
+        "form_id": 0,
         "name": "Rampardos",
         "pokemon_type": [
             "ROCK"
@@ -10478,6 +10898,7 @@ export default {
     },
     "shieldon": {
         "base_id": 410,
+        "form_id": 0,
         "name": "Shieldon",
         "pokemon_type": [
             "ROCK",
@@ -10502,6 +10923,7 @@ export default {
     },
     "bastiodon": {
         "base_id": 411,
+        "form_id": 0,
         "name": "Bastiodon",
         "pokemon_type": [
             "ROCK",
@@ -10520,6 +10942,7 @@ export default {
     },
     "burmy": {
         "base_id": 412,
+        "form_id": 0,
         "name": "Burmy",
         "form_name": "Plant Cloak",
         "pokemon_type": [
@@ -10606,6 +11029,7 @@ export default {
     },
     "wormadam": {
         "base_id": 413,
+        "form_id": 0,
         "name": "Wormadam",
         "form_name": "Plant Cloak",
         "pokemon_type": [
@@ -10665,6 +11089,7 @@ export default {
     },
     "mothim": {
         "base_id": 414,
+        "form_id": 0,
         "name": "Mothim",
         "pokemon_type": [
             "BUG",
@@ -10676,12 +11101,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "YELLOW",
         "experience_group": "Medium Fast",
         "generation": 4
     },
     "combee": {
         "base_id": 415,
+        "form_id": 0,
         "name": "Combee",
         "pokemon_type": [
             "BUG",
@@ -10707,6 +11134,7 @@ export default {
     },
     "vespiquen": {
         "base_id": 416,
+        "form_id": 0,
         "name": "Vespiquen",
         "pokemon_type": [
             "BUG",
@@ -10725,6 +11153,7 @@ export default {
     },
     "pachirisu": {
         "base_id": 417,
+        "form_id": 0,
         "name": "Pachirisu",
         "pokemon_type": [
             "ELECTRIC"
@@ -10744,6 +11173,7 @@ export default {
     },
     "buizel": {
         "base_id": 418,
+        "form_id": 0,
         "name": "Buizel",
         "pokemon_type": [
             "WATER"
@@ -10769,6 +11199,7 @@ export default {
     },
     "floatzel": {
         "base_id": 419,
+        "form_id": 0,
         "name": "Floatzel",
         "pokemon_type": [
             "WATER"
@@ -10788,6 +11219,7 @@ export default {
     },
     "cherubi": {
         "base_id": 420,
+        "form_id": 0,
         "name": "Cherubi",
         "pokemon_type": [
             "GRASS"
@@ -10831,6 +11263,7 @@ export default {
     },
     "shellos": {
         "base_id": 422,
+        "form_id": 0,
         "name": "Shellos",
         "form_name": "West Sea",
         "pokemon_type": [
@@ -10882,6 +11315,7 @@ export default {
     },
     "gastrodon": {
         "base_id": 423,
+        "form_id": 0,
         "name": "Gastrodon",
         "form_name": "West Sea",
         "pokemon_type": [
@@ -10923,6 +11357,7 @@ export default {
     },
     "ambipom": {
         "base_id": 424,
+        "form_id": 0,
         "name": "Ambipom",
         "pokemon_type": [
             "NORMAL"
@@ -10941,6 +11376,7 @@ export default {
     },
     "drifloon": {
         "base_id": 425,
+        "form_id": 0,
         "name": "Drifloon",
         "pokemon_type": [
             "GHOST",
@@ -10965,6 +11401,7 @@ export default {
     },
     "drifblim": {
         "base_id": 426,
+        "form_id": 0,
         "name": "Drifblim",
         "pokemon_type": [
             "GHOST",
@@ -10983,6 +11420,7 @@ export default {
     },
     "buneary": {
         "base_id": 427,
+        "form_id": 0,
         "name": "Buneary",
         "pokemon_type": [
             "NORMAL"
@@ -11007,6 +11445,7 @@ export default {
     },
     "lopunny": {
         "base_id": 428,
+        "form_id": 0,
         "name": "Lopunny",
         "pokemon_type": [
             "NORMAL"
@@ -11045,6 +11484,7 @@ export default {
     },
     "mismagius": {
         "base_id": 429,
+        "form_id": 0,
         "name": "Mismagius",
         "pokemon_type": [
             "GHOST"
@@ -11062,6 +11502,7 @@ export default {
     },
     "honchkrow": {
         "base_id": 430,
+        "form_id": 0,
         "name": "Honchkrow",
         "pokemon_type": [
             "DARK",
@@ -11080,6 +11521,7 @@ export default {
     },
     "glameow": {
         "base_id": 431,
+        "form_id": 0,
         "name": "Glameow",
         "pokemon_type": [
             "NORMAL"
@@ -11103,6 +11545,7 @@ export default {
     },
     "purugly": {
         "base_id": 432,
+        "form_id": 0,
         "name": "Purugly",
         "pokemon_type": [
             "NORMAL"
@@ -11120,6 +11563,7 @@ export default {
     },
     "chingling": {
         "base_id": 433,
+        "form_id": 0,
         "name": "Chingling",
         "pokemon_type": [
             "PSYCHIC"
@@ -11144,6 +11588,7 @@ export default {
     },
     "stunky": {
         "base_id": 434,
+        "form_id": 0,
         "name": "Stunky",
         "pokemon_type": [
             "POISON",
@@ -11168,6 +11613,7 @@ export default {
     },
     "skuntank": {
         "base_id": 435,
+        "form_id": 0,
         "name": "Skuntank",
         "pokemon_type": [
             "POISON",
@@ -11186,6 +11632,7 @@ export default {
     },
     "bronzor": {
         "base_id": 436,
+        "form_id": 0,
         "name": "Bronzor",
         "pokemon_type": [
             "STEEL",
@@ -11210,6 +11657,7 @@ export default {
     },
     "bronzong": {
         "base_id": 437,
+        "form_id": 0,
         "name": "Bronzong",
         "pokemon_type": [
             "STEEL",
@@ -11228,6 +11676,7 @@ export default {
     },
     "bonsly": {
         "base_id": 438,
+        "form_id": 0,
         "name": "Bonsly",
         "pokemon_type": [
             "ROCK"
@@ -11252,6 +11701,7 @@ export default {
     },
     "mime-jr": {
         "base_id": 439,
+        "form_id": 0,
         "name": "Mime Jr.",
         "pokemon_type": [
             "PSYCHIC",
@@ -11281,6 +11731,7 @@ export default {
     },
     "happiny": {
         "base_id": 440,
+        "form_id": 0,
         "name": "Happiny",
         "pokemon_type": [
             "NORMAL"
@@ -11305,6 +11756,7 @@ export default {
     },
     "chatot": {
         "base_id": 441,
+        "form_id": 0,
         "name": "Chatot",
         "pokemon_type": [
             "NORMAL",
@@ -11323,6 +11775,7 @@ export default {
     },
     "spiritomb": {
         "base_id": 442,
+        "form_id": 0,
         "name": "Spiritomb",
         "pokemon_type": [
             "GHOST",
@@ -11341,6 +11794,7 @@ export default {
     },
     "gible": {
         "base_id": 443,
+        "form_id": 0,
         "name": "Gible",
         "pokemon_type": [
             "DRAGON",
@@ -11367,6 +11821,7 @@ export default {
     },
     "gabite": {
         "base_id": 444,
+        "form_id": 0,
         "name": "Gabite",
         "pokemon_type": [
             "DRAGON",
@@ -11393,6 +11848,7 @@ export default {
     },
     "garchomp": {
         "base_id": 445,
+        "form_id": 0,
         "name": "Garchomp",
         "pokemon_type": [
             "DRAGON",
@@ -11433,6 +11889,7 @@ export default {
     },
     "munchlax": {
         "base_id": 446,
+        "form_id": 0,
         "name": "Munchlax",
         "pokemon_type": [
             "NORMAL"
@@ -11457,6 +11914,7 @@ export default {
     },
     "riolu": {
         "base_id": 447,
+        "form_id": 0,
         "name": "Riolu",
         "pokemon_type": [
             "FIGHTING"
@@ -11481,6 +11939,7 @@ export default {
     },
     "lucario": {
         "base_id": 448,
+        "form_id": 0,
         "name": "Lucario",
         "pokemon_type": [
             "FIGHTING",
@@ -11520,6 +11979,7 @@ export default {
     },
     "hippopotas": {
         "base_id": 449,
+        "form_id": 0,
         "name": "Hippopotas",
         "pokemon_type": [
             "GROUND"
@@ -11544,6 +12004,7 @@ export default {
     },
     "hippowdon": {
         "base_id": 450,
+        "form_id": 0,
         "name": "Hippowdon",
         "pokemon_type": [
             "GROUND"
@@ -11562,6 +12023,7 @@ export default {
     },
     "skorupi": {
         "base_id": 451,
+        "form_id": 0,
         "name": "Skorupi",
         "pokemon_type": [
             "POISON",
@@ -11587,6 +12049,7 @@ export default {
     },
     "drapion": {
         "base_id": 452,
+        "form_id": 0,
         "name": "Drapion",
         "pokemon_type": [
             "POISON",
@@ -11606,6 +12069,7 @@ export default {
     },
     "croagunk": {
         "base_id": 453,
+        "form_id": 0,
         "name": "Croagunk",
         "pokemon_type": [
             "POISON",
@@ -11631,6 +12095,7 @@ export default {
     },
     "toxicroak": {
         "base_id": 454,
+        "form_id": 0,
         "name": "Toxicroak",
         "pokemon_type": [
             "POISON",
@@ -11650,6 +12115,7 @@ export default {
     },
     "carnivine": {
         "base_id": 455,
+        "form_id": 0,
         "name": "Carnivine",
         "pokemon_type": [
             "GRASS"
@@ -11667,6 +12133,7 @@ export default {
     },
     "finneon": {
         "base_id": 456,
+        "form_id": 0,
         "name": "Finneon",
         "pokemon_type": [
             "WATER"
@@ -11691,6 +12158,7 @@ export default {
     },
     "lumineon": {
         "base_id": 457,
+        "form_id": 0,
         "name": "Lumineon",
         "pokemon_type": [
             "WATER"
@@ -11709,6 +12177,7 @@ export default {
     },
     "mantyke": {
         "base_id": 458,
+        "form_id": 0,
         "name": "Mantyke",
         "pokemon_type": [
             "WATER",
@@ -11734,6 +12203,7 @@ export default {
     },
     "snover": {
         "base_id": 459,
+        "form_id": 0,
         "name": "Snover",
         "pokemon_type": [
             "GRASS",
@@ -11760,6 +12230,7 @@ export default {
     },
     "abomasnow": {
         "base_id": 460,
+        "form_id": 0,
         "name": "Abomasnow",
         "pokemon_type": [
             "GRASS",
@@ -11800,6 +12271,7 @@ export default {
     },
     "weavile": {
         "base_id": 461,
+        "form_id": 0,
         "name": "Weavile",
         "pokemon_type": [
             "DARK",
@@ -11819,6 +12291,7 @@ export default {
     },
     "magnezone": {
         "base_id": 462,
+        "form_id": 0,
         "name": "Magnezone",
         "pokemon_type": [
             "ELECTRIC",
@@ -11837,6 +12310,7 @@ export default {
     },
     "lickilicky": {
         "base_id": 463,
+        "form_id": 0,
         "name": "Lickilicky",
         "pokemon_type": [
             "NORMAL"
@@ -11854,6 +12328,7 @@ export default {
     },
     "rhyperior": {
         "base_id": 464,
+        "form_id": 0,
         "name": "Rhyperior",
         "pokemon_type": [
             "GROUND",
@@ -11874,6 +12349,7 @@ export default {
     },
     "tangrowth": {
         "base_id": 465,
+        "form_id": 0,
         "name": "Tangrowth",
         "pokemon_type": [
             "GRASS"
@@ -11892,6 +12368,7 @@ export default {
     },
     "electivire": {
         "base_id": 466,
+        "form_id": 0,
         "name": "Electivire",
         "pokemon_type": [
             "ELECTRIC"
@@ -11909,6 +12386,7 @@ export default {
     },
     "magmortar": {
         "base_id": 467,
+        "form_id": 0,
         "name": "Magmortar",
         "pokemon_type": [
             "FIRE"
@@ -11926,6 +12404,7 @@ export default {
     },
     "togekiss": {
         "base_id": 468,
+        "form_id": 0,
         "name": "Togekiss",
         "pokemon_type": [
             "FAIRY",
@@ -11945,6 +12424,7 @@ export default {
     },
     "yanmega": {
         "base_id": 469,
+        "form_id": 0,
         "name": "Yanmega",
         "pokemon_type": [
             "BUG",
@@ -11963,6 +12443,7 @@ export default {
     },
     "leafeon": {
         "base_id": 470,
+        "form_id": 0,
         "name": "Leafeon",
         "pokemon_type": [
             "GRASS"
@@ -11980,6 +12461,7 @@ export default {
     },
     "glaceon": {
         "base_id": 471,
+        "form_id": 0,
         "name": "Glaceon",
         "pokemon_type": [
             "ICE"
@@ -11997,6 +12479,7 @@ export default {
     },
     "gliscor": {
         "base_id": 472,
+        "form_id": 0,
         "name": "Gliscor",
         "pokemon_type": [
             "GROUND",
@@ -12015,6 +12498,7 @@ export default {
     },
     "mamoswine": {
         "base_id": 473,
+        "form_id": 0,
         "name": "Mamoswine",
         "pokemon_type": [
             "ICE",
@@ -12034,6 +12518,7 @@ export default {
     },
     "porygon-z": {
         "base_id": 474,
+        "form_id": 0,
         "name": "Porygon-Z",
         "pokemon_type": [
             "NORMAL"
@@ -12051,6 +12536,7 @@ export default {
     },
     "gallade": {
         "base_id": 475,
+        "form_id": 0,
         "name": "Gallade",
         "pokemon_type": [
             "PSYCHIC",
@@ -12062,6 +12548,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 4
@@ -12080,12 +12567,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 6
     },
     "probopass": {
         "base_id": 476,
+        "form_id": 0,
         "name": "Probopass",
         "pokemon_type": [
             "ROCK",
@@ -12104,6 +12593,7 @@ export default {
     },
     "dusknoir": {
         "base_id": 477,
+        "form_id": 0,
         "name": "Dusknoir",
         "pokemon_type": [
             "GHOST"
@@ -12121,6 +12611,7 @@ export default {
     },
     "froslass": {
         "base_id": 478,
+        "form_id": 0,
         "name": "Froslass",
         "pokemon_type": [
             "ICE",
@@ -12140,6 +12631,7 @@ export default {
     },
     "rotom": {
         "base_id": 479,
+        "form_id": 0,
         "name": "Rotom",
         "pokemon_type": [
             "ELECTRIC",
@@ -12253,6 +12745,7 @@ export default {
     },
     "uxie": {
         "base_id": 480,
+        "form_id": 0,
         "name": "Uxie",
         "pokemon_type": [
             "PSYCHIC"
@@ -12271,6 +12764,7 @@ export default {
     },
     "mesprit": {
         "base_id": 481,
+        "form_id": 0,
         "name": "Mesprit",
         "pokemon_type": [
             "PSYCHIC"
@@ -12289,6 +12783,7 @@ export default {
     },
     "azelf": {
         "base_id": 482,
+        "form_id": 0,
         "name": "Azelf",
         "pokemon_type": [
             "PSYCHIC"
@@ -12307,6 +12802,7 @@ export default {
     },
     "dialga": {
         "base_id": 483,
+        "form_id": 0,
         "name": "Dialga",
         "pokemon_type": [
             "STEEL",
@@ -12347,6 +12843,7 @@ export default {
     },
     "palkia": {
         "base_id": 484,
+        "form_id": 0,
         "name": "Palkia",
         "pokemon_type": [
             "WATER",
@@ -12387,6 +12884,7 @@ export default {
     },
     "heatran": {
         "base_id": 485,
+        "form_id": 0,
         "name": "Heatran",
         "pokemon_type": [
             "FIRE",
@@ -12406,6 +12904,7 @@ export default {
     },
     "regigigas": {
         "base_id": 486,
+        "form_id": 0,
         "name": "Regigigas",
         "pokemon_type": [
             "NORMAL"
@@ -12424,6 +12923,7 @@ export default {
     },
     "giratina": {
         "base_id": 487,
+        "form_id": 0,
         "name": "Giratina",
         "form_name": "Altered Forme",
         "pokemon_type": [
@@ -12465,6 +12965,7 @@ export default {
     },
     "cresselia": {
         "base_id": 488,
+        "form_id": 0,
         "name": "Cresselia",
         "pokemon_type": [
             "PSYCHIC"
@@ -12483,6 +12984,7 @@ export default {
     },
     "phione": {
         "base_id": 489,
+        "form_id": 0,
         "name": "Phione",
         "pokemon_type": [
             "WATER"
@@ -12502,6 +13004,7 @@ export default {
     },
     "manaphy": {
         "base_id": 490,
+        "form_id": 0,
         "name": "Manaphy",
         "pokemon_type": [
             "WATER"
@@ -12521,6 +13024,7 @@ export default {
     },
     "darkrai": {
         "base_id": 491,
+        "form_id": 0,
         "name": "Darkrai",
         "pokemon_type": [
             "DARK"
@@ -12539,6 +13043,7 @@ export default {
     },
     "shaymin": {
         "base_id": 492,
+        "form_id": 0,
         "name": "Shaymin",
         "form_name": "Land Forme",
         "pokemon_type": [
@@ -12579,6 +13084,7 @@ export default {
     },
     "arceus": {
         "base_id": 493,
+        "form_id": 0,
         "name": "Arceus",
         "pokemon_type": [
             "NORMAL"
@@ -12597,6 +13103,7 @@ export default {
     },
     "victini": {
         "base_id": 494,
+        "form_id": 0,
         "name": "Victini",
         "pokemon_type": [
             "PSYCHIC",
@@ -12616,6 +13123,7 @@ export default {
     },
     "snivy": {
         "base_id": 495,
+        "form_id": 0,
         "name": "Snivy",
         "pokemon_type": [
             "GRASS"
@@ -12640,6 +13148,7 @@ export default {
     },
     "servine": {
         "base_id": 496,
+        "form_id": 0,
         "name": "Servine",
         "pokemon_type": [
             "GRASS"
@@ -12664,6 +13173,7 @@ export default {
     },
     "serperior": {
         "base_id": 497,
+        "form_id": 0,
         "name": "Serperior",
         "pokemon_type": [
             "GRASS"
@@ -12682,6 +13192,7 @@ export default {
     },
     "tepig": {
         "base_id": 498,
+        "form_id": 0,
         "name": "Tepig",
         "pokemon_type": [
             "FIRE"
@@ -12705,6 +13216,7 @@ export default {
     },
     "pignite": {
         "base_id": 499,
+        "form_id": 0,
         "name": "Pignite",
         "pokemon_type": [
             "FIRE",
@@ -12729,6 +13241,7 @@ export default {
     },
     "emboar": {
         "base_id": 500,
+        "form_id": 0,
         "name": "Emboar",
         "pokemon_type": [
             "FIRE",
@@ -12747,6 +13260,7 @@ export default {
     },
     "oshawott": {
         "base_id": 501,
+        "form_id": 0,
         "name": "Oshawott",
         "pokemon_type": [
             "WATER"
@@ -12770,6 +13284,7 @@ export default {
     },
     "dewott": {
         "base_id": 502,
+        "form_id": 0,
         "name": "Dewott",
         "pokemon_type": [
             "WATER"
@@ -12797,6 +13312,7 @@ export default {
     },
     "samurott": {
         "base_id": 503,
+        "form_id": 0,
         "name": "Samurott",
         "pokemon_type": [
             "WATER"
@@ -12833,6 +13349,7 @@ export default {
     },
     "patrat": {
         "base_id": 504,
+        "form_id": 0,
         "name": "Patrat",
         "pokemon_type": [
             "NORMAL"
@@ -12856,6 +13373,7 @@ export default {
     },
     "watchog": {
         "base_id": 505,
+        "form_id": 0,
         "name": "Watchog",
         "pokemon_type": [
             "NORMAL"
@@ -12873,6 +13391,7 @@ export default {
     },
     "lillipup": {
         "base_id": 506,
+        "form_id": 0,
         "name": "Lillipup",
         "pokemon_type": [
             "NORMAL"
@@ -12896,6 +13415,7 @@ export default {
     },
     "herdier": {
         "base_id": 507,
+        "form_id": 0,
         "name": "Herdier",
         "pokemon_type": [
             "NORMAL"
@@ -12919,6 +13439,7 @@ export default {
     },
     "stoutland": {
         "base_id": 508,
+        "form_id": 0,
         "name": "Stoutland",
         "pokemon_type": [
             "NORMAL"
@@ -12936,6 +13457,7 @@ export default {
     },
     "purrloin": {
         "base_id": 509,
+        "form_id": 0,
         "name": "Purrloin",
         "pokemon_type": [
             "DARK"
@@ -12959,6 +13481,7 @@ export default {
     },
     "liepard": {
         "base_id": 510,
+        "form_id": 0,
         "name": "Liepard",
         "pokemon_type": [
             "DARK"
@@ -12976,6 +13499,7 @@ export default {
     },
     "pansage": {
         "base_id": 511,
+        "form_id": 0,
         "name": "Pansage",
         "pokemon_type": [
             "GRASS"
@@ -12999,6 +13523,7 @@ export default {
     },
     "simisage": {
         "base_id": 512,
+        "form_id": 0,
         "name": "Simisage",
         "pokemon_type": [
             "GRASS"
@@ -13016,6 +13541,7 @@ export default {
     },
     "pansear": {
         "base_id": 513,
+        "form_id": 0,
         "name": "Pansear",
         "pokemon_type": [
             "FIRE"
@@ -13039,6 +13565,7 @@ export default {
     },
     "simisear": {
         "base_id": 514,
+        "form_id": 0,
         "name": "Simisear",
         "pokemon_type": [
             "FIRE"
@@ -13056,6 +13583,7 @@ export default {
     },
     "panpour": {
         "base_id": 515,
+        "form_id": 0,
         "name": "Panpour",
         "pokemon_type": [
             "WATER"
@@ -13079,6 +13607,7 @@ export default {
     },
     "simipour": {
         "base_id": 516,
+        "form_id": 0,
         "name": "Simipour",
         "pokemon_type": [
             "WATER"
@@ -13096,6 +13625,7 @@ export default {
     },
     "munna": {
         "base_id": 517,
+        "form_id": 0,
         "name": "Munna",
         "pokemon_type": [
             "PSYCHIC"
@@ -13119,6 +13649,7 @@ export default {
     },
     "musharna": {
         "base_id": 518,
+        "form_id": 0,
         "name": "Musharna",
         "pokemon_type": [
             "PSYCHIC"
@@ -13136,6 +13667,7 @@ export default {
     },
     "pidove": {
         "base_id": 519,
+        "form_id": 0,
         "name": "Pidove",
         "pokemon_type": [
             "NORMAL",
@@ -13160,6 +13692,7 @@ export default {
     },
     "tranquill": {
         "base_id": 520,
+        "form_id": 0,
         "name": "Tranquill",
         "pokemon_type": [
             "NORMAL",
@@ -13184,6 +13717,7 @@ export default {
     },
     "unfezant": {
         "base_id": 521,
+        "form_id": 0,
         "name": "Unfezant",
         "pokemon_type": [
             "NORMAL",
@@ -13203,6 +13737,7 @@ export default {
     },
     "blitzle": {
         "base_id": 522,
+        "form_id": 0,
         "name": "Blitzle",
         "pokemon_type": [
             "ELECTRIC"
@@ -13226,6 +13761,7 @@ export default {
     },
     "zebstrika": {
         "base_id": 523,
+        "form_id": 0,
         "name": "Zebstrika",
         "pokemon_type": [
             "ELECTRIC"
@@ -13243,6 +13779,7 @@ export default {
     },
     "roggenrola": {
         "base_id": 524,
+        "form_id": 0,
         "name": "Roggenrola",
         "pokemon_type": [
             "ROCK"
@@ -13266,6 +13803,7 @@ export default {
     },
     "boldore": {
         "base_id": 525,
+        "form_id": 0,
         "name": "Boldore",
         "pokemon_type": [
             "ROCK"
@@ -13289,6 +13827,7 @@ export default {
     },
     "gigalith": {
         "base_id": 526,
+        "form_id": 0,
         "name": "Gigalith",
         "pokemon_type": [
             "ROCK"
@@ -13306,6 +13845,7 @@ export default {
     },
     "woobat": {
         "base_id": 527,
+        "form_id": 0,
         "name": "Woobat",
         "pokemon_type": [
             "PSYCHIC",
@@ -13331,6 +13871,7 @@ export default {
     },
     "swoobat": {
         "base_id": 528,
+        "form_id": 0,
         "name": "Swoobat",
         "pokemon_type": [
             "PSYCHIC",
@@ -13350,6 +13891,7 @@ export default {
     },
     "drilbur": {
         "base_id": 529,
+        "form_id": 0,
         "name": "Drilbur",
         "pokemon_type": [
             "GROUND"
@@ -13373,6 +13915,7 @@ export default {
     },
     "excadrill": {
         "base_id": 530,
+        "form_id": 0,
         "name": "Excadrill",
         "pokemon_type": [
             "GROUND",
@@ -13391,6 +13934,7 @@ export default {
     },
     "audino": {
         "base_id": 531,
+        "form_id": 0,
         "name": "Audino",
         "pokemon_type": [
             "NORMAL"
@@ -13427,6 +13971,7 @@ export default {
     },
     "timburr": {
         "base_id": 532,
+        "form_id": 0,
         "name": "Timburr",
         "pokemon_type": [
             "FIGHTING"
@@ -13450,6 +13995,7 @@ export default {
     },
     "gurdurr": {
         "base_id": 533,
+        "form_id": 0,
         "name": "Gurdurr",
         "pokemon_type": [
             "FIGHTING"
@@ -13473,6 +14019,7 @@ export default {
     },
     "conkeldurr": {
         "base_id": 534,
+        "form_id": 0,
         "name": "Conkeldurr",
         "pokemon_type": [
             "FIGHTING"
@@ -13490,6 +14037,7 @@ export default {
     },
     "tympole": {
         "base_id": 535,
+        "form_id": 0,
         "name": "Tympole",
         "pokemon_type": [
             "WATER"
@@ -13513,6 +14061,7 @@ export default {
     },
     "palpitoad": {
         "base_id": 536,
+        "form_id": 0,
         "name": "Palpitoad",
         "pokemon_type": [
             "WATER",
@@ -13537,6 +14086,7 @@ export default {
     },
     "seismitoad": {
         "base_id": 537,
+        "form_id": 0,
         "name": "Seismitoad",
         "pokemon_type": [
             "WATER",
@@ -13555,6 +14105,7 @@ export default {
     },
     "throh": {
         "base_id": 538,
+        "form_id": 0,
         "name": "Throh",
         "pokemon_type": [
             "FIGHTING"
@@ -13565,12 +14116,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "RED",
         "experience_group": "Medium Fast",
         "generation": 5
     },
     "sawk": {
         "base_id": 539,
+        "form_id": 0,
         "name": "Sawk",
         "pokemon_type": [
             "FIGHTING"
@@ -13581,12 +14134,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 5
     },
     "sewaddle": {
         "base_id": 540,
+        "form_id": 0,
         "name": "Sewaddle",
         "pokemon_type": [
             "BUG",
@@ -13611,6 +14166,7 @@ export default {
     },
     "swadloon": {
         "base_id": 541,
+        "form_id": 0,
         "name": "Swadloon",
         "pokemon_type": [
             "BUG",
@@ -13635,6 +14191,7 @@ export default {
     },
     "leavanny": {
         "base_id": 542,
+        "form_id": 0,
         "name": "Leavanny",
         "pokemon_type": [
             "BUG",
@@ -13653,6 +14210,7 @@ export default {
     },
     "venipede": {
         "base_id": 543,
+        "form_id": 0,
         "name": "Venipede",
         "pokemon_type": [
             "BUG",
@@ -13677,6 +14235,7 @@ export default {
     },
     "whirlipede": {
         "base_id": 544,
+        "form_id": 0,
         "name": "Whirlipede",
         "pokemon_type": [
             "BUG",
@@ -13701,6 +14260,7 @@ export default {
     },
     "scolipede": {
         "base_id": 545,
+        "form_id": 0,
         "name": "Scolipede",
         "pokemon_type": [
             "BUG",
@@ -13719,6 +14279,7 @@ export default {
     },
     "cottonee": {
         "base_id": 546,
+        "form_id": 0,
         "name": "Cottonee",
         "pokemon_type": [
             "GRASS",
@@ -13744,6 +14305,7 @@ export default {
     },
     "whimsicott": {
         "base_id": 547,
+        "form_id": 0,
         "name": "Whimsicott",
         "pokemon_type": [
             "GRASS",
@@ -13763,6 +14325,7 @@ export default {
     },
     "petilil": {
         "base_id": 548,
+        "form_id": 0,
         "name": "Petilil",
         "pokemon_type": [
             "GRASS"
@@ -13790,6 +14353,7 @@ export default {
     },
     "lilligant": {
         "base_id": 549,
+        "form_id": 0,
         "name": "Lilligant",
         "pokemon_type": [
             "GRASS"
@@ -13826,6 +14390,7 @@ export default {
     },
     "basculin": {
         "base_id": 550,
+        "form_id": 0,
         "name": "Basculin",
         "form_name": "Red-Striped Form",
         "pokemon_type": [
@@ -13892,6 +14457,7 @@ export default {
     },
     "sandile": {
         "base_id": 551,
+        "form_id": 0,
         "name": "Sandile",
         "pokemon_type": [
             "GROUND",
@@ -13916,6 +14482,7 @@ export default {
     },
     "krokorok": {
         "base_id": 552,
+        "form_id": 0,
         "name": "Krokorok",
         "pokemon_type": [
             "GROUND",
@@ -13940,6 +14507,7 @@ export default {
     },
     "krookodile": {
         "base_id": 553,
+        "form_id": 0,
         "name": "Krookodile",
         "pokemon_type": [
             "GROUND",
@@ -13958,6 +14526,7 @@ export default {
     },
     "darumaka": {
         "base_id": 554,
+        "form_id": 0,
         "name": "Darumaka",
         "pokemon_type": [
             "FIRE"
@@ -14005,6 +14574,7 @@ export default {
     },
     "darmanitan": {
         "base_id": 555,
+        "form_id": 0,
         "name": "Darmanitan",
         "pokemon_type": [
             "FIRE"
@@ -14040,6 +14610,7 @@ export default {
     },
     "maractus": {
         "base_id": 556,
+        "form_id": 0,
         "name": "Maractus",
         "pokemon_type": [
             "GRASS"
@@ -14057,6 +14628,7 @@ export default {
     },
     "dwebble": {
         "base_id": 557,
+        "form_id": 0,
         "name": "Dwebble",
         "pokemon_type": [
             "BUG",
@@ -14082,6 +14654,7 @@ export default {
     },
     "crustle": {
         "base_id": 558,
+        "form_id": 0,
         "name": "Crustle",
         "pokemon_type": [
             "BUG",
@@ -14101,6 +14674,7 @@ export default {
     },
     "scraggy": {
         "base_id": 559,
+        "form_id": 0,
         "name": "Scraggy",
         "pokemon_type": [
             "DARK",
@@ -14126,6 +14700,7 @@ export default {
     },
     "scrafty": {
         "base_id": 560,
+        "form_id": 0,
         "name": "Scrafty",
         "pokemon_type": [
             "DARK",
@@ -14145,6 +14720,7 @@ export default {
     },
     "sigilyph": {
         "base_id": 561,
+        "form_id": 0,
         "name": "Sigilyph",
         "pokemon_type": [
             "PSYCHIC",
@@ -14163,6 +14739,7 @@ export default {
     },
     "yamask": {
         "base_id": 562,
+        "form_id": 0,
         "name": "Yamask",
         "pokemon_type": [
             "GHOST"
@@ -14213,6 +14790,7 @@ export default {
     },
     "cofagrigus": {
         "base_id": 563,
+        "form_id": 0,
         "name": "Cofagrigus",
         "pokemon_type": [
             "GHOST"
@@ -14231,6 +14809,7 @@ export default {
     },
     "tirtouga": {
         "base_id": 564,
+        "form_id": 0,
         "name": "Tirtouga",
         "pokemon_type": [
             "WATER",
@@ -14256,6 +14835,7 @@ export default {
     },
     "carracosta": {
         "base_id": 565,
+        "form_id": 0,
         "name": "Carracosta",
         "pokemon_type": [
             "WATER",
@@ -14275,6 +14855,7 @@ export default {
     },
     "archen": {
         "base_id": 566,
+        "form_id": 0,
         "name": "Archen",
         "pokemon_type": [
             "ROCK",
@@ -14300,6 +14881,7 @@ export default {
     },
     "archeops": {
         "base_id": 567,
+        "form_id": 0,
         "name": "Archeops",
         "pokemon_type": [
             "ROCK",
@@ -14319,6 +14901,7 @@ export default {
     },
     "trubbish": {
         "base_id": 568,
+        "form_id": 0,
         "name": "Trubbish",
         "pokemon_type": [
             "POISON"
@@ -14342,6 +14925,7 @@ export default {
     },
     "garbodor": {
         "base_id": 569,
+        "form_id": 0,
         "name": "Garbodor",
         "pokemon_type": [
             "POISON"
@@ -14360,6 +14944,7 @@ export default {
     },
     "zorua": {
         "base_id": 570,
+        "form_id": 0,
         "name": "Zorua",
         "pokemon_type": [
             "DARK"
@@ -14408,6 +14993,7 @@ export default {
     },
     "zoroark": {
         "base_id": 571,
+        "form_id": 0,
         "name": "Zoroark",
         "pokemon_type": [
             "DARK"
@@ -14444,6 +15030,7 @@ export default {
     },
     "minccino": {
         "base_id": 572,
+        "form_id": 0,
         "name": "Minccino",
         "pokemon_type": [
             "NORMAL"
@@ -14467,6 +15054,7 @@ export default {
     },
     "cinccino": {
         "base_id": 573,
+        "form_id": 0,
         "name": "Cinccino",
         "pokemon_type": [
             "NORMAL"
@@ -14484,6 +15072,7 @@ export default {
     },
     "gothita": {
         "base_id": 574,
+        "form_id": 0,
         "name": "Gothita",
         "pokemon_type": [
             "PSYCHIC"
@@ -14507,6 +15096,7 @@ export default {
     },
     "gothorita": {
         "base_id": 575,
+        "form_id": 0,
         "name": "Gothorita",
         "pokemon_type": [
             "PSYCHIC"
@@ -14530,6 +15120,7 @@ export default {
     },
     "gothitelle": {
         "base_id": 576,
+        "form_id": 0,
         "name": "Gothitelle",
         "pokemon_type": [
             "PSYCHIC"
@@ -14547,6 +15138,7 @@ export default {
     },
     "solosis": {
         "base_id": 577,
+        "form_id": 0,
         "name": "Solosis",
         "pokemon_type": [
             "PSYCHIC"
@@ -14570,6 +15162,7 @@ export default {
     },
     "duosion": {
         "base_id": 578,
+        "form_id": 0,
         "name": "Duosion",
         "pokemon_type": [
             "PSYCHIC"
@@ -14593,6 +15186,7 @@ export default {
     },
     "reuniclus": {
         "base_id": 579,
+        "form_id": 0,
         "name": "Reuniclus",
         "pokemon_type": [
             "PSYCHIC"
@@ -14610,6 +15204,7 @@ export default {
     },
     "ducklett": {
         "base_id": 580,
+        "form_id": 0,
         "name": "Ducklett",
         "pokemon_type": [
             "WATER",
@@ -14635,6 +15230,7 @@ export default {
     },
     "swanna": {
         "base_id": 581,
+        "form_id": 0,
         "name": "Swanna",
         "pokemon_type": [
             "WATER",
@@ -14654,6 +15250,7 @@ export default {
     },
     "vanillite": {
         "base_id": 582,
+        "form_id": 0,
         "name": "Vanillite",
         "pokemon_type": [
             "ICE"
@@ -14677,6 +15274,7 @@ export default {
     },
     "vanillish": {
         "base_id": 583,
+        "form_id": 0,
         "name": "Vanillish",
         "pokemon_type": [
             "ICE"
@@ -14700,6 +15298,7 @@ export default {
     },
     "vanilluxe": {
         "base_id": 584,
+        "form_id": 0,
         "name": "Vanilluxe",
         "pokemon_type": [
             "ICE"
@@ -14717,6 +15316,7 @@ export default {
     },
     "deerling": {
         "base_id": 585,
+        "form_id": 0,
         "name": "Deerling",
         "form_name": "Spring Form",
         "pokemon_type": [
@@ -14820,6 +15420,7 @@ export default {
     },
     "sawsbuck": {
         "base_id": 586,
+        "form_id": 0,
         "name": "Sawsbuck",
         "form_name": "Spring Form",
         "pokemon_type": [
@@ -14899,6 +15500,7 @@ export default {
     },
     "emolga": {
         "base_id": 587,
+        "form_id": 0,
         "name": "Emolga",
         "pokemon_type": [
             "ELECTRIC",
@@ -14917,6 +15519,7 @@ export default {
     },
     "karrablast": {
         "base_id": 588,
+        "form_id": 0,
         "name": "Karrablast",
         "pokemon_type": [
             "BUG"
@@ -14940,6 +15543,7 @@ export default {
     },
     "escavalier": {
         "base_id": 589,
+        "form_id": 0,
         "name": "Escavalier",
         "pokemon_type": [
             "BUG",
@@ -14958,6 +15562,7 @@ export default {
     },
     "foongus": {
         "base_id": 590,
+        "form_id": 0,
         "name": "Foongus",
         "pokemon_type": [
             "GRASS",
@@ -14982,6 +15587,7 @@ export default {
     },
     "amoonguss": {
         "base_id": 591,
+        "form_id": 0,
         "name": "Amoonguss",
         "pokemon_type": [
             "GRASS",
@@ -15000,6 +15606,7 @@ export default {
     },
     "frillish": {
         "base_id": 592,
+        "form_id": 0,
         "name": "Frillish",
         "pokemon_type": [
             "WATER",
@@ -15025,6 +15632,7 @@ export default {
     },
     "jellicent": {
         "base_id": 593,
+        "form_id": 0,
         "name": "Jellicent",
         "pokemon_type": [
             "WATER",
@@ -15044,6 +15652,7 @@ export default {
     },
     "alomomola": {
         "base_id": 594,
+        "form_id": 0,
         "name": "Alomomola",
         "pokemon_type": [
             "WATER"
@@ -15062,6 +15671,7 @@ export default {
     },
     "joltik": {
         "base_id": 595,
+        "form_id": 0,
         "name": "Joltik",
         "pokemon_type": [
             "BUG",
@@ -15086,6 +15696,7 @@ export default {
     },
     "galvantula": {
         "base_id": 596,
+        "form_id": 0,
         "name": "Galvantula",
         "pokemon_type": [
             "BUG",
@@ -15104,6 +15715,7 @@ export default {
     },
     "ferroseed": {
         "base_id": 597,
+        "form_id": 0,
         "name": "Ferroseed",
         "pokemon_type": [
             "GRASS",
@@ -15129,6 +15741,7 @@ export default {
     },
     "ferrothorn": {
         "base_id": 598,
+        "form_id": 0,
         "name": "Ferrothorn",
         "pokemon_type": [
             "GRASS",
@@ -15148,6 +15761,7 @@ export default {
     },
     "klink": {
         "base_id": 599,
+        "form_id": 0,
         "name": "Klink",
         "pokemon_type": [
             "STEEL"
@@ -15171,6 +15785,7 @@ export default {
     },
     "klang": {
         "base_id": 600,
+        "form_id": 0,
         "name": "Klang",
         "pokemon_type": [
             "STEEL"
@@ -15194,6 +15809,7 @@ export default {
     },
     "klinklang": {
         "base_id": 601,
+        "form_id": 0,
         "name": "Klinklang",
         "pokemon_type": [
             "STEEL"
@@ -15211,6 +15827,7 @@ export default {
     },
     "tynamo": {
         "base_id": 602,
+        "form_id": 0,
         "name": "Tynamo",
         "pokemon_type": [
             "ELECTRIC"
@@ -15234,6 +15851,7 @@ export default {
     },
     "eelektrik": {
         "base_id": 603,
+        "form_id": 0,
         "name": "Eelektrik",
         "pokemon_type": [
             "ELECTRIC"
@@ -15257,6 +15875,7 @@ export default {
     },
     "eelektross": {
         "base_id": 604,
+        "form_id": 0,
         "name": "Eelektross",
         "pokemon_type": [
             "ELECTRIC"
@@ -15274,6 +15893,7 @@ export default {
     },
     "elgyem": {
         "base_id": 605,
+        "form_id": 0,
         "name": "Elgyem",
         "pokemon_type": [
             "PSYCHIC"
@@ -15297,6 +15917,7 @@ export default {
     },
     "beheeyem": {
         "base_id": 606,
+        "form_id": 0,
         "name": "Beheeyem",
         "pokemon_type": [
             "PSYCHIC"
@@ -15314,6 +15935,7 @@ export default {
     },
     "litwick": {
         "base_id": 607,
+        "form_id": 0,
         "name": "Litwick",
         "pokemon_type": [
             "GHOST",
@@ -15338,6 +15960,7 @@ export default {
     },
     "lampent": {
         "base_id": 608,
+        "form_id": 0,
         "name": "Lampent",
         "pokemon_type": [
             "GHOST",
@@ -15362,6 +15985,7 @@ export default {
     },
     "chandelure": {
         "base_id": 609,
+        "form_id": 0,
         "name": "Chandelure",
         "pokemon_type": [
             "GHOST",
@@ -15380,6 +16004,7 @@ export default {
     },
     "axew": {
         "base_id": 610,
+        "form_id": 0,
         "name": "Axew",
         "pokemon_type": [
             "DRAGON"
@@ -15404,6 +16029,7 @@ export default {
     },
     "fraxure": {
         "base_id": 611,
+        "form_id": 0,
         "name": "Fraxure",
         "pokemon_type": [
             "DRAGON"
@@ -15428,6 +16054,7 @@ export default {
     },
     "haxorus": {
         "base_id": 612,
+        "form_id": 0,
         "name": "Haxorus",
         "pokemon_type": [
             "DRAGON"
@@ -15446,6 +16073,7 @@ export default {
     },
     "cubchoo": {
         "base_id": 613,
+        "form_id": 0,
         "name": "Cubchoo",
         "pokemon_type": [
             "ICE"
@@ -15469,6 +16097,7 @@ export default {
     },
     "beartic": {
         "base_id": 614,
+        "form_id": 0,
         "name": "Beartic",
         "pokemon_type": [
             "ICE"
@@ -15486,6 +16115,7 @@ export default {
     },
     "cryogonal": {
         "base_id": 615,
+        "form_id": 0,
         "name": "Cryogonal",
         "pokemon_type": [
             "ICE"
@@ -15503,6 +16133,7 @@ export default {
     },
     "shelmet": {
         "base_id": 616,
+        "form_id": 0,
         "name": "Shelmet",
         "pokemon_type": [
             "BUG"
@@ -15526,6 +16157,7 @@ export default {
     },
     "accelgor": {
         "base_id": 617,
+        "form_id": 0,
         "name": "Accelgor",
         "pokemon_type": [
             "BUG"
@@ -15543,6 +16175,7 @@ export default {
     },
     "stunfisk": {
         "base_id": 618,
+        "form_id": 0,
         "name": "Stunfisk",
         "pokemon_type": [
             "GROUND",
@@ -15582,6 +16215,7 @@ export default {
     },
     "mienfoo": {
         "base_id": 619,
+        "form_id": 0,
         "name": "Mienfoo",
         "pokemon_type": [
             "FIGHTING"
@@ -15606,6 +16240,7 @@ export default {
     },
     "mienshao": {
         "base_id": 620,
+        "form_id": 0,
         "name": "Mienshao",
         "pokemon_type": [
             "FIGHTING"
@@ -15624,6 +16259,7 @@ export default {
     },
     "druddigon": {
         "base_id": 621,
+        "form_id": 0,
         "name": "Druddigon",
         "pokemon_type": [
             "DRAGON"
@@ -15642,6 +16278,7 @@ export default {
     },
     "golett": {
         "base_id": 622,
+        "form_id": 0,
         "name": "Golett",
         "pokemon_type": [
             "GROUND",
@@ -15666,6 +16303,7 @@ export default {
     },
     "golurk": {
         "base_id": 623,
+        "form_id": 0,
         "name": "Golurk",
         "pokemon_type": [
             "GROUND",
@@ -15684,6 +16322,7 @@ export default {
     },
     "pawniard": {
         "base_id": 624,
+        "form_id": 0,
         "name": "Pawniard",
         "pokemon_type": [
             "DARK",
@@ -15708,6 +16347,7 @@ export default {
     },
     "bisharp": {
         "base_id": 625,
+        "form_id": 0,
         "name": "Bisharp",
         "pokemon_type": [
             "DARK",
@@ -15726,6 +16366,7 @@ export default {
     },
     "bouffalant": {
         "base_id": 626,
+        "form_id": 0,
         "name": "Bouffalant",
         "pokemon_type": [
             "NORMAL"
@@ -15743,6 +16384,7 @@ export default {
     },
     "rufflet": {
         "base_id": 627,
+        "form_id": 0,
         "name": "Rufflet",
         "pokemon_type": [
             "NORMAL",
@@ -15754,6 +16396,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 5,
@@ -15770,6 +16413,7 @@ export default {
     },
     "braviary": {
         "base_id": 628,
+        "form_id": 0,
         "name": "Braviary",
         "pokemon_type": [
             "NORMAL",
@@ -15781,6 +16425,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "RED",
         "experience_group": "Slow",
         "generation": 5
@@ -15799,12 +16444,14 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "WHITE",
         "experience_group": "Slow",
         "generation": 8
     },
     "vullaby": {
         "base_id": 629,
+        "form_id": 0,
         "name": "Vullaby",
         "pokemon_type": [
             "DARK",
@@ -15829,6 +16476,7 @@ export default {
     },
     "mandibuzz": {
         "base_id": 630,
+        "form_id": 0,
         "name": "Mandibuzz",
         "pokemon_type": [
             "DARK",
@@ -15847,6 +16495,7 @@ export default {
     },
     "heatmor": {
         "base_id": 631,
+        "form_id": 0,
         "name": "Heatmor",
         "pokemon_type": [
             "FIRE"
@@ -15864,6 +16513,7 @@ export default {
     },
     "durant": {
         "base_id": 632,
+        "form_id": 0,
         "name": "Durant",
         "pokemon_type": [
             "BUG",
@@ -15882,6 +16532,7 @@ export default {
     },
     "deino": {
         "base_id": 633,
+        "form_id": 0,
         "name": "Deino",
         "pokemon_type": [
             "DARK",
@@ -15906,6 +16557,7 @@ export default {
     },
     "zweilous": {
         "base_id": 634,
+        "form_id": 0,
         "name": "Zweilous",
         "pokemon_type": [
             "DARK",
@@ -15930,6 +16582,7 @@ export default {
     },
     "hydreigon": {
         "base_id": 635,
+        "form_id": 0,
         "name": "Hydreigon",
         "pokemon_type": [
             "DARK",
@@ -15948,6 +16601,7 @@ export default {
     },
     "larvesta": {
         "base_id": 636,
+        "form_id": 0,
         "name": "Larvesta",
         "pokemon_type": [
             "BUG",
@@ -15972,6 +16626,7 @@ export default {
     },
     "volcarona": {
         "base_id": 637,
+        "form_id": 0,
         "name": "Volcarona",
         "pokemon_type": [
             "BUG",
@@ -15990,6 +16645,7 @@ export default {
     },
     "cobalion": {
         "base_id": 638,
+        "form_id": 0,
         "name": "Cobalion",
         "pokemon_type": [
             "STEEL",
@@ -16009,6 +16665,7 @@ export default {
     },
     "terrakion": {
         "base_id": 639,
+        "form_id": 0,
         "name": "Terrakion",
         "pokemon_type": [
             "ROCK",
@@ -16028,6 +16685,7 @@ export default {
     },
     "virizion": {
         "base_id": 640,
+        "form_id": 0,
         "name": "Virizion",
         "pokemon_type": [
             "GRASS",
@@ -16047,6 +16705,7 @@ export default {
     },
     "tornadus": {
         "base_id": 641,
+        "form_id": 0,
         "name": "Tornadus",
         "form_name": "Incarnate Form",
         "pokemon_type": [
@@ -16058,6 +16717,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "GREEN",
         "experience_group": "Slow",
@@ -16077,6 +16737,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "GREEN",
         "experience_group": "Slow",
@@ -16084,6 +16745,7 @@ export default {
     },
     "thundurus": {
         "base_id": 642,
+        "form_id": 0,
         "name": "Thundurus",
         "form_name": "Incarnate Form",
         "pokemon_type": [
@@ -16096,6 +16758,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "BLUE",
         "experience_group": "Slow",
@@ -16116,6 +16779,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "BLUE",
         "experience_group": "Slow",
@@ -16123,6 +16787,7 @@ export default {
     },
     "reshiram": {
         "base_id": 643,
+        "form_id": 0,
         "name": "Reshiram",
         "pokemon_type": [
             "DRAGON",
@@ -16142,6 +16807,7 @@ export default {
     },
     "zekrom": {
         "base_id": 644,
+        "form_id": 0,
         "name": "Zekrom",
         "pokemon_type": [
             "DRAGON",
@@ -16161,6 +16827,7 @@ export default {
     },
     "landorus": {
         "base_id": 645,
+        "form_id": 0,
         "name": "Landorus",
         "form_name": "Incarnate Form",
         "pokemon_type": [
@@ -16173,6 +16840,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "BROWN",
         "experience_group": "Slow",
@@ -16193,6 +16861,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "is_sublegendary": true,
         "color": "BROWN",
         "experience_group": "Slow",
@@ -16200,6 +16869,7 @@ export default {
     },
     "kyurem": {
         "base_id": 646,
+        "form_id": 0,
         "name": "Kyurem",
         "pokemon_type": [
             "DRAGON",
@@ -16259,6 +16929,7 @@ export default {
     },
     "keldeo": {
         "base_id": 647,
+        "form_id": 0,
         "name": "Keldeo",
         "pokemon_type": [
             "WATER",
@@ -16278,6 +16949,7 @@ export default {
     },
     "meloetta": {
         "base_id": 648,
+        "form_id": 0,
         "name": "Meloetta",
         "pokemon_type": [
             "NORMAL",
@@ -16297,6 +16969,7 @@ export default {
     },
     "genesect": {
         "base_id": 649,
+        "form_id": 0,
         "name": "Genesect",
         "pokemon_type": [
             "BUG",
@@ -16316,6 +16989,7 @@ export default {
     },
     "chespin": {
         "base_id": 650,
+        "form_id": 0,
         "name": "Chespin",
         "pokemon_type": [
             "GRASS"
@@ -16339,6 +17013,7 @@ export default {
     },
     "quilladin": {
         "base_id": 651,
+        "form_id": 0,
         "name": "Quilladin",
         "pokemon_type": [
             "GRASS"
@@ -16362,6 +17037,7 @@ export default {
     },
     "chesnaught": {
         "base_id": 652,
+        "form_id": 0,
         "name": "Chesnaught",
         "pokemon_type": [
             "GRASS",
@@ -16380,6 +17056,7 @@ export default {
     },
     "fennekin": {
         "base_id": 653,
+        "form_id": 0,
         "name": "Fennekin",
         "pokemon_type": [
             "FIRE"
@@ -16403,6 +17080,7 @@ export default {
     },
     "braixen": {
         "base_id": 654,
+        "form_id": 0,
         "name": "Braixen",
         "pokemon_type": [
             "FIRE"
@@ -16426,6 +17104,7 @@ export default {
     },
     "delphox": {
         "base_id": 655,
+        "form_id": 0,
         "name": "Delphox",
         "pokemon_type": [
             "FIRE",
@@ -16444,6 +17123,7 @@ export default {
     },
     "froakie": {
         "base_id": 656,
+        "form_id": 0,
         "name": "Froakie",
         "pokemon_type": [
             "WATER"
@@ -16467,6 +17147,7 @@ export default {
     },
     "frogadier": {
         "base_id": 657,
+        "form_id": 0,
         "name": "Frogadier",
         "pokemon_type": [
             "WATER"
@@ -16490,6 +17171,7 @@ export default {
     },
     "greninja": {
         "base_id": 658,
+        "form_id": 0,
         "name": "Greninja",
         "pokemon_type": [
             "WATER",
@@ -16508,6 +17190,7 @@ export default {
     },
     "bunnelby": {
         "base_id": 659,
+        "form_id": 0,
         "name": "Bunnelby",
         "pokemon_type": [
             "NORMAL"
@@ -16531,6 +17214,7 @@ export default {
     },
     "diggersby": {
         "base_id": 660,
+        "form_id": 0,
         "name": "Diggersby",
         "pokemon_type": [
             "NORMAL",
@@ -16549,6 +17233,7 @@ export default {
     },
     "fletchling": {
         "base_id": 661,
+        "form_id": 0,
         "name": "Fletchling",
         "pokemon_type": [
             "NORMAL",
@@ -16573,6 +17258,7 @@ export default {
     },
     "fletchinder": {
         "base_id": 662,
+        "form_id": 0,
         "name": "Fletchinder",
         "pokemon_type": [
             "FIRE",
@@ -16597,6 +17283,7 @@ export default {
     },
     "talonflame": {
         "base_id": 663,
+        "form_id": 0,
         "name": "Talonflame",
         "pokemon_type": [
             "FIRE",
@@ -16683,6 +17370,7 @@ export default {
     },
     "litleo": {
         "base_id": 667,
+        "form_id": 0,
         "name": "Litleo",
         "pokemon_type": [
             "FIRE",
@@ -16707,6 +17395,7 @@ export default {
     },
     "pyroar": {
         "base_id": 668,
+        "form_id": 0,
         "name": "Pyroar",
         "pokemon_type": [
             "FIRE",
@@ -16726,6 +17415,7 @@ export default {
     },
     "flabebe": {
         "base_id": 669,
+        "form_id": 0,
         "name": "Flab\u00c3\u00a9b\u00c3\u00a9",
         "form_name": "Red Flower",
         "pokemon_type": [
@@ -16750,6 +17440,7 @@ export default {
     },
     "floette": {
         "base_id": 670,
+        "form_id": 0,
         "name": "Floette",
         "form_name": "Red Flower",
         "pokemon_type": [
@@ -16774,6 +17465,7 @@ export default {
     },
     "florges": {
         "base_id": 671,
+        "form_id": 0,
         "name": "Florges",
         "form_name": "Red Flower",
         "pokemon_type": [
@@ -16792,6 +17484,7 @@ export default {
     },
     "skiddo": {
         "base_id": 672,
+        "form_id": 0,
         "name": "Skiddo",
         "pokemon_type": [
             "GRASS"
@@ -16815,6 +17508,7 @@ export default {
     },
     "gogoat": {
         "base_id": 673,
+        "form_id": 0,
         "name": "Gogoat",
         "pokemon_type": [
             "GRASS"
@@ -16832,6 +17526,7 @@ export default {
     },
     "pancham": {
         "base_id": 674,
+        "form_id": 0,
         "name": "Pancham",
         "pokemon_type": [
             "FIGHTING"
@@ -16856,6 +17551,7 @@ export default {
     },
     "pangoro": {
         "base_id": 675,
+        "form_id": 0,
         "name": "Pangoro",
         "pokemon_type": [
             "FIGHTING",
@@ -16875,6 +17571,7 @@ export default {
     },
     "furfrou": {
         "base_id": 676,
+        "form_id": 0,
         "name": "Furfrou",
         "form_name": "Natural Form",
         "pokemon_type": [
@@ -16893,6 +17590,7 @@ export default {
     },
     "espurr": {
         "base_id": 677,
+        "form_id": 0,
         "name": "Espurr",
         "pokemon_type": [
             "PSYCHIC"
@@ -16920,6 +17618,7 @@ export default {
     },
     "meowstic": {
         "base_id": 678,
+        "form_id": 0,
         "name": "Meowstic",
         "form_name": "Male",
         "pokemon_type": [
@@ -16931,6 +17630,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "BLUE",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -16956,6 +17656,7 @@ export default {
     },
     "honedge": {
         "base_id": 679,
+        "form_id": 0,
         "name": "Honedge",
         "pokemon_type": [
             "STEEL",
@@ -16980,6 +17681,7 @@ export default {
     },
     "doublade": {
         "base_id": 680,
+        "form_id": 0,
         "name": "Doublade",
         "pokemon_type": [
             "STEEL",
@@ -17023,6 +17725,7 @@ export default {
     },
     "spritzee": {
         "base_id": 682,
+        "form_id": 0,
         "name": "Spritzee",
         "pokemon_type": [
             "FAIRY"
@@ -17046,6 +17749,7 @@ export default {
     },
     "aromatisse": {
         "base_id": 683,
+        "form_id": 0,
         "name": "Aromatisse",
         "pokemon_type": [
             "FAIRY"
@@ -17063,6 +17767,7 @@ export default {
     },
     "swirlix": {
         "base_id": 684,
+        "form_id": 0,
         "name": "Swirlix",
         "pokemon_type": [
             "FAIRY"
@@ -17086,6 +17791,7 @@ export default {
     },
     "slurpuff": {
         "base_id": 685,
+        "form_id": 0,
         "name": "Slurpuff",
         "pokemon_type": [
             "FAIRY"
@@ -17103,6 +17809,7 @@ export default {
     },
     "inkay": {
         "base_id": 686,
+        "form_id": 0,
         "name": "Inkay",
         "pokemon_type": [
             "DARK",
@@ -17128,6 +17835,7 @@ export default {
     },
     "malamar": {
         "base_id": 687,
+        "form_id": 0,
         "name": "Malamar",
         "pokemon_type": [
             "DARK",
@@ -17147,6 +17855,7 @@ export default {
     },
     "binacle": {
         "base_id": 688,
+        "form_id": 0,
         "name": "Binacle",
         "pokemon_type": [
             "ROCK",
@@ -17171,6 +17880,7 @@ export default {
     },
     "barbaracle": {
         "base_id": 689,
+        "form_id": 0,
         "name": "Barbaracle",
         "pokemon_type": [
             "ROCK",
@@ -17189,6 +17899,7 @@ export default {
     },
     "skrelp": {
         "base_id": 690,
+        "form_id": 0,
         "name": "Skrelp",
         "pokemon_type": [
             "POISON",
@@ -17214,6 +17925,7 @@ export default {
     },
     "dragalge": {
         "base_id": 691,
+        "form_id": 0,
         "name": "Dragalge",
         "pokemon_type": [
             "POISON",
@@ -17233,6 +17945,7 @@ export default {
     },
     "clauncher": {
         "base_id": 692,
+        "form_id": 0,
         "name": "Clauncher",
         "pokemon_type": [
             "WATER"
@@ -17257,6 +17970,7 @@ export default {
     },
     "clawitzer": {
         "base_id": 693,
+        "form_id": 0,
         "name": "Clawitzer",
         "pokemon_type": [
             "WATER"
@@ -17275,6 +17989,7 @@ export default {
     },
     "helioptile": {
         "base_id": 694,
+        "form_id": 0,
         "name": "Helioptile",
         "pokemon_type": [
             "ELECTRIC",
@@ -17300,6 +18015,7 @@ export default {
     },
     "heliolisk": {
         "base_id": 695,
+        "form_id": 0,
         "name": "Heliolisk",
         "pokemon_type": [
             "ELECTRIC",
@@ -17319,6 +18035,7 @@ export default {
     },
     "tyrunt": {
         "base_id": 696,
+        "form_id": 0,
         "name": "Tyrunt",
         "pokemon_type": [
             "ROCK",
@@ -17344,6 +18061,7 @@ export default {
     },
     "tyrantrum": {
         "base_id": 697,
+        "form_id": 0,
         "name": "Tyrantrum",
         "pokemon_type": [
             "ROCK",
@@ -17363,6 +18081,7 @@ export default {
     },
     "amaura": {
         "base_id": 698,
+        "form_id": 0,
         "name": "Amaura",
         "pokemon_type": [
             "ROCK",
@@ -17387,6 +18106,7 @@ export default {
     },
     "aurorus": {
         "base_id": 699,
+        "form_id": 0,
         "name": "Aurorus",
         "pokemon_type": [
             "ROCK",
@@ -17405,6 +18125,7 @@ export default {
     },
     "sylveon": {
         "base_id": 700,
+        "form_id": 0,
         "name": "Sylveon",
         "pokemon_type": [
             "FAIRY"
@@ -17422,6 +18143,7 @@ export default {
     },
     "hawlucha": {
         "base_id": 701,
+        "form_id": 0,
         "name": "Hawlucha",
         "pokemon_type": [
             "FIGHTING",
@@ -17440,6 +18162,7 @@ export default {
     },
     "dedenne": {
         "base_id": 702,
+        "form_id": 0,
         "name": "Dedenne",
         "pokemon_type": [
             "ELECTRIC",
@@ -17459,6 +18182,7 @@ export default {
     },
     "carbink": {
         "base_id": 703,
+        "form_id": 0,
         "name": "Carbink",
         "pokemon_type": [
             "ROCK",
@@ -17478,6 +18202,7 @@ export default {
     },
     "goomy": {
         "base_id": 704,
+        "form_id": 0,
         "name": "Goomy",
         "pokemon_type": [
             "DRAGON"
@@ -17505,6 +18230,7 @@ export default {
     },
     "sliggoo": {
         "base_id": 705,
+        "form_id": 0,
         "name": "Sliggoo",
         "pokemon_type": [
             "DRAGON"
@@ -17553,6 +18279,7 @@ export default {
     },
     "goodra": {
         "base_id": 706,
+        "form_id": 0,
         "name": "Goodra",
         "pokemon_type": [
             "DRAGON"
@@ -17589,6 +18316,7 @@ export default {
     },
     "klefki": {
         "base_id": 707,
+        "form_id": 0,
         "name": "Klefki",
         "pokemon_type": [
             "STEEL",
@@ -17607,6 +18335,7 @@ export default {
     },
     "phantump": {
         "base_id": 708,
+        "form_id": 0,
         "name": "Phantump",
         "pokemon_type": [
             "GHOST",
@@ -17632,6 +18361,7 @@ export default {
     },
     "trevenant": {
         "base_id": 709,
+        "form_id": 0,
         "name": "Trevenant",
         "pokemon_type": [
             "GHOST",
@@ -17651,6 +18381,7 @@ export default {
     },
     "pumpkaboo": {
         "base_id": 710,
+        "form_id": 0,
         "name": "Pumpkaboo",
         "pokemon_type": [
             "GHOST",
@@ -17675,6 +18406,7 @@ export default {
     },
     "gourgeist": {
         "base_id": 711,
+        "form_id": 0,
         "name": "Gourgeist",
         "pokemon_type": [
             "GHOST",
@@ -17693,6 +18425,7 @@ export default {
     },
     "bergmite": {
         "base_id": 712,
+        "form_id": 0,
         "name": "Bergmite",
         "pokemon_type": [
             "ICE"
@@ -17720,6 +18453,7 @@ export default {
     },
     "avalugg": {
         "base_id": 713,
+        "form_id": 0,
         "name": "Avalugg",
         "pokemon_type": [
             "ICE"
@@ -17756,6 +18490,7 @@ export default {
     },
     "noibat": {
         "base_id": 714,
+        "form_id": 0,
         "name": "Noibat",
         "pokemon_type": [
             "FLYING",
@@ -17780,6 +18515,7 @@ export default {
     },
     "noivern": {
         "base_id": 715,
+        "form_id": 0,
         "name": "Noivern",
         "pokemon_type": [
             "FLYING",
@@ -17817,6 +18553,7 @@ export default {
     },
     "yveltal": {
         "base_id": 717,
+        "form_id": 0,
         "name": "Yveltal",
         "pokemon_type": [
             "DARK",
@@ -17836,6 +18573,7 @@ export default {
     },
     "zygarde": {
         "base_id": 718,
+        "form_id": 0,
         "name": "Zygarde",
         "pokemon_type": [
             "DRAGON",
@@ -17876,6 +18614,7 @@ export default {
     },
     "diancie": {
         "base_id": 719,
+        "form_id": 0,
         "name": "Diancie",
         "pokemon_type": [
             "ROCK",
@@ -17915,6 +18654,7 @@ export default {
     },
     "hoopa": {
         "base_id": 720,
+        "form_id": 0,
         "name": "Hoopa Confined",
         "pokemon_type": [
             "PSYCHIC",
@@ -17954,6 +18694,7 @@ export default {
     },
     "volcanion": {
         "base_id": 721,
+        "form_id": 0,
         "name": "Volcanion",
         "pokemon_type": [
             "FIRE",
@@ -17973,6 +18714,7 @@ export default {
     },
     "rowlet": {
         "base_id": 722,
+        "form_id": 0,
         "name": "Rowlet",
         "pokemon_type": [
             "GRASS",
@@ -17997,6 +18739,7 @@ export default {
     },
     "dartrix": {
         "base_id": 723,
+        "form_id": 0,
         "name": "Dartrix",
         "pokemon_type": [
             "GRASS",
@@ -18025,6 +18768,7 @@ export default {
     },
     "decidueye": {
         "base_id": 724,
+        "form_id": 0,
         "name": "Decidueye",
         "pokemon_type": [
             "GRASS",
@@ -18062,6 +18806,7 @@ export default {
     },
     "litten": {
         "base_id": 725,
+        "form_id": 0,
         "name": "Litten",
         "pokemon_type": [
             "FIRE"
@@ -18085,6 +18830,7 @@ export default {
     },
     "torracat": {
         "base_id": 726,
+        "form_id": 0,
         "name": "Torracat",
         "pokemon_type": [
             "FIRE"
@@ -18108,6 +18854,7 @@ export default {
     },
     "incineroar": {
         "base_id": 727,
+        "form_id": 0,
         "name": "Incineroar",
         "pokemon_type": [
             "FIRE",
@@ -18126,6 +18873,7 @@ export default {
     },
     "popplio": {
         "base_id": 728,
+        "form_id": 0,
         "name": "Popplio",
         "pokemon_type": [
             "WATER"
@@ -18150,6 +18898,7 @@ export default {
     },
     "brionne": {
         "base_id": 729,
+        "form_id": 0,
         "name": "Brionne",
         "pokemon_type": [
             "WATER"
@@ -18174,6 +18923,7 @@ export default {
     },
     "primarina": {
         "base_id": 730,
+        "form_id": 0,
         "name": "Primarina",
         "pokemon_type": [
             "WATER",
@@ -18193,6 +18943,7 @@ export default {
     },
     "pikipek": {
         "base_id": 731,
+        "form_id": 0,
         "name": "Pikipek",
         "pokemon_type": [
             "NORMAL",
@@ -18217,6 +18968,7 @@ export default {
     },
     "trumbeak": {
         "base_id": 732,
+        "form_id": 0,
         "name": "Trumbeak",
         "pokemon_type": [
             "NORMAL",
@@ -18241,6 +18993,7 @@ export default {
     },
     "toucannon": {
         "base_id": 733,
+        "form_id": 0,
         "name": "Toucannon",
         "pokemon_type": [
             "NORMAL",
@@ -18259,6 +19012,7 @@ export default {
     },
     "yungoos": {
         "base_id": 734,
+        "form_id": 0,
         "name": "Yungoos",
         "pokemon_type": [
             "NORMAL"
@@ -18282,6 +19036,7 @@ export default {
     },
     "gumshoos": {
         "base_id": 735,
+        "form_id": 0,
         "name": "Gumshoos",
         "pokemon_type": [
             "NORMAL"
@@ -18299,6 +19054,7 @@ export default {
     },
     "grubbin": {
         "base_id": 736,
+        "form_id": 0,
         "name": "Grubbin",
         "pokemon_type": [
             "BUG"
@@ -18322,6 +19078,7 @@ export default {
     },
     "charjabug": {
         "base_id": 737,
+        "form_id": 0,
         "name": "Charjabug",
         "pokemon_type": [
             "BUG",
@@ -18346,6 +19103,7 @@ export default {
     },
     "vikavolt": {
         "base_id": 738,
+        "form_id": 0,
         "name": "Vikavolt",
         "pokemon_type": [
             "BUG",
@@ -18364,6 +19122,7 @@ export default {
     },
     "crabrawler": {
         "base_id": 739,
+        "form_id": 0,
         "name": "Crabrawler",
         "pokemon_type": [
             "FIGHTING"
@@ -18387,6 +19146,7 @@ export default {
     },
     "crabominable": {
         "base_id": 740,
+        "form_id": 0,
         "name": "Crabominable",
         "pokemon_type": [
             "FIGHTING",
@@ -18405,6 +19165,7 @@ export default {
     },
     "oricorio": {
         "base_id": 741,
+        "form_id": 0,
         "name": "Oricorio",
         "form_name": "Baile Style",
         "pokemon_type": [
@@ -18484,6 +19245,7 @@ export default {
     },
     "cutiefly": {
         "base_id": 742,
+        "form_id": 0,
         "name": "Cutiefly",
         "pokemon_type": [
             "BUG",
@@ -18509,6 +19271,7 @@ export default {
     },
     "ribombee": {
         "base_id": 743,
+        "form_id": 0,
         "name": "Ribombee",
         "pokemon_type": [
             "BUG",
@@ -18528,6 +19291,7 @@ export default {
     },
     "rockruff": {
         "base_id": 744,
+        "form_id": 0,
         "name": "Rockruff",
         "pokemon_type": [
             "ROCK"
@@ -18555,6 +19319,7 @@ export default {
     },
     "lycanroc": {
         "base_id": 745,
+        "form_id": 0,
         "name": "Lycanroc",
         "form_name": "Midday Form",
         "pokemon_type": [
@@ -18629,6 +19394,7 @@ export default {
     },
     "mareanie": {
         "base_id": 747,
+        "form_id": 0,
         "name": "Mareanie",
         "pokemon_type": [
             "POISON",
@@ -18653,6 +19419,7 @@ export default {
     },
     "toxapex": {
         "base_id": 748,
+        "form_id": 0,
         "name": "Toxapex",
         "pokemon_type": [
             "POISON",
@@ -18671,6 +19438,7 @@ export default {
     },
     "mudbray": {
         "base_id": 749,
+        "form_id": 0,
         "name": "Mudbray",
         "pokemon_type": [
             "GROUND"
@@ -18694,6 +19462,7 @@ export default {
     },
     "mudsdale": {
         "base_id": 750,
+        "form_id": 0,
         "name": "Mudsdale",
         "pokemon_type": [
             "GROUND"
@@ -18711,6 +19480,7 @@ export default {
     },
     "dewpider": {
         "base_id": 751,
+        "form_id": 0,
         "name": "Dewpider",
         "pokemon_type": [
             "WATER",
@@ -18736,6 +19506,7 @@ export default {
     },
     "araquanid": {
         "base_id": 752,
+        "form_id": 0,
         "name": "Araquanid",
         "pokemon_type": [
             "WATER",
@@ -18755,6 +19526,7 @@ export default {
     },
     "fomantis": {
         "base_id": 753,
+        "form_id": 0,
         "name": "Fomantis",
         "pokemon_type": [
             "GRASS"
@@ -18778,6 +19550,7 @@ export default {
     },
     "lurantis": {
         "base_id": 754,
+        "form_id": 0,
         "name": "Lurantis",
         "pokemon_type": [
             "GRASS"
@@ -18795,6 +19568,7 @@ export default {
     },
     "morelull": {
         "base_id": 755,
+        "form_id": 0,
         "name": "Morelull",
         "pokemon_type": [
             "GRASS",
@@ -18819,6 +19593,7 @@ export default {
     },
     "shiinotic": {
         "base_id": 756,
+        "form_id": 0,
         "name": "Shiinotic",
         "pokemon_type": [
             "GRASS",
@@ -18837,6 +19612,7 @@ export default {
     },
     "salandit": {
         "base_id": 757,
+        "form_id": 0,
         "name": "Salandit",
         "pokemon_type": [
             "POISON",
@@ -18862,6 +19638,7 @@ export default {
     },
     "salazzle": {
         "base_id": 758,
+        "form_id": 0,
         "name": "Salazzle",
         "pokemon_type": [
             "POISON",
@@ -18881,6 +19658,7 @@ export default {
     },
     "stufful": {
         "base_id": 759,
+        "form_id": 0,
         "name": "Stufful",
         "pokemon_type": [
             "NORMAL",
@@ -18905,6 +19683,7 @@ export default {
     },
     "bewear": {
         "base_id": 760,
+        "form_id": 0,
         "name": "Bewear",
         "pokemon_type": [
             "NORMAL",
@@ -18923,6 +19702,7 @@ export default {
     },
     "bounsweet": {
         "base_id": 761,
+        "form_id": 0,
         "name": "Bounsweet",
         "pokemon_type": [
             "GRASS"
@@ -18946,6 +19726,7 @@ export default {
     },
     "steenee": {
         "base_id": 762,
+        "form_id": 0,
         "name": "Steenee",
         "pokemon_type": [
             "GRASS"
@@ -18969,6 +19750,7 @@ export default {
     },
     "tsareena": {
         "base_id": 763,
+        "form_id": 0,
         "name": "Tsareena",
         "pokemon_type": [
             "GRASS"
@@ -18986,6 +19768,7 @@ export default {
     },
     "comfey": {
         "base_id": 764,
+        "form_id": 0,
         "name": "Comfey",
         "pokemon_type": [
             "FAIRY"
@@ -19003,6 +19786,7 @@ export default {
     },
     "oranguru": {
         "base_id": 765,
+        "form_id": 0,
         "name": "Oranguru",
         "pokemon_type": [
             "NORMAL",
@@ -19021,6 +19805,7 @@ export default {
     },
     "passimian": {
         "base_id": 766,
+        "form_id": 0,
         "name": "Passimian",
         "pokemon_type": [
             "FIGHTING"
@@ -19038,6 +19823,7 @@ export default {
     },
     "wimpod": {
         "base_id": 767,
+        "form_id": 0,
         "name": "Wimpod",
         "pokemon_type": [
             "BUG",
@@ -19063,6 +19849,7 @@ export default {
     },
     "golisopod": {
         "base_id": 768,
+        "form_id": 0,
         "name": "Golisopod",
         "pokemon_type": [
             "BUG",
@@ -19082,6 +19869,7 @@ export default {
     },
     "sandygast": {
         "base_id": 769,
+        "form_id": 0,
         "name": "Sandygast",
         "pokemon_type": [
             "GHOST",
@@ -19106,6 +19894,7 @@ export default {
     },
     "palossand": {
         "base_id": 770,
+        "form_id": 0,
         "name": "Palossand",
         "pokemon_type": [
             "GHOST",
@@ -19124,6 +19913,7 @@ export default {
     },
     "pyukumuku": {
         "base_id": 771,
+        "form_id": 0,
         "name": "Pyukumuku",
         "pokemon_type": [
             "WATER"
@@ -19141,6 +19931,7 @@ export default {
     },
     "type-null": {
         "base_id": 772,
+        "form_id": 0,
         "name": "Type: Null",
         "pokemon_type": [
             "NORMAL"
@@ -19165,6 +19956,7 @@ export default {
     },
     "silvally": {
         "base_id": 773,
+        "form_id": 0,
         "name": "Silvally",
         "pokemon_type": [
             "NORMAL"
@@ -19203,6 +19995,7 @@ export default {
     },
     "komala": {
         "base_id": 775,
+        "form_id": 0,
         "name": "Komala",
         "pokemon_type": [
             "NORMAL"
@@ -19220,6 +20013,7 @@ export default {
     },
     "turtonator": {
         "base_id": 776,
+        "form_id": 0,
         "name": "Turtonator",
         "pokemon_type": [
             "FIRE",
@@ -19239,6 +20033,7 @@ export default {
     },
     "togedemaru": {
         "base_id": 777,
+        "form_id": 0,
         "name": "Togedemaru",
         "pokemon_type": [
             "ELECTRIC",
@@ -19258,6 +20053,7 @@ export default {
     },
     "mimikyu": {
         "base_id": 778,
+        "form_id": 0,
         "name": "Mimikyu",
         "pokemon_type": [
             "GHOST",
@@ -19276,6 +20072,7 @@ export default {
     },
     "bruxish": {
         "base_id": 779,
+        "form_id": 0,
         "name": "Bruxish",
         "pokemon_type": [
             "WATER",
@@ -19294,6 +20091,7 @@ export default {
     },
     "drampa": {
         "base_id": 780,
+        "form_id": 0,
         "name": "Drampa",
         "pokemon_type": [
             "NORMAL",
@@ -19313,6 +20111,7 @@ export default {
     },
     "dhelmise": {
         "base_id": 781,
+        "form_id": 0,
         "name": "Dhelmise",
         "pokemon_type": [
             "GHOST",
@@ -19331,6 +20130,7 @@ export default {
     },
     "jangmo-o": {
         "base_id": 782,
+        "form_id": 0,
         "name": "Jangmo-o",
         "pokemon_type": [
             "DRAGON"
@@ -19354,6 +20154,7 @@ export default {
     },
     "hakamo-o": {
         "base_id": 783,
+        "form_id": 0,
         "name": "Hakamo-o",
         "pokemon_type": [
             "DRAGON",
@@ -19378,6 +20179,7 @@ export default {
     },
     "kommo-o": {
         "base_id": 784,
+        "form_id": 0,
         "name": "Kommo-o",
         "pokemon_type": [
             "DRAGON",
@@ -19396,6 +20198,7 @@ export default {
     },
     "tapu-koko": {
         "base_id": 785,
+        "form_id": 0,
         "name": "Tapu Koko",
         "pokemon_type": [
             "ELECTRIC",
@@ -19415,6 +20218,7 @@ export default {
     },
     "tapu-lele": {
         "base_id": 786,
+        "form_id": 0,
         "name": "Tapu Lele",
         "pokemon_type": [
             "PSYCHIC",
@@ -19434,6 +20238,7 @@ export default {
     },
     "tapu-bulu": {
         "base_id": 787,
+        "form_id": 0,
         "name": "Tapu Bulu",
         "pokemon_type": [
             "GRASS",
@@ -19453,6 +20258,7 @@ export default {
     },
     "tapu-fini": {
         "base_id": 788,
+        "form_id": 0,
         "name": "Tapu Fini",
         "pokemon_type": [
             "WATER",
@@ -19472,6 +20278,7 @@ export default {
     },
     "cosmog": {
         "base_id": 789,
+        "form_id": 0,
         "name": "Cosmog",
         "pokemon_type": [
             "PSYCHIC"
@@ -19496,6 +20303,7 @@ export default {
     },
     "cosmoem": {
         "base_id": 790,
+        "form_id": 0,
         "name": "Cosmoem",
         "pokemon_type": [
             "PSYCHIC"
@@ -19524,6 +20332,7 @@ export default {
     },
     "solgaleo": {
         "base_id": 791,
+        "form_id": 0,
         "name": "Solgaleo",
         "pokemon_type": [
             "PSYCHIC",
@@ -19543,6 +20352,7 @@ export default {
     },
     "lunala": {
         "base_id": 792,
+        "form_id": 0,
         "name": "Lunala",
         "pokemon_type": [
             "PSYCHIC",
@@ -19562,6 +20372,7 @@ export default {
     },
     "nihilego": {
         "base_id": 793,
+        "form_id": 0,
         "name": "Nihilego",
         "pokemon_type": [
             "ROCK",
@@ -19581,6 +20392,7 @@ export default {
     },
     "buzzwole": {
         "base_id": 794,
+        "form_id": 0,
         "name": "Buzzwole",
         "pokemon_type": [
             "BUG",
@@ -19600,6 +20412,7 @@ export default {
     },
     "pheromosa": {
         "base_id": 795,
+        "form_id": 0,
         "name": "Pheromosa",
         "pokemon_type": [
             "BUG",
@@ -19619,6 +20432,7 @@ export default {
     },
     "xurkitree": {
         "base_id": 796,
+        "form_id": 0,
         "name": "Xurkitree",
         "pokemon_type": [
             "ELECTRIC"
@@ -19637,6 +20451,7 @@ export default {
     },
     "celesteela": {
         "base_id": 797,
+        "form_id": 0,
         "name": "Celesteela",
         "pokemon_type": [
             "STEEL",
@@ -19656,6 +20471,7 @@ export default {
     },
     "kartana": {
         "base_id": 798,
+        "form_id": 0,
         "name": "Kartana",
         "pokemon_type": [
             "GRASS",
@@ -19675,6 +20491,7 @@ export default {
     },
     "guzzlord": {
         "base_id": 799,
+        "form_id": 0,
         "name": "Guzzlord",
         "pokemon_type": [
             "DARK",
@@ -19694,6 +20511,7 @@ export default {
     },
     "necrozma": {
         "base_id": 800,
+        "form_id": 0,
         "name": "Necrozma",
         "pokemon_type": [
             "PSYCHIC"
@@ -19752,6 +20570,7 @@ export default {
     },
     "magearna": {
         "base_id": 801,
+        "form_id": 0,
         "name": "Magearna",
         "pokemon_type": [
             "STEEL",
@@ -19791,6 +20610,7 @@ export default {
     },
     "marshadow": {
         "base_id": 802,
+        "form_id": 0,
         "name": "Marshadow",
         "pokemon_type": [
             "FIGHTING",
@@ -19810,6 +20630,7 @@ export default {
     },
     "poipole": {
         "base_id": 803,
+        "form_id": 0,
         "name": "Poipole",
         "pokemon_type": [
             "POISON"
@@ -19834,6 +20655,7 @@ export default {
     },
     "naganadel": {
         "base_id": 804,
+        "form_id": 0,
         "name": "Naganadel",
         "pokemon_type": [
             "POISON",
@@ -19853,6 +20675,7 @@ export default {
     },
     "stakataka": {
         "base_id": 805,
+        "form_id": 0,
         "name": "Stakataka",
         "pokemon_type": [
             "ROCK",
@@ -19872,6 +20695,7 @@ export default {
     },
     "blacephalon": {
         "base_id": 806,
+        "form_id": 0,
         "name": "Blacephalon",
         "pokemon_type": [
             "FIRE",
@@ -19891,6 +20715,7 @@ export default {
     },
     "zeraora": {
         "base_id": 807,
+        "form_id": 0,
         "name": "Zeraora",
         "pokemon_type": [
             "ELECTRIC"
@@ -19909,6 +20734,7 @@ export default {
     },
     "meltan": {
         "base_id": 808,
+        "form_id": 0,
         "name": "Meltan",
         "pokemon_type": [
             "STEEL"
@@ -19933,6 +20759,7 @@ export default {
     },
     "melmetal": {
         "base_id": 809,
+        "form_id": 0,
         "name": "Melmetal",
         "pokemon_type": [
             "STEEL"
@@ -19952,6 +20779,7 @@ export default {
     },
     "grookey": {
         "base_id": 810,
+        "form_id": 0,
         "name": "Grookey",
         "pokemon_type": [
             "GRASS"
@@ -19976,6 +20804,7 @@ export default {
     },
     "thwackey": {
         "base_id": 811,
+        "form_id": 0,
         "name": "Thwackey",
         "pokemon_type": [
             "GRASS"
@@ -20000,6 +20829,7 @@ export default {
     },
     "rillaboom": {
         "base_id": 812,
+        "form_id": 0,
         "name": "Rillaboom",
         "pokemon_type": [
             "GRASS"
@@ -20019,6 +20849,7 @@ export default {
     },
     "scorbunny": {
         "base_id": 813,
+        "form_id": 0,
         "name": "Scorbunny",
         "pokemon_type": [
             "FIRE"
@@ -20043,6 +20874,7 @@ export default {
     },
     "raboot": {
         "base_id": 814,
+        "form_id": 0,
         "name": "Raboot",
         "pokemon_type": [
             "FIRE"
@@ -20067,6 +20899,7 @@ export default {
     },
     "cinderace": {
         "base_id": 815,
+        "form_id": 0,
         "name": "Cinderace",
         "pokemon_type": [
             "FIRE"
@@ -20086,6 +20919,7 @@ export default {
     },
     "sobble": {
         "base_id": 816,
+        "form_id": 0,
         "name": "Sobble",
         "pokemon_type": [
             "WATER"
@@ -20110,6 +20944,7 @@ export default {
     },
     "drizzile": {
         "base_id": 817,
+        "form_id": 0,
         "name": "Drizzile",
         "pokemon_type": [
             "WATER"
@@ -20134,6 +20969,7 @@ export default {
     },
     "inteleon": {
         "base_id": 818,
+        "form_id": 0,
         "name": "Inteleon",
         "pokemon_type": [
             "WATER"
@@ -20153,6 +20989,7 @@ export default {
     },
     "skwovet": {
         "base_id": 819,
+        "form_id": 0,
         "name": "Skwovet",
         "pokemon_type": [
             "NORMAL"
@@ -20176,6 +21013,7 @@ export default {
     },
     "greedent": {
         "base_id": 820,
+        "form_id": 0,
         "name": "Greedent",
         "pokemon_type": [
             "NORMAL"
@@ -20193,6 +21031,7 @@ export default {
     },
     "rookidee": {
         "base_id": 821,
+        "form_id": 0,
         "name": "Rookidee",
         "pokemon_type": [
             "FLYING"
@@ -20216,6 +21055,7 @@ export default {
     },
     "corvisquire": {
         "base_id": 822,
+        "form_id": 0,
         "name": "Corvisquire",
         "pokemon_type": [
             "FLYING"
@@ -20239,6 +21079,7 @@ export default {
     },
     "corviknight": {
         "base_id": 823,
+        "form_id": 0,
         "name": "Corviknight",
         "pokemon_type": [
             "FLYING",
@@ -20258,6 +21099,7 @@ export default {
     },
     "blipbug": {
         "base_id": 824,
+        "form_id": 0,
         "name": "Blipbug",
         "pokemon_type": [
             "BUG"
@@ -20281,6 +21123,7 @@ export default {
     },
     "dottler": {
         "base_id": 825,
+        "form_id": 0,
         "name": "Dottler",
         "pokemon_type": [
             "BUG",
@@ -20305,6 +21148,7 @@ export default {
     },
     "orbeetle": {
         "base_id": 826,
+        "form_id": 0,
         "name": "Orbeetle",
         "pokemon_type": [
             "BUG",
@@ -20324,6 +21168,7 @@ export default {
     },
     "nickit": {
         "base_id": 827,
+        "form_id": 0,
         "name": "Nickit",
         "pokemon_type": [
             "DARK"
@@ -20347,6 +21192,7 @@ export default {
     },
     "thievul": {
         "base_id": 828,
+        "form_id": 0,
         "name": "Thievul",
         "pokemon_type": [
             "DARK"
@@ -20364,6 +21210,7 @@ export default {
     },
     "gossifleur": {
         "base_id": 829,
+        "form_id": 0,
         "name": "Gossifleur",
         "pokemon_type": [
             "GRASS"
@@ -20387,6 +21234,7 @@ export default {
     },
     "eldegoss": {
         "base_id": 830,
+        "form_id": 0,
         "name": "Eldegoss",
         "pokemon_type": [
             "GRASS"
@@ -20404,6 +21252,7 @@ export default {
     },
     "wooloo": {
         "base_id": 831,
+        "form_id": 0,
         "name": "Wooloo",
         "pokemon_type": [
             "NORMAL"
@@ -20427,6 +21276,7 @@ export default {
     },
     "dubwool": {
         "base_id": 832,
+        "form_id": 0,
         "name": "Dubwool",
         "pokemon_type": [
             "NORMAL"
@@ -20444,6 +21294,7 @@ export default {
     },
     "chewtle": {
         "base_id": 833,
+        "form_id": 0,
         "name": "Chewtle",
         "pokemon_type": [
             "WATER"
@@ -20468,6 +21319,7 @@ export default {
     },
     "drednaw": {
         "base_id": 834,
+        "form_id": 0,
         "name": "Drednaw",
         "pokemon_type": [
             "WATER",
@@ -20488,6 +21340,7 @@ export default {
     },
     "yamper": {
         "base_id": 835,
+        "form_id": 0,
         "name": "Yamper",
         "pokemon_type": [
             "ELECTRIC"
@@ -20511,6 +21364,7 @@ export default {
     },
     "boltund": {
         "base_id": 836,
+        "form_id": 0,
         "name": "Boltund",
         "pokemon_type": [
             "ELECTRIC"
@@ -20528,6 +21382,7 @@ export default {
     },
     "rolycoly": {
         "base_id": 837,
+        "form_id": 0,
         "name": "Rolycoly",
         "pokemon_type": [
             "ROCK"
@@ -20551,6 +21406,7 @@ export default {
     },
     "carkol": {
         "base_id": 838,
+        "form_id": 0,
         "name": "Carkol",
         "pokemon_type": [
             "ROCK",
@@ -20575,6 +21431,7 @@ export default {
     },
     "coalossal": {
         "base_id": 839,
+        "form_id": 0,
         "name": "Coalossal",
         "pokemon_type": [
             "ROCK",
@@ -20594,6 +21451,7 @@ export default {
     },
     "applin": {
         "base_id": 840,
+        "form_id": 0,
         "name": "Applin",
         "pokemon_type": [
             "GRASS",
@@ -20623,6 +21481,7 @@ export default {
     },
     "flapple": {
         "base_id": 841,
+        "form_id": 0,
         "name": "Flapple",
         "pokemon_type": [
             "GRASS",
@@ -20643,6 +21502,7 @@ export default {
     },
     "appletun": {
         "base_id": 842,
+        "form_id": 0,
         "name": "Appletun",
         "pokemon_type": [
             "GRASS",
@@ -20663,6 +21523,7 @@ export default {
     },
     "silicobra": {
         "base_id": 843,
+        "form_id": 0,
         "name": "Silicobra",
         "pokemon_type": [
             "GROUND"
@@ -20687,6 +21548,7 @@ export default {
     },
     "sandaconda": {
         "base_id": 844,
+        "form_id": 0,
         "name": "Sandaconda",
         "pokemon_type": [
             "GROUND"
@@ -20706,6 +21568,7 @@ export default {
     },
     "cramorant": {
         "base_id": 845,
+        "form_id": 0,
         "name": "Cramorant",
         "pokemon_type": [
             "FLYING",
@@ -20725,6 +21588,7 @@ export default {
     },
     "arrokuda": {
         "base_id": 846,
+        "form_id": 0,
         "name": "Arrokuda",
         "pokemon_type": [
             "WATER"
@@ -20748,6 +21612,7 @@ export default {
     },
     "barraskewda": {
         "base_id": 847,
+        "form_id": 0,
         "name": "Barraskewda",
         "pokemon_type": [
             "WATER"
@@ -20765,6 +21630,7 @@ export default {
     },
     "toxel": {
         "base_id": 848,
+        "form_id": 0,
         "name": "Toxel",
         "pokemon_type": [
             "ELECTRIC",
@@ -20794,6 +21660,7 @@ export default {
     },
     "toxtricity": {
         "base_id": 849,
+        "form_id": 0,
         "name": "Toxtricity",
         "form_name": "Amped Form",
         "pokemon_type": [
@@ -20835,6 +21702,7 @@ export default {
     },
     "sizzlipede": {
         "base_id": 850,
+        "form_id": 0,
         "name": "Sizzlipede",
         "pokemon_type": [
             "FIRE",
@@ -20859,6 +21727,7 @@ export default {
     },
     "centiskorch": {
         "base_id": 851,
+        "form_id": 0,
         "name": "Centiskorch",
         "pokemon_type": [
             "FIRE",
@@ -20878,6 +21747,7 @@ export default {
     },
     "clobbopus": {
         "base_id": 852,
+        "form_id": 0,
         "name": "Clobbopus",
         "pokemon_type": [
             "FIGHTING"
@@ -20902,6 +21772,7 @@ export default {
     },
     "grapploct": {
         "base_id": 853,
+        "form_id": 0,
         "name": "Grapploct",
         "pokemon_type": [
             "FIGHTING"
@@ -20920,6 +21791,7 @@ export default {
     },
     "sinistea": {
         "base_id": 854,
+        "form_id": 0,
         "name": "Sinistea",
         "pokemon_type": [
             "GHOST"
@@ -20944,6 +21816,7 @@ export default {
     },
     "polteageist": {
         "base_id": 855,
+        "form_id": 0,
         "name": "Polteageist",
         "pokemon_type": [
             "GHOST"
@@ -20962,6 +21835,7 @@ export default {
     },
     "hatenna": {
         "base_id": 856,
+        "form_id": 0,
         "name": "Hatenna",
         "pokemon_type": [
             "PSYCHIC"
@@ -20985,6 +21859,7 @@ export default {
     },
     "hattrem": {
         "base_id": 857,
+        "form_id": 0,
         "name": "Hattrem",
         "pokemon_type": [
             "PSYCHIC"
@@ -21008,6 +21883,7 @@ export default {
     },
     "hatterene": {
         "base_id": 858,
+        "form_id": 0,
         "name": "Hatterene",
         "pokemon_type": [
             "PSYCHIC",
@@ -21027,6 +21903,7 @@ export default {
     },
     "impidimp": {
         "base_id": 859,
+        "form_id": 0,
         "name": "Impidimp",
         "pokemon_type": [
             "DARK",
@@ -21039,6 +21916,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 8,
@@ -21051,6 +21929,7 @@ export default {
     },
     "morgrem": {
         "base_id": 860,
+        "form_id": 0,
         "name": "Morgrem",
         "pokemon_type": [
             "DARK",
@@ -21063,6 +21942,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PINK",
         "experience_group": "Medium Fast",
         "generation": 8,
@@ -21075,6 +21955,7 @@ export default {
     },
     "grimmsnarl": {
         "base_id": 861,
+        "form_id": 0,
         "name": "Grimmsnarl",
         "pokemon_type": [
             "DARK",
@@ -21087,6 +21968,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "has_gigantamax": true,
         "color": "PURPLE",
         "experience_group": "Medium Fast",
@@ -21094,6 +21976,7 @@ export default {
     },
     "obstagoon": {
         "base_id": 862,
+        "form_id": 0,
         "name": "Obstagoon",
         "pokemon_type": [
             "DARK",
@@ -21112,6 +21995,7 @@ export default {
     },
     "perrserker": {
         "base_id": 863,
+        "form_id": 0,
         "name": "Perrserker",
         "pokemon_type": [
             "STEEL"
@@ -21129,6 +22013,7 @@ export default {
     },
     "cursola": {
         "base_id": 864,
+        "form_id": 0,
         "name": "Cursola",
         "pokemon_type": [
             "GHOST"
@@ -21147,6 +22032,7 @@ export default {
     },
     "sirfetchd": {
         "base_id": 865,
+        "form_id": 0,
         "name": "Sirfetch'd",
         "pokemon_type": [
             "FIGHTING"
@@ -21165,6 +22051,7 @@ export default {
     },
     "mr-rime": {
         "base_id": 866,
+        "form_id": 0,
         "name": "Mr. Rime",
         "pokemon_type": [
             "ICE",
@@ -21183,6 +22070,7 @@ export default {
     },
     "runerigus": {
         "base_id": 867,
+        "form_id": 0,
         "name": "Runerigus",
         "pokemon_type": [
             "GROUND",
@@ -21202,6 +22090,7 @@ export default {
     },
     "milcery": {
         "base_id": 868,
+        "form_id": 0,
         "name": "Milcery",
         "pokemon_type": [
             "FAIRY"
@@ -21226,6 +22115,7 @@ export default {
     },
     "alcremie": {
         "base_id": 869,
+        "form_id": 0,
         "name": "Alcremie",
         "pokemon_type": [
             "FAIRY"
@@ -21245,6 +22135,7 @@ export default {
     },
     "falinks": {
         "base_id": 870,
+        "form_id": 0,
         "name": "Falinks",
         "pokemon_type": [
             "FIGHTING"
@@ -21263,6 +22154,7 @@ export default {
     },
     "pincurchin": {
         "base_id": 871,
+        "form_id": 0,
         "name": "Pincurchin",
         "pokemon_type": [
             "ELECTRIC"
@@ -21281,6 +22173,7 @@ export default {
     },
     "snom": {
         "base_id": 872,
+        "form_id": 0,
         "name": "Snom",
         "pokemon_type": [
             "ICE",
@@ -21305,6 +22198,7 @@ export default {
     },
     "frosmoth": {
         "base_id": 873,
+        "form_id": 0,
         "name": "Frosmoth",
         "pokemon_type": [
             "ICE",
@@ -21323,6 +22217,7 @@ export default {
     },
     "stonjourner": {
         "base_id": 874,
+        "form_id": 0,
         "name": "Stonjourner",
         "pokemon_type": [
             "ROCK"
@@ -21340,6 +22235,7 @@ export default {
     },
     "eiscue": {
         "base_id": 875,
+        "form_id": 0,
         "name": "Eiscue",
         "pokemon_type": [
             "ICE"
@@ -21358,6 +22254,7 @@ export default {
     },
     "indeedee": {
         "base_id": 876,
+        "form_id": 0,
         "name": "Indeedee",
         "form_name": "Male",
         "pokemon_type": [
@@ -21370,6 +22267,7 @@ export default {
         "gender": [
             "mo"
         ],
+        "gender_ratio": 0,
         "color": "PURPLE",
         "experience_group": "Fast",
         "generation": 8
@@ -21396,6 +22294,7 @@ export default {
     },
     "morpeko": {
         "base_id": 877,
+        "form_id": 0,
         "name": "Morpeko",
         "pokemon_type": [
             "ELECTRIC",
@@ -21415,6 +22314,7 @@ export default {
     },
     "cufant": {
         "base_id": 878,
+        "form_id": 0,
         "name": "Cufant",
         "pokemon_type": [
             "STEEL"
@@ -21439,6 +22339,7 @@ export default {
     },
     "copperajah": {
         "base_id": 879,
+        "form_id": 0,
         "name": "Copperajah",
         "pokemon_type": [
             "STEEL"
@@ -21458,6 +22359,7 @@ export default {
     },
     "dracozolt": {
         "base_id": 880,
+        "form_id": 0,
         "name": "Dracozolt",
         "pokemon_type": [
             "ELECTRIC",
@@ -21476,6 +22378,7 @@ export default {
     },
     "arctozolt": {
         "base_id": 881,
+        "form_id": 0,
         "name": "Arctozolt",
         "pokemon_type": [
             "ELECTRIC",
@@ -21494,6 +22397,7 @@ export default {
     },
     "dracovish": {
         "base_id": 882,
+        "form_id": 0,
         "name": "Dracovish",
         "pokemon_type": [
             "WATER",
@@ -21512,6 +22416,7 @@ export default {
     },
     "arctovish": {
         "base_id": 883,
+        "form_id": 0,
         "name": "Arctovish",
         "pokemon_type": [
             "WATER",
@@ -21530,6 +22435,7 @@ export default {
     },
     "duraludon": {
         "base_id": 884,
+        "form_id": 0,
         "name": "Duraludon",
         "pokemon_type": [
             "STEEL",
@@ -21550,6 +22456,7 @@ export default {
     },
     "dreepy": {
         "base_id": 885,
+        "form_id": 0,
         "name": "Dreepy",
         "pokemon_type": [
             "DRAGON",
@@ -21575,6 +22482,7 @@ export default {
     },
     "drakloak": {
         "base_id": 886,
+        "form_id": 0,
         "name": "Drakloak",
         "pokemon_type": [
             "DRAGON",
@@ -21600,6 +22508,7 @@ export default {
     },
     "dragapult": {
         "base_id": 887,
+        "form_id": 0,
         "name": "Dragapult",
         "pokemon_type": [
             "DRAGON",
@@ -21619,6 +22528,7 @@ export default {
     },
     "zacian": {
         "base_id": 888,
+        "form_id": 0,
         "name": "Zacian",
         "form_name": "Hero of Many Battles",
         "pokemon_type": [
@@ -21659,6 +22569,7 @@ export default {
     },
     "zamazenta": {
         "base_id": 889,
+        "form_id": 0,
         "name": "Zamazenta",
         "form_name": "Hero of Many Battles",
         "pokemon_type": [
@@ -21699,6 +22610,7 @@ export default {
     },
     "eternatus": {
         "base_id": 890,
+        "form_id": 0,
         "name": "Eternatus",
         "pokemon_type": [
             "POISON",
@@ -21718,6 +22630,7 @@ export default {
     },
     "kubfu": {
         "base_id": 891,
+        "form_id": 0,
         "name": "Kubfu",
         "pokemon_type": [
             "FIGHTING"
@@ -21746,6 +22659,7 @@ export default {
     },
     "urshifu": {
         "base_id": 892,
+        "form_id": 0,
         "name": "Urshifu",
         "form_name": "Single Strike Style",
         "pokemon_type": [
@@ -21789,6 +22703,7 @@ export default {
     },
     "zarude": {
         "base_id": 893,
+        "form_id": 0,
         "name": "Zarude",
         "pokemon_type": [
             "DARK",
@@ -21808,6 +22723,7 @@ export default {
     },
     "regieleki": {
         "base_id": 894,
+        "form_id": 0,
         "name": "Regieleki",
         "pokemon_type": [
             "ELECTRIC"
@@ -21826,6 +22742,7 @@ export default {
     },
     "regidrago": {
         "base_id": 895,
+        "form_id": 0,
         "name": "Regidrago",
         "pokemon_type": [
             "DRAGON"
@@ -21844,6 +22761,7 @@ export default {
     },
     "glastrier": {
         "base_id": 896,
+        "form_id": 0,
         "name": "Glastrier",
         "pokemon_type": [
             "ICE"
@@ -21862,6 +22780,7 @@ export default {
     },
     "spectrier": {
         "base_id": 897,
+        "form_id": 0,
         "name": "Spectrier",
         "pokemon_type": [
             "GHOST"
@@ -21880,6 +22799,7 @@ export default {
     },
     "calyrex": {
         "base_id": 898,
+        "form_id": 0,
         "name": "Calyrex",
         "pokemon_type": [
             "PSYCHIC",
@@ -21939,6 +22859,7 @@ export default {
     },
     "wyrdeer": {
         "base_id": 899,
+        "form_id": 0,
         "name": "Wyrdeer",
         "pokemon_type": [
             "NORMAL",
@@ -21957,6 +22878,7 @@ export default {
     },
     "kleavor": {
         "base_id": 900,
+        "form_id": 0,
         "name": "Kleavor",
         "pokemon_type": [
             "BUG",
@@ -21975,6 +22897,7 @@ export default {
     },
     "ursaluna": {
         "base_id": 901,
+        "form_id": 0,
         "name": "Ursaluna",
         "pokemon_type": [
             "NORMAL",
@@ -21993,6 +22916,7 @@ export default {
     },
     "basculegion": {
         "base_id": 902,
+        "form_id": 0,
         "name": "Basculegion",
         "form_name": "Male",
         "pokemon_type": [
@@ -22005,6 +22929,7 @@ export default {
         "gender": [
             "md"
         ],
+        "gender_ratio": 0,
         "color": "GREEN",
         "experience_group": "Medium Fast",
         "generation": 8
@@ -22031,6 +22956,7 @@ export default {
     },
     "sneasler": {
         "base_id": 903,
+        "form_id": 0,
         "name": "Sneasler",
         "pokemon_type": [
             "POISON",
@@ -22049,6 +22975,7 @@ export default {
     },
     "overqwil": {
         "base_id": 904,
+        "form_id": 0,
         "name": "Overqwil",
         "pokemon_type": [
             "DARK",
@@ -22067,6 +22994,7 @@ export default {
     },
     "enamorus": {
         "base_id": 905,
+        "form_id": 0,
         "name": "Enamorus",
         "form_name": "Incarnate Form",
         "pokemon_type": [

@@ -71,7 +71,11 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
         pokemon_asdict = dataclasses.asdict(pokemon)
         pokemon_asdict.pop("slug")
         for key in list(pokemon_asdict.keys()):
-            if not pokemon_asdict[key]:
+            value = pokemon_asdict[key]
+            is_false_or_empty = (
+                isinstance(value, bool) or hasattr(value, "__len__")
+            ) and not value
+            if is_false_or_empty or pokemon_asdict[key] is None:
                 pokemon_asdict.pop(key)
         database_asdict[pokemon.slug] = pokemon_asdict
     to_js(database_asdict, file_path, indent=4, cls=PokemonJSONEncoder)
