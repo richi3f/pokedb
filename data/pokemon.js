@@ -1016,6 +1016,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FAIRY"
         ],
@@ -1040,6 +1046,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FAIRY"
         ],
@@ -1144,6 +1156,12 @@ export default {
             "NORMAL",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FAIRY"
         ],
@@ -1169,6 +1187,12 @@ export default {
             "NORMAL",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FAIRY"
         ],
@@ -2451,6 +2475,12 @@ export default {
             "ELECTRIC",
             "STEEL"
         ],
+        "past_type": {
+            "generation": 2,
+            "pokemon_type": [
+                "ELECTRIC"
+            ]
+        },
         "egg_group": [
             "MINERAL"
         ],
@@ -2476,6 +2506,12 @@ export default {
             "ELECTRIC",
             "STEEL"
         ],
+        "past_type": {
+            "generation": 2,
+            "pokemon_type": [
+                "ELECTRIC"
+            ]
+        },
         "egg_group": [
             "MINERAL"
         ],
@@ -3584,6 +3620,12 @@ export default {
             "PSYCHIC",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "PSYCHIC"
+            ]
+        },
         "egg_group": [
             "HUMAN_LIKE"
         ],
@@ -4925,6 +4967,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "UNDISCOVERED"
         ],
@@ -4951,6 +4999,12 @@ export default {
             "NORMAL",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "UNDISCOVERED"
         ],
@@ -4976,6 +5030,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "UNDISCOVERED"
         ],
@@ -5002,6 +5062,13 @@ export default {
             "FAIRY",
             "FLYING"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL",
+                "FLYING"
+            ]
+        },
         "egg_group": [
             "FLYING",
             "FAIRY"
@@ -5180,6 +5247,12 @@ export default {
             "WATER",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "WATER"
+            ]
+        },
         "egg_group": [
             "WATER_1",
             "FAIRY"
@@ -5206,6 +5279,12 @@ export default {
             "WATER",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "WATER"
+            ]
+        },
         "egg_group": [
             "WATER_1",
             "FAIRY"
@@ -5784,6 +5863,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FIELD",
             "FAIRY"
@@ -5809,6 +5894,12 @@ export default {
         "pokemon_type": [
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "FIELD",
             "FAIRY"
@@ -7630,6 +7721,12 @@ export default {
             "PSYCHIC",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "PSYCHIC"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -7655,6 +7752,12 @@ export default {
             "PSYCHIC",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "PSYCHIC"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -7684,6 +7787,12 @@ export default {
             "PSYCHIC",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "PSYCHIC"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -8057,6 +8166,12 @@ export default {
             "NORMAL",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL"
+            ]
+        },
         "egg_group": [
             "UNDISCOVERED"
         ],
@@ -8189,6 +8304,12 @@ export default {
             "STEEL",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "STEEL"
+            ]
+        },
         "egg_group": [
             "FIELD",
             "FAIRY"
@@ -11707,6 +11828,12 @@ export default {
             "PSYCHIC",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "PSYCHIC"
+            ]
+        },
         "egg_group": [
             "UNDISCOVERED"
         ],
@@ -12410,6 +12537,13 @@ export default {
             "FAIRY",
             "FLYING"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "NORMAL",
+                "FLYING"
+            ]
+        },
         "egg_group": [
             "FLYING",
             "FAIRY"
@@ -12656,6 +12790,13 @@ export default {
             "ELECTRIC",
             "FIRE"
         ],
+        "past_type": {
+            "generation": 5,
+            "pokemon_type": [
+                "ELECTRIC",
+                "GHOST"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -12675,6 +12816,13 @@ export default {
             "ELECTRIC",
             "WATER"
         ],
+        "past_type": {
+            "generation": 5,
+            "pokemon_type": [
+                "ELECTRIC",
+                "GHOST"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -12694,6 +12842,13 @@ export default {
             "ELECTRIC",
             "ICE"
         ],
+        "past_type": {
+            "generation": 5,
+            "pokemon_type": [
+                "ELECTRIC",
+                "GHOST"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -12713,6 +12868,13 @@ export default {
             "ELECTRIC",
             "FLYING"
         ],
+        "past_type": {
+            "generation": 5,
+            "pokemon_type": [
+                "ELECTRIC",
+                "GHOST"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -12732,6 +12894,13 @@ export default {
             "ELECTRIC",
             "GRASS"
         ],
+        "past_type": {
+            "generation": 5,
+            "pokemon_type": [
+                "ELECTRIC",
+                "GHOST"
+            ]
+        },
         "egg_group": [
             "AMORPHOUS"
         ],
@@ -14285,6 +14454,12 @@ export default {
             "GRASS",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "GRASS"
+            ]
+        },
         "egg_group": [
             "FAIRY",
             "GRASS"
@@ -14311,6 +14486,12 @@ export default {
             "GRASS",
             "FAIRY"
         ],
+        "past_type": {
+            "generation": 6,
+            "pokemon_type": [
+                "GRASS"
+            ]
+        },
         "egg_group": [
             "FAIRY",
             "GRASS"
