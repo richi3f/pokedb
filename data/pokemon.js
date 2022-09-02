@@ -18438,8 +18438,8 @@ export default {
         "form_id": 1,
         "name": "Hisuian Sliggoo",
         "pokemon_type": [
-            "DRAGON",
-            "STEEL"
+            "STEEL",
+            "DRAGON"
         ],
         "egg_group": [
             "DRAGON"
@@ -18481,8 +18481,8 @@ export default {
         "form_id": 1,
         "name": "Hisuian Goodra",
         "pokemon_type": [
-            "DRAGON",
-            "STEEL"
+            "STEEL",
+            "DRAGON"
         ],
         "egg_group": [
             "DRAGON"
@@ -23081,8 +23081,8 @@ export default {
         "form_id": 0,
         "name": "Ursaluna",
         "pokemon_type": [
-            "NORMAL",
-            "GROUND"
+            "GROUND",
+            "NORMAL"
         ],
         "egg_group": [
             "FIELD"
@@ -23140,8 +23140,8 @@ export default {
         "form_id": 0,
         "name": "Sneasler",
         "pokemon_type": [
-            "POISON",
-            "FIGHTING"
+            "FIGHTING",
+            "POISON"
         ],
         "egg_group": [
             "FIELD"
