@@ -6084,8 +6084,8 @@ export default {
         "form_id": 1,
         "name": "Hisuian Sneasel",
         "pokemon_type": [
-            "POISON",
-            "FIGHTING"
+            "FIGHTING",
+            "POISON"
         ],
         "egg_group": [
             "FIELD"
