@@ -1,6 +1,6 @@
 __all__ = ["Type"]
 
-from enum import auto, Enum
+from enum import Enum, auto
 
 
 class Type(Enum):

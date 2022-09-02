@@ -1,6 +1,6 @@
 __all__ = ["EggGroup"]
 
-from enum import auto, Enum
+from enum import Enum, auto
 
 
 class EggGroup(Enum):

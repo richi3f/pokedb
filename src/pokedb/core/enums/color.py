@@ -1,6 +1,6 @@
 __all__ = ["Color"]
 
-from enum import auto, Enum
+from enum import Enum, auto
 
 
 class Color(Enum):
