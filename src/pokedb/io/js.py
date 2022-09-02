@@ -1,13 +1,13 @@
 __all__ = ["dump_database", "load_database", "read_js", "to_js"]
 
-import json
 import dataclasses
+import json
 from typing import Any
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.typing import PathLike
-from pokedb.pokemon.pokemon import Pokemon
 from pokedb.pokemon.database import PokemonDatabase
+from pokedb.pokemon.pokemon import PastType, Pokemon
 
 JS_PREFIX = "export default "
 JS_SUFFIX = ";"
@@ -37,6 +37,9 @@ def deserialize_pokemon(dct: dict[str, Any]) -> Any:
             value = tuple(map(Type.__getitem__, value))
         if attr == "evolution_ids":
             value = tuple(map(tuple, value))
+        if attr == "past_type":
+            pokemon_type = tuple(map(Type.__getitem__, value["pokemon_type"]))
+            value = PastType(value["generation"], pokemon_type)
         setattr(pokemon, attr, value)
     return pokemon
 
@@ -57,10 +60,9 @@ def to_js(data: dict, file_path: PathLike, **kwargs) -> None:
 
 class PokemonJSONEncoder(json.JSONEncoder):
     def default(self, o: Any) -> Any:
-        for enum_type in [Color, EggGroup, Type]:
-            if isinstance(o, enum_type):
-                return o.name
-        if isinstance(o, ExperienceGroup) or isinstance(o, Gender):
+        if isinstance(o, (Color, EggGroup, Type)):
+            return o.name
+        if isinstance(o, (ExperienceGroup, Gender)):
             return o.value
         return super().default(o)
 
@@ -72,9 +74,8 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
         pokemon_asdict.pop("slug")
         for key in list(pokemon_asdict.keys()):
             value = pokemon_asdict[key]
-            is_false_or_empty = (
-                isinstance(value, bool) or hasattr(value, "__len__")
-            ) and not value
+            is_bool_or_iter = isinstance(value, bool) or hasattr(value, "__len__")
+            is_false_or_empty = is_bool_or_iter and not value
             if is_false_or_empty or pokemon_asdict[key] is None:
                 pokemon_asdict.pop(key)
         database_asdict[pokemon.slug] = pokemon_asdict
