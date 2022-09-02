@@ -1,6 +1,7 @@
 __version__ = (0, 0, 0)
-__all__ = ["core", "io", "Pokemon", "PokemonDatabase"]
+__all__ = ["core", "io", "Pokemon", "Pokedex", "PokemonDatabase"]
 
 from pokedb import core, io
-from pokedb.pokemon.pokemon import Pokemon
+from pokedb.games.pokedex import Pokedex
 from pokedb.pokemon.database import PokemonDatabase
+from pokedb.pokemon.pokemon import Pokemon

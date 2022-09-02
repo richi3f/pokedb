@@ -35,7 +35,7 @@ def pokemon_html(pokemon: "Pokemon"):
             <th>Past Type</th>
             <td>{" / ".join(map(lambda t: t.name, pokemon.past_type.pokemon_type))}<br>
             (prior to Generation {pokemon.past_type.generation})</td>
-        </tr>""" 
+        </tr>"""
     table += f"""
         <tr>
             <th>Gender Ratio</th>
