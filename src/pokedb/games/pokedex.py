@@ -52,3 +52,9 @@ class Pokedex:
                 continue
             return dex_index
         raise KeyError(f"{value} is not part of {self.name}.")
+
+    def __len__(self) -> int:
+        return sum(map(len, self.order.values()))
+
+    def __repr__(self) -> str:
+        return f"{self.name} ({len(self)} Pokémon)"
