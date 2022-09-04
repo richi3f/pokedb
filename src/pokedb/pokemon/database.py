@@ -1,7 +1,7 @@
-from typing import TYPE_CHECKING, Callable, Iterator
+from typing import TYPE_CHECKING, Any, Callable, Generator, Iterator
 
 from pokedb.core.singleton import Singleton
-from pokedb.core.typing import PokemonIndex, PokemonIndexOrSlug, PokemonValue
+from pokedb.core.typing import PokemonBaseAndFormIndex, PokemonIndex, PokemonIndexOrSlug, PokemonValue
 
 if TYPE_CHECKING:
     from pokedb.pokemon.pokemon import Pokemon
@@ -55,5 +55,28 @@ class PokemonDatabase(metaclass=Singleton):
             raise KeyError(f"Pokémon {slug} was not found in the database.")
         return matches[0]
 
+    def get_evolution_chain(self, value: PokemonValue) -> list["Pokemon"]:
+        def _generator(
+            index: PokemonBaseAndFormIndex,
+            evolutions: list[PokemonBaseAndFormIndex] = None
+        ) -> Generator[list["Pokemon"], None, None]:
+            if evolutions is None:
+                evolutions = []
+            if self._dict[index].evolution_ids:
+                for evolution_index in self._dict[index].evolution_ids:
+                    yield from _generator(evolution_index, evolutions + [self._dict[index]])
+            else:
+                yield evolutions + [self._dict[index]]
+
+        if value.__class__.__name__ == "Pokemon":
+            pokemon = value
+        else:
+            pokemon = self._dict[self._validate_index(value)]
+        return [*_generator(pokemon.index)]
+
+
     def query(self, search_function: Callable[["Pokemon"], bool]) -> list["Pokemon"]:
         return [pokemon for pokemon in self._dict.values() if search_function(pokemon)]
+
+    def list_attr(self, search_function: Callable[["Pokemon"], bool], attr: str) -> list[Any]:
+        return [getattr(pokemon, attr) for pokemon in self.query(search_function)]
