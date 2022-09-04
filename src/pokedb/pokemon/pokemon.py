@@ -1,13 +1,10 @@
 __all__ = ["Pokemon"]
 
-import re
 from dataclasses import dataclass
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.typing import DualType, SingleOrDualType
 from pokedb.pokemon.html_repr import pokemon_html
-
-MEGA_PATTERN = re.compile(r"Mega (\w+)(?: X| Y)?")
 
 
 @dataclass
@@ -33,6 +30,7 @@ class Pokemon:
     is_legendary: bool = False
     is_mythical: bool = False
     is_baby: bool = False
+    is_mega: bool = False
     color: Color = None
     experience_group: ExperienceGroup = None
     generation: int = None
@@ -45,10 +43,6 @@ class Pokemon:
     @property
     def index(self) -> tuple[int, int]:
         return self.base_id, self.form_id
-
-    @property
-    def is_mega(self) -> bool:
-        return MEGA_PATTERN.fullmatch(self.name) is not None
 
     def set_past_type(self, generation: int, pokemon_type: SingleOrDualType) -> None:
         if isinstance(pokemon_type, Type):
