@@ -1,4 +1,11 @@
-__all__ = ["dump_database", "load_database", "read_js", "to_js"]
+__all__ = [
+    "dump_database",
+    "dump_pokedexes",
+    "load_database",
+    "load_pokedexes",
+    "read_js",
+    "to_js",
+]
 
 import dataclasses
 import json
@@ -6,6 +13,7 @@ from typing import Any
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.typing import PathLike
+from pokedb.games.pokedex import Pokedex
 from pokedb.pokemon.database import PokemonDatabase
 from pokedb.pokemon.pokemon import PastType, Pokemon
 
@@ -21,27 +29,34 @@ def read_js(file_path: PathLike, **kwargs) -> dict:
 
 
 def deserialize_pokemon(dct: dict[str, Any]) -> Any:
-    if "base_id" not in dct:
-        return dct
-    pokemon = Pokemon()
-    for attr, value in dct.items():
-        if attr == "color":
-            value = Color[value]
-        if attr == "egg_group":
-            value = tuple(map(EggGroup.__getitem__, value))
-        if attr == "experience_group":
-            value = ExperienceGroup._value2member_map_[value]
-        if attr == "gender":
-            value = tuple(map(Gender._value2member_map_.__getitem__, value))
-        if attr == "pokemon_type":
-            value = tuple(map(Type.__getitem__, value))
-        if attr == "evolution_ids":
-            value = tuple(map(tuple, value))
-        if attr == "past_type":
-            pokemon_type = tuple(map(Type.__getitem__, value["pokemon_type"]))
-            value = PastType(value["generation"], pokemon_type)
-        setattr(pokemon, attr, value)
-    return pokemon
+    if "base_id" in dct and "form_id" in dct:
+        pokemon = Pokemon()
+        for attr, value in dct.items():
+            if attr == "color":
+                value = Color[value]
+            if attr == "egg_group":
+                value = tuple(map(EggGroup.__getitem__, value))
+            if attr == "experience_group":
+                value = ExperienceGroup._value2member_map_[value]
+            if attr == "gender":
+                value = tuple(map(Gender._value2member_map_.__getitem__, value))
+            if attr == "pokemon_type":
+                value = tuple(map(Type.__getitem__, value))
+            if attr == "evolution_ids":
+                value = tuple(map(tuple, value))
+            if attr == "past_type":
+                pokemon_type = tuple(map(Type.__getitem__, value["pokemon_type"]))
+                value = PastType(value["generation"], pokemon_type)
+            setattr(pokemon, attr, value)
+        return pokemon
+    if "name" in dct and "order" in dct:
+        pokedex = Pokedex()
+        for attr, value in dct.items():
+            if attr == "order":
+                value = dict(zip(map(int, value.keys()), [[*map(tuple, x)] for x in value.values()]))
+            setattr(pokedex, attr, value)
+        return pokedex
+    return dct
 
 
 def load_database(file_path: PathLike) -> PokemonDatabase:
@@ -51,6 +66,15 @@ def load_database(file_path: PathLike) -> PokemonDatabase:
         pokemon.slug = slug
         database[pokemon.index] = pokemon
     return database
+
+
+def load_pokedexes(file_path: PathLike) -> dict[str, Pokedex]:
+    pokedexes: dict[str, Pokedex] = read_js(
+        file_path, object_hook=deserialize_pokemon
+    )
+    for slug, pokedex in pokedexes.items():
+        pokedex.slug = slug
+    return pokedexes
 
 
 def to_js(data: dict, file_path: PathLike, **kwargs) -> None:
@@ -80,3 +104,10 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
                 pokemon_asdict.pop(key)
         database_asdict[pokemon.slug] = pokemon_asdict
     to_js(database_asdict, file_path, indent=4, cls=PokemonJSONEncoder)
+
+def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
+    pokedexes_asdict = {}
+    for pokedex in pokedexes.values():
+        pokedex_asdict = dataclasses.asdict(pokedex)
+        pokedexes_asdict[pokedex_asdict.pop("slug")] = pokedex_asdict
+    to_js(pokedexes_asdict, file_path, indent=4)
