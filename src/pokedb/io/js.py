@@ -29,23 +29,26 @@ def read_js(file_path: PathLike, **kwargs) -> dict:
 
 
 def deserialize_pokemon(dct: dict[str, Any]) -> Any:
+    def strtotype(value: str) -> Type:
+        return Type[value.upper()]
+
     if "base_id" in dct and "form_id" in dct:
         pokemon = Pokemon()
         for attr, value in dct.items():
             if attr == "color":
-                value = Color[value]
-            if attr == "egg_group":
-                value = tuple(map(EggGroup.__getitem__, value))
-            if attr == "experience_group":
+                value = Color[str.upper(value)]
+            elif attr == "egg_group":
+                value = tuple(map(lambda x: EggGroup[str.upper(x)], value))
+            elif attr == "experience_group":
                 value = ExperienceGroup._value2member_map_[value]
-            if attr == "gender":
+            elif attr == "gender":
                 value = tuple(map(Gender._value2member_map_.__getitem__, value))
-            if attr == "pokemon_type":
-                value = tuple(map(Type.__getitem__, value))
-            if attr == "evolution_ids":
+            elif attr == "pokemon_type":
+                value = tuple(map(strtotype, value))
+            elif attr == "evolution_ids":
                 value = tuple(map(tuple, value))
-            if attr == "past_type":
-                pokemon_type = tuple(map(Type.__getitem__, value["pokemon_type"]))
+            elif attr == "past_type":
+                pokemon_type = tuple(map(strtotype, value["pokemon_type"]))
                 value = PastType(value["generation"], pokemon_type)
             setattr(pokemon, attr, value)
         return pokemon
@@ -85,7 +88,7 @@ def to_js(data: dict, file_path: PathLike, **kwargs) -> None:
 class PokemonJSONEncoder(json.JSONEncoder):
     def default(self, o: Any) -> Any:
         if isinstance(o, (Color, EggGroup, Type)):
-            return o.name
+            return o.name.lower()
         if isinstance(o, (ExperienceGroup, Gender)):
             return o.value
         return super().default(o)
