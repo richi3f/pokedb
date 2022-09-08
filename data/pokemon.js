@@ -4,18 +4,18 @@ export default {
         "form_id": 0,
         "name": "Bulbasaur",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -30,18 +30,18 @@ export default {
         "form_id": 0,
         "name": "Ivysaur",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -56,12 +56,12 @@ export default {
         "form_id": 0,
         "name": "Venusaur",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "fd",
@@ -69,7 +69,7 @@ export default {
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -78,19 +78,19 @@ export default {
         "form_id": 1,
         "name": "Mega Venusaur",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -99,17 +99,17 @@ export default {
         "form_id": 0,
         "name": "Charmander",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -124,17 +124,17 @@ export default {
         "form_id": 0,
         "name": "Charmeleon",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -149,19 +149,19 @@ export default {
         "form_id": 0,
         "name": "Charizard",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -170,19 +170,19 @@ export default {
         "form_id": 1,
         "name": "Mega Charizard X",
         "pokemon_type": [
-            "FIRE",
-            "DRAGON"
+            "fire",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -191,19 +191,19 @@ export default {
         "form_id": 2,
         "name": "Mega Charizard Y",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -212,17 +212,17 @@ export default {
         "form_id": 0,
         "name": "Squirtle",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -237,17 +237,17 @@ export default {
         "form_id": 0,
         "name": "Wartortle",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -262,18 +262,18 @@ export default {
         "form_id": 0,
         "name": "Blastoise",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -282,18 +282,18 @@ export default {
         "form_id": 1,
         "name": "Mega Blastoise",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -302,16 +302,16 @@ export default {
         "form_id": 0,
         "name": "Caterpie",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -326,16 +326,16 @@ export default {
         "form_id": 0,
         "name": "Metapod",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -350,11 +350,11 @@ export default {
         "form_id": 0,
         "name": "Butterfree",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
@@ -362,7 +362,7 @@ export default {
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -371,17 +371,17 @@ export default {
         "form_id": 0,
         "name": "Weedle",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -396,17 +396,17 @@ export default {
         "form_id": 0,
         "name": "Kakuna",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -421,17 +421,17 @@ export default {
         "form_id": 0,
         "name": "Beedrill",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -440,18 +440,18 @@ export default {
         "form_id": 1,
         "name": "Mega Beedrill",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -460,17 +460,17 @@ export default {
         "form_id": 0,
         "name": "Pidgey",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -485,17 +485,17 @@ export default {
         "form_id": 0,
         "name": "Pidgeotto",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -510,17 +510,17 @@ export default {
         "form_id": 0,
         "name": "Pidgeot",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -529,18 +529,18 @@ export default {
         "form_id": 1,
         "name": "Mega Pidgeot",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -549,17 +549,17 @@ export default {
         "form_id": 0,
         "name": "Rattata",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -574,17 +574,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Rattata",
         "pokemon_type": [
-            "DARK",
-            "NORMAL"
+            "dark",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -599,17 +599,17 @@ export default {
         "form_id": 0,
         "name": "Raticate",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -618,17 +618,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Raticate",
         "pokemon_type": [
-            "DARK",
-            "NORMAL"
+            "dark",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -637,17 +637,17 @@ export default {
         "form_id": 0,
         "name": "Spearow",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -662,17 +662,17 @@ export default {
         "form_id": 0,
         "name": "Fearow",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -681,17 +681,17 @@ export default {
         "form_id": 0,
         "name": "Ekans",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -706,17 +706,17 @@ export default {
         "form_id": 0,
         "name": "Arbok",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -725,11 +725,11 @@ export default {
         "form_id": 0,
         "name": "Pikachu",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "fd",
@@ -737,7 +737,7 @@ export default {
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -756,18 +756,18 @@ export default {
         "form_id": 0,
         "name": "Raichu",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -776,18 +776,18 @@ export default {
         "form_id": 1,
         "name": "Alolan Raichu",
         "pokemon_type": [
-            "ELECTRIC",
-            "PSYCHIC"
+            "electric",
+            "psychic"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -796,16 +796,16 @@ export default {
         "form_id": 0,
         "name": "Sandshrew",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -820,17 +820,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Sandshrew",
         "pokemon_type": [
-            "ICE",
-            "STEEL"
+            "ice",
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -845,16 +845,16 @@ export default {
         "form_id": 0,
         "name": "Sandslash",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -863,17 +863,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Sandslash",
         "pokemon_type": [
-            "ICE",
-            "STEEL"
+            "ice",
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -882,17 +882,17 @@ export default {
         "form_id": 0,
         "name": "Nidoran\u00e2\u2122\u20ac",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -907,16 +907,16 @@ export default {
         "form_id": 0,
         "name": "Nidorina",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -931,17 +931,17 @@ export default {
         "form_id": 0,
         "name": "Nidoqueen",
         "pokemon_type": [
-            "POISON",
-            "GROUND"
+            "poison",
+            "ground"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -950,17 +950,17 @@ export default {
         "form_id": 0,
         "name": "Nidoran\u00e2\u2122\u201a",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -975,17 +975,17 @@ export default {
         "form_id": 0,
         "name": "Nidorino",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1000,18 +1000,18 @@ export default {
         "form_id": 0,
         "name": "Nidoking",
         "pokemon_type": [
-            "POISON",
-            "GROUND"
+            "poison",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -1020,22 +1020,22 @@ export default {
         "form_id": 0,
         "name": "Clefairy",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1050,22 +1050,22 @@ export default {
         "form_id": 0,
         "name": "Clefable",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 1
     },
@@ -1074,16 +1074,16 @@ export default {
         "form_id": 0,
         "name": "Vulpix",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1098,16 +1098,16 @@ export default {
         "form_id": 1,
         "name": "Alolan Vulpix",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -1122,16 +1122,16 @@ export default {
         "form_id": 0,
         "name": "Ninetales",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1140,17 +1140,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Ninetales",
         "pokemon_type": [
-            "ICE",
-            "FAIRY"
+            "ice",
+            "fairy"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -1159,23 +1159,23 @@ export default {
         "form_id": 0,
         "name": "Jigglypuff",
         "pokemon_type": [
-            "NORMAL",
-            "FAIRY"
+            "normal",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1190,23 +1190,23 @@ export default {
         "form_id": 0,
         "name": "Wigglytuff",
         "pokemon_type": [
-            "NORMAL",
-            "FAIRY"
+            "normal",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 1
     },
@@ -1215,18 +1215,18 @@ export default {
         "form_id": 0,
         "name": "Zubat",
         "pokemon_type": [
-            "POISON",
-            "FLYING"
+            "poison",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1241,18 +1241,18 @@ export default {
         "form_id": 0,
         "name": "Golbat",
         "pokemon_type": [
-            "POISON",
-            "FLYING"
+            "poison",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1267,17 +1267,17 @@ export default {
         "form_id": 0,
         "name": "Oddish",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1292,18 +1292,18 @@ export default {
         "form_id": 0,
         "name": "Gloom",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1322,18 +1322,18 @@ export default {
         "form_id": 0,
         "name": "Vileplume",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -1342,18 +1342,18 @@ export default {
         "form_id": 0,
         "name": "Paras",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1368,18 +1368,18 @@ export default {
         "form_id": 0,
         "name": "Parasect",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1388,17 +1388,17 @@ export default {
         "form_id": 0,
         "name": "Venonat",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1413,17 +1413,17 @@ export default {
         "form_id": 0,
         "name": "Venomoth",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1432,16 +1432,16 @@ export default {
         "form_id": 0,
         "name": "Diglett",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1456,17 +1456,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Diglett",
         "pokemon_type": [
-            "GROUND",
-            "STEEL"
+            "ground",
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -1481,16 +1481,16 @@ export default {
         "form_id": 0,
         "name": "Dugtrio",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1499,17 +1499,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Dugtrio",
         "pokemon_type": [
-            "GROUND",
-            "STEEL"
+            "ground",
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -1518,17 +1518,17 @@ export default {
         "form_id": 0,
         "name": "Meowth",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1543,16 +1543,16 @@ export default {
         "form_id": 1,
         "name": "Alolan Meowth",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -1567,16 +1567,16 @@ export default {
         "form_id": 2,
         "name": "Galarian Meowth",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -1591,16 +1591,16 @@ export default {
         "form_id": 0,
         "name": "Persian",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1609,16 +1609,16 @@ export default {
         "form_id": 1,
         "name": "Alolan Persian",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -1627,17 +1627,17 @@ export default {
         "form_id": 0,
         "name": "Psyduck",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1652,17 +1652,17 @@ export default {
         "form_id": 0,
         "name": "Golduck",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1671,16 +1671,16 @@ export default {
         "form_id": 0,
         "name": "Mankey",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -1695,16 +1695,16 @@ export default {
         "form_id": 0,
         "name": "Primeape",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -1713,16 +1713,16 @@ export default {
         "form_id": 0,
         "name": "Growlithe",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1737,17 +1737,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Growlithe",
         "pokemon_type": [
-            "FIRE",
-            "ROCK"
+            "fire",
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -1762,16 +1762,16 @@ export default {
         "form_id": 0,
         "name": "Arcanine",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -1780,17 +1780,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Arcanine",
         "pokemon_type": [
-            "FIRE",
-            "ROCK"
+            "fire",
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -1799,16 +1799,16 @@ export default {
         "form_id": 0,
         "name": "Poliwag",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1823,16 +1823,16 @@ export default {
         "form_id": 0,
         "name": "Poliwhirl",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1851,17 +1851,17 @@ export default {
         "form_id": 0,
         "name": "Poliwrath",
         "pokemon_type": [
-            "WATER",
-            "FIGHTING"
+            "water",
+            "fighting"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -1870,16 +1870,16 @@ export default {
         "form_id": 0,
         "name": "Abra",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1894,17 +1894,17 @@ export default {
         "form_id": 0,
         "name": "Kadabra",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1919,17 +1919,17 @@ export default {
         "form_id": 0,
         "name": "Alakazam",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -1938,17 +1938,17 @@ export default {
         "form_id": 1,
         "name": "Mega Alakazam",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
         "is_mega": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -1957,16 +1957,16 @@ export default {
         "form_id": 0,
         "name": "Machop",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -1981,16 +1981,16 @@ export default {
         "form_id": 0,
         "name": "Machoke",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2005,17 +2005,17 @@ export default {
         "form_id": 0,
         "name": "Machamp",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
         "has_gigantamax": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -2024,17 +2024,17 @@ export default {
         "form_id": 0,
         "name": "Bellsprout",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2049,17 +2049,17 @@ export default {
         "form_id": 0,
         "name": "Weepinbell",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2074,17 +2074,17 @@ export default {
         "form_id": 0,
         "name": "Victreebel",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -2093,17 +2093,17 @@ export default {
         "form_id": 0,
         "name": "Tentacool",
         "pokemon_type": [
-            "WATER",
-            "POISON"
+            "water",
+            "poison"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2118,17 +2118,17 @@ export default {
         "form_id": 0,
         "name": "Tentacruel",
         "pokemon_type": [
-            "WATER",
-            "POISON"
+            "water",
+            "poison"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -2137,17 +2137,17 @@ export default {
         "form_id": 0,
         "name": "Geodude",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2162,17 +2162,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Geodude",
         "pokemon_type": [
-            "ROCK",
-            "ELECTRIC"
+            "rock",
+            "electric"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -2187,17 +2187,17 @@ export default {
         "form_id": 0,
         "name": "Graveler",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2212,17 +2212,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Graveler",
         "pokemon_type": [
-            "ROCK",
-            "ELECTRIC"
+            "rock",
+            "electric"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -2237,17 +2237,17 @@ export default {
         "form_id": 0,
         "name": "Golem",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -2256,17 +2256,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Golem",
         "pokemon_type": [
-            "ROCK",
-            "ELECTRIC"
+            "rock",
+            "electric"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -2275,16 +2275,16 @@ export default {
         "form_id": 0,
         "name": "Ponyta",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2299,16 +2299,16 @@ export default {
         "form_id": 1,
         "name": "Galarian Ponyta",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -2323,16 +2323,16 @@ export default {
         "form_id": 0,
         "name": "Rapidash",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2341,17 +2341,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Rapidash",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -2360,18 +2360,18 @@ export default {
         "form_id": 0,
         "name": "Slowpoke",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2390,17 +2390,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Slowpoke",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -2419,18 +2419,18 @@ export default {
         "form_id": 0,
         "name": "Slowbro",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2439,19 +2439,19 @@ export default {
         "form_id": 1,
         "name": "Mega Slowbro",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -2460,18 +2460,18 @@ export default {
         "form_id": 2,
         "name": "Galarian Slowbro",
         "pokemon_type": [
-            "POISON",
-            "PSYCHIC"
+            "poison",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -2480,23 +2480,23 @@ export default {
         "form_id": 0,
         "name": "Magnemite",
         "pokemon_type": [
-            "ELECTRIC",
-            "STEEL"
+            "electric",
+            "steel"
         ],
         "past_type": {
             "generation": 2,
             "pokemon_type": [
-                "ELECTRIC"
+                "electric"
             ]
         },
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2511,23 +2511,23 @@ export default {
         "form_id": 0,
         "name": "Magneton",
         "pokemon_type": [
-            "ELECTRIC",
-            "STEEL"
+            "electric",
+            "steel"
         ],
         "past_type": {
             "generation": 2,
             "pokemon_type": [
-                "ELECTRIC"
+                "electric"
             ]
         },
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2542,18 +2542,18 @@ export default {
         "form_id": 0,
         "name": "Farfetch'd",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "FIELD"
+            "flying",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2562,17 +2562,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Farfetch'd",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FLYING",
-            "FIELD"
+            "flying",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -2587,18 +2587,18 @@ export default {
         "form_id": 0,
         "name": "Doduo",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2613,18 +2613,18 @@ export default {
         "form_id": 0,
         "name": "Dodrio",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2633,17 +2633,17 @@ export default {
         "form_id": 0,
         "name": "Seel",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2658,18 +2658,18 @@ export default {
         "form_id": 0,
         "name": "Dewgong",
         "pokemon_type": [
-            "WATER",
-            "ICE"
+            "water",
+            "ice"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2678,16 +2678,16 @@ export default {
         "form_id": 0,
         "name": "Grimer",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2702,17 +2702,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Grimer",
         "pokemon_type": [
-            "POISON",
-            "DARK"
+            "poison",
+            "dark"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -2727,16 +2727,16 @@ export default {
         "form_id": 0,
         "name": "Muk",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2745,17 +2745,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Muk",
         "pokemon_type": [
-            "POISON",
-            "DARK"
+            "poison",
+            "dark"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -2764,16 +2764,16 @@ export default {
         "form_id": 0,
         "name": "Shellder",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2788,17 +2788,17 @@ export default {
         "form_id": 0,
         "name": "Cloyster",
         "pokemon_type": [
-            "WATER",
-            "ICE"
+            "water",
+            "ice"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -2807,17 +2807,17 @@ export default {
         "form_id": 0,
         "name": "Gastly",
         "pokemon_type": [
-            "GHOST",
-            "POISON"
+            "ghost",
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2832,17 +2832,17 @@ export default {
         "form_id": 0,
         "name": "Haunter",
         "pokemon_type": [
-            "GHOST",
-            "POISON"
+            "ghost",
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1,
         "evolution_ids": [
@@ -2857,18 +2857,18 @@ export default {
         "form_id": 0,
         "name": "Gengar",
         "pokemon_type": [
-            "GHOST",
-            "POISON"
+            "ghost",
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -2877,18 +2877,18 @@ export default {
         "form_id": 1,
         "name": "Mega Gengar",
         "pokemon_type": [
-            "GHOST",
-            "POISON"
+            "ghost",
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -2897,17 +2897,17 @@ export default {
         "form_id": 0,
         "name": "Onix",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2922,16 +2922,16 @@ export default {
         "form_id": 0,
         "name": "Drowzee",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2946,17 +2946,17 @@ export default {
         "form_id": 0,
         "name": "Hypno",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -2965,16 +2965,16 @@ export default {
         "form_id": 0,
         "name": "Krabby",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -2989,17 +2989,17 @@ export default {
         "form_id": 0,
         "name": "Kingler",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3008,16 +3008,16 @@ export default {
         "form_id": 0,
         "name": "Voltorb",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3032,17 +3032,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Voltorb",
         "pokemon_type": [
-            "ELECTRIC",
-            "GRASS"
+            "electric",
+            "grass"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -3057,16 +3057,16 @@ export default {
         "form_id": 0,
         "name": "Electrode",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3075,17 +3075,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Electrode",
         "pokemon_type": [
-            "ELECTRIC",
-            "GRASS"
+            "electric",
+            "grass"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -3094,17 +3094,17 @@ export default {
         "form_id": 0,
         "name": "Exeggcute",
         "pokemon_type": [
-            "GRASS",
-            "PSYCHIC"
+            "grass",
+            "psychic"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -3123,17 +3123,17 @@ export default {
         "form_id": 0,
         "name": "Exeggutor",
         "pokemon_type": [
-            "GRASS",
-            "PSYCHIC"
+            "grass",
+            "psychic"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3142,17 +3142,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Exeggutor",
         "pokemon_type": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -3161,16 +3161,16 @@ export default {
         "form_id": 0,
         "name": "Cubone",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3189,16 +3189,16 @@ export default {
         "form_id": 0,
         "name": "Marowak",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3207,17 +3207,17 @@ export default {
         "form_id": 1,
         "name": "Alolan Marowak",
         "pokemon_type": [
-            "FIRE",
-            "GHOST"
+            "fire",
+            "ghost"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -3226,16 +3226,16 @@ export default {
         "form_id": 0,
         "name": "Hitmonlee",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3244,16 +3244,16 @@ export default {
         "form_id": 0,
         "name": "Hitmonchan",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3262,16 +3262,16 @@ export default {
         "form_id": 0,
         "name": "Lickitung",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3286,16 +3286,16 @@ export default {
         "form_id": 0,
         "name": "Koffing",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3314,16 +3314,16 @@ export default {
         "form_id": 0,
         "name": "Weezing",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3332,17 +3332,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Weezing",
         "pokemon_type": [
-            "POISON",
-            "FAIRY"
+            "poison",
+            "fairy"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -3351,19 +3351,19 @@ export default {
         "form_id": 0,
         "name": "Rhyhorn",
         "pokemon_type": [
-            "GROUND",
-            "ROCK"
+            "ground",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -3378,19 +3378,19 @@ export default {
         "form_id": 0,
         "name": "Rhydon",
         "pokemon_type": [
-            "GROUND",
-            "ROCK"
+            "ground",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -3405,16 +3405,16 @@ export default {
         "form_id": 0,
         "name": "Chansey",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3429,16 +3429,16 @@ export default {
         "form_id": 0,
         "name": "Tangela",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3453,16 +3453,16 @@ export default {
         "form_id": 0,
         "name": "Kangaskhan",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3471,17 +3471,17 @@ export default {
         "form_id": 1,
         "name": "Mega Kangaskhan",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "is_mega": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -3490,17 +3490,17 @@ export default {
         "form_id": 0,
         "name": "Horsea",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3515,17 +3515,17 @@ export default {
         "form_id": 0,
         "name": "Seadra",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3540,17 +3540,17 @@ export default {
         "form_id": 0,
         "name": "Goldeen",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3565,17 +3565,17 @@ export default {
         "form_id": 0,
         "name": "Seaking",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3584,16 +3584,16 @@ export default {
         "form_id": 0,
         "name": "Staryu",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -3608,17 +3608,17 @@ export default {
         "form_id": 0,
         "name": "Starmie",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3627,23 +3627,23 @@ export default {
         "form_id": 0,
         "name": "Mr. Mime",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "PSYCHIC"
+                "psychic"
             ]
         },
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3652,17 +3652,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Mr. Mime",
         "pokemon_type": [
-            "ICE",
-            "PSYCHIC"
+            "ice",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -3677,18 +3677,18 @@ export default {
         "form_id": 0,
         "name": "Scyther",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3707,17 +3707,17 @@ export default {
         "form_id": 0,
         "name": "Jynx",
         "pokemon_type": [
-            "ICE",
-            "PSYCHIC"
+            "ice",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3726,16 +3726,16 @@ export default {
         "form_id": 0,
         "name": "Electabuzz",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3750,16 +3750,16 @@ export default {
         "form_id": 0,
         "name": "Magmar",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3774,16 +3774,16 @@ export default {
         "form_id": 0,
         "name": "Pinsir",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3792,18 +3792,18 @@ export default {
         "form_id": 1,
         "name": "Mega Pinsir",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -3812,16 +3812,16 @@ export default {
         "form_id": 0,
         "name": "Tauros",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3830,18 +3830,18 @@ export default {
         "form_id": 0,
         "name": "Magikarp",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2",
-            "DRAGON"
+            "water_2",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -3856,19 +3856,19 @@ export default {
         "form_id": 0,
         "name": "Gyarados",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_2",
-            "DRAGON"
+            "water_2",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3877,19 +3877,19 @@ export default {
         "form_id": 1,
         "name": "Mega Gyarados",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_2",
-            "DRAGON"
+            "water_2",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -3898,19 +3898,19 @@ export default {
         "form_id": 0,
         "name": "Lapras",
         "pokemon_type": [
-            "WATER",
-            "ICE"
+            "water",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -3919,16 +3919,16 @@ export default {
         "form_id": 0,
         "name": "Ditto",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "DITTO"
+            "ditto"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -3937,10 +3937,10 @@ export default {
         "form_id": 0,
         "name": "Eevee",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
@@ -3948,7 +3948,7 @@ export default {
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -3991,16 +3991,16 @@ export default {
         "form_id": 0,
         "name": "Vaporeon",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -4009,16 +4009,16 @@ export default {
         "form_id": 0,
         "name": "Jolteon",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -4027,16 +4027,16 @@ export default {
         "form_id": 0,
         "name": "Flareon",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -4045,16 +4045,16 @@ export default {
         "form_id": 0,
         "name": "Porygon",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -4069,18 +4069,18 @@ export default {
         "form_id": 0,
         "name": "Omanyte",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -4095,18 +4095,18 @@ export default {
         "form_id": 0,
         "name": "Omastar",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -4115,18 +4115,18 @@ export default {
         "form_id": 0,
         "name": "Kabuto",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
         "evolution_ids": [
@@ -4141,18 +4141,18 @@ export default {
         "form_id": 0,
         "name": "Kabutops",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1
     },
@@ -4161,17 +4161,17 @@ export default {
         "form_id": 0,
         "name": "Aerodactyl",
         "pokemon_type": [
-            "ROCK",
-            "FLYING"
+            "rock",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4180,18 +4180,18 @@ export default {
         "form_id": 1,
         "name": "Mega Aerodactyl",
         "pokemon_type": [
-            "ROCK",
-            "FLYING"
+            "rock",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -4200,17 +4200,17 @@ export default {
         "form_id": 0,
         "name": "Snorlax",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4219,18 +4219,18 @@ export default {
         "form_id": 0,
         "name": "Articuno",
         "pokemon_type": [
-            "ICE",
-            "FLYING"
+            "ice",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4239,18 +4239,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Articuno",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -4259,18 +4259,18 @@ export default {
         "form_id": 0,
         "name": "Zapdos",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4279,18 +4279,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Zapdos",
         "pokemon_type": [
-            "FIGHTING",
-            "FLYING"
+            "fighting",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -4299,18 +4299,18 @@ export default {
         "form_id": 0,
         "name": "Moltres",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4319,18 +4319,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Moltres",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -4339,17 +4339,17 @@ export default {
         "form_id": 0,
         "name": "Dratini",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -4364,17 +4364,17 @@ export default {
         "form_id": 0,
         "name": "Dragonair",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 1,
         "evolution_ids": [
@@ -4389,18 +4389,18 @@ export default {
         "form_id": 0,
         "name": "Dragonite",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4409,17 +4409,17 @@ export default {
         "form_id": 0,
         "name": "Mewtwo",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 1
     },
@@ -4428,11 +4428,11 @@ export default {
         "form_id": 1,
         "name": "Mega Mewtwo X",
         "pokemon_type": [
-            "PSYCHIC",
-            "FIGHTING"
+            "psychic",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
@@ -4440,7 +4440,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -4449,10 +4449,10 @@ export default {
         "form_id": 2,
         "name": "Mega Mewtwo Y",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
@@ -4460,7 +4460,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -4469,17 +4469,17 @@ export default {
         "form_id": 0,
         "name": "Mew",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Slow",
         "generation": 1
     },
@@ -4488,17 +4488,17 @@ export default {
         "form_id": 0,
         "name": "Chikorita",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4513,17 +4513,17 @@ export default {
         "form_id": 0,
         "name": "Bayleef",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4538,18 +4538,18 @@ export default {
         "form_id": 0,
         "name": "Meganium",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -4558,16 +4558,16 @@ export default {
         "form_id": 0,
         "name": "Cyndaquil",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4582,16 +4582,16 @@ export default {
         "form_id": 0,
         "name": "Quilava",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4610,16 +4610,16 @@ export default {
         "form_id": 0,
         "name": "Typhlosion",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -4628,17 +4628,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Typhlosion",
         "pokemon_type": [
-            "FIRE",
-            "GHOST"
+            "fire",
+            "ghost"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -4647,17 +4647,17 @@ export default {
         "form_id": 0,
         "name": "Totodile",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4672,17 +4672,17 @@ export default {
         "form_id": 0,
         "name": "Croconaw",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4697,17 +4697,17 @@ export default {
         "form_id": 0,
         "name": "Feraligatr",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -4716,16 +4716,16 @@ export default {
         "form_id": 0,
         "name": "Sentret",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -4740,16 +4740,16 @@ export default {
         "form_id": 0,
         "name": "Furret",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -4758,17 +4758,17 @@ export default {
         "form_id": 0,
         "name": "Hoothoot",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -4783,17 +4783,17 @@ export default {
         "form_id": 0,
         "name": "Noctowl",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -4802,18 +4802,18 @@ export default {
         "form_id": 0,
         "name": "Ledyba",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -4828,18 +4828,18 @@ export default {
         "form_id": 0,
         "name": "Ledian",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -4848,17 +4848,17 @@ export default {
         "form_id": 0,
         "name": "Spinarak",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -4873,17 +4873,17 @@ export default {
         "form_id": 0,
         "name": "Ariados",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -4892,17 +4892,17 @@ export default {
         "form_id": 0,
         "name": "Crobat",
         "pokemon_type": [
-            "POISON",
-            "FLYING"
+            "poison",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -4911,17 +4911,17 @@ export default {
         "form_id": 0,
         "name": "Chinchou",
         "pokemon_type": [
-            "WATER",
-            "ELECTRIC"
+            "water",
+            "electric"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -4936,17 +4936,17 @@ export default {
         "form_id": 0,
         "name": "Lanturn",
         "pokemon_type": [
-            "WATER",
-            "ELECTRIC"
+            "water",
+            "electric"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -4955,17 +4955,17 @@ export default {
         "form_id": 0,
         "name": "Pichu",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -4980,23 +4980,23 @@ export default {
         "form_id": 0,
         "name": "Cleffa",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
         "is_baby": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5011,24 +5011,24 @@ export default {
         "form_id": 0,
         "name": "Igglybuff",
         "pokemon_type": [
-            "NORMAL",
-            "FAIRY"
+            "normal",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
         "is_baby": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5043,23 +5043,23 @@ export default {
         "form_id": 0,
         "name": "Togepi",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_baby": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5074,25 +5074,25 @@ export default {
         "form_id": 0,
         "name": "Togetic",
         "pokemon_type": [
-            "FAIRY",
-            "FLYING"
+            "fairy",
+            "flying"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL",
-                "FLYING"
+                "normal",
+                "flying"
             ]
         },
         "egg_group": [
-            "FLYING",
-            "FAIRY"
+            "flying",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5107,17 +5107,17 @@ export default {
         "form_id": 0,
         "name": "Natu",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5132,18 +5132,18 @@ export default {
         "form_id": 0,
         "name": "Xatu",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5152,17 +5152,17 @@ export default {
         "form_id": 0,
         "name": "Mareep",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5177,17 +5177,17 @@ export default {
         "form_id": 0,
         "name": "Flaaffy",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5202,17 +5202,17 @@ export default {
         "form_id": 0,
         "name": "Ampharos",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -5221,19 +5221,19 @@ export default {
         "form_id": 1,
         "name": "Mega Ampharos",
         "pokemon_type": [
-            "ELECTRIC",
-            "DRAGON"
+            "electric",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -5242,16 +5242,16 @@ export default {
         "form_id": 0,
         "name": "Bellossom",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -5260,24 +5260,24 @@ export default {
         "form_id": 0,
         "name": "Marill",
         "pokemon_type": [
-            "WATER",
-            "FAIRY"
+            "water",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "WATER"
+                "water"
             ]
         },
         "egg_group": [
-            "WATER_1",
-            "FAIRY"
+            "water_1",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5292,24 +5292,24 @@ export default {
         "form_id": 0,
         "name": "Azumarill",
         "pokemon_type": [
-            "WATER",
-            "FAIRY"
+            "water",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "WATER"
+                "water"
             ]
         },
         "egg_group": [
-            "WATER_1",
-            "FAIRY"
+            "water_1",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -5318,17 +5318,17 @@ export default {
         "form_id": 0,
         "name": "Sudowoodo",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5337,17 +5337,17 @@ export default {
         "form_id": 0,
         "name": "Politoed",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -5356,18 +5356,18 @@ export default {
         "form_id": 0,
         "name": "Hoppip",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5382,18 +5382,18 @@ export default {
         "form_id": 0,
         "name": "Skiploom",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5408,18 +5408,18 @@ export default {
         "form_id": 0,
         "name": "Jumpluff",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -5428,17 +5428,17 @@ export default {
         "form_id": 0,
         "name": "Aipom",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5453,16 +5453,16 @@ export default {
         "form_id": 0,
         "name": "Sunkern",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5477,16 +5477,16 @@ export default {
         "form_id": 0,
         "name": "Sunflora",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -5495,17 +5495,17 @@ export default {
         "form_id": 0,
         "name": "Yanma",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5520,19 +5520,19 @@ export default {
         "form_id": 0,
         "name": "Wooper",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5547,19 +5547,19 @@ export default {
         "form_id": 0,
         "name": "Quagsire",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5568,16 +5568,16 @@ export default {
         "form_id": 0,
         "name": "Espeon",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5586,16 +5586,16 @@ export default {
         "form_id": 0,
         "name": "Umbreon",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5604,18 +5604,18 @@ export default {
         "form_id": 0,
         "name": "Murkrow",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5630,18 +5630,18 @@ export default {
         "form_id": 0,
         "name": "Slowking",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5650,18 +5650,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Slowking",
         "pokemon_type": [
-            "POISON",
-            "PSYCHIC"
+            "poison",
+            "psychic"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -5670,16 +5670,16 @@ export default {
         "form_id": 0,
         "name": "Misdreavus",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5694,16 +5694,16 @@ export default {
         "form_id": 0,
         "name": "Unown",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5712,17 +5712,17 @@ export default {
         "form_id": 0,
         "name": "Wobbuffet",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5731,18 +5731,18 @@ export default {
         "form_id": 0,
         "name": "Girafarig",
         "pokemon_type": [
-            "NORMAL",
-            "PSYCHIC"
+            "normal",
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5751,16 +5751,16 @@ export default {
         "form_id": 0,
         "name": "Pineco",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5775,17 +5775,17 @@ export default {
         "form_id": 0,
         "name": "Forretress",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5794,16 +5794,16 @@ export default {
         "form_id": 0,
         "name": "Dunsparce",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5812,18 +5812,18 @@ export default {
         "form_id": 0,
         "name": "Gligar",
         "pokemon_type": [
-            "GROUND",
-            "FLYING"
+            "ground",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -5838,18 +5838,18 @@ export default {
         "form_id": 0,
         "name": "Steelix",
         "pokemon_type": [
-            "STEEL",
-            "GROUND"
+            "steel",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5858,18 +5858,18 @@ export default {
         "form_id": 1,
         "name": "Mega Steelix",
         "pokemon_type": [
-            "STEEL",
-            "GROUND"
+            "steel",
+            "ground"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -5878,23 +5878,23 @@ export default {
         "form_id": 0,
         "name": "Snubbull",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [
@@ -5909,23 +5909,23 @@ export default {
         "form_id": 0,
         "name": "Granbull",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -5934,17 +5934,17 @@ export default {
         "form_id": 0,
         "name": "Qwilfish",
         "pokemon_type": [
-            "WATER",
-            "POISON"
+            "water",
+            "poison"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5953,17 +5953,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Qwilfish",
         "pokemon_type": [
-            "DARK",
-            "POISON"
+            "dark",
+            "poison"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -5978,18 +5978,18 @@ export default {
         "form_id": 0,
         "name": "Scizor",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -5998,18 +5998,18 @@ export default {
         "form_id": 1,
         "name": "Mega Scizor",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -6018,17 +6018,17 @@ export default {
         "form_id": 0,
         "name": "Shuckle",
         "pokemon_type": [
-            "BUG",
-            "ROCK"
+            "bug",
+            "rock"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -6037,18 +6037,18 @@ export default {
         "form_id": 0,
         "name": "Heracross",
         "pokemon_type": [
-            "BUG",
-            "FIGHTING"
+            "bug",
+            "fighting"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6057,18 +6057,18 @@ export default {
         "form_id": 1,
         "name": "Mega Heracross",
         "pokemon_type": [
-            "BUG",
-            "FIGHTING"
+            "bug",
+            "fighting"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -6077,18 +6077,18 @@ export default {
         "form_id": 0,
         "name": "Sneasel",
         "pokemon_type": [
-            "DARK",
-            "ICE"
+            "dark",
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6103,18 +6103,18 @@ export default {
         "form_id": 1,
         "name": "Hisuian Sneasel",
         "pokemon_type": [
-            "FIGHTING",
-            "POISON"
+            "fighting",
+            "poison"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -6129,16 +6129,16 @@ export default {
         "form_id": 0,
         "name": "Teddiursa",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6153,17 +6153,17 @@ export default {
         "form_id": 0,
         "name": "Ursaring",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6178,16 +6178,16 @@ export default {
         "form_id": 0,
         "name": "Slugma",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6202,17 +6202,17 @@ export default {
         "form_id": 0,
         "name": "Magcargo",
         "pokemon_type": [
-            "FIRE",
-            "ROCK"
+            "fire",
+            "rock"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -6221,17 +6221,17 @@ export default {
         "form_id": 0,
         "name": "Swinub",
         "pokemon_type": [
-            "ICE",
-            "GROUND"
+            "ice",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6246,18 +6246,18 @@ export default {
         "form_id": 0,
         "name": "Piloswine",
         "pokemon_type": [
-            "ICE",
-            "GROUND"
+            "ice",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6272,18 +6272,18 @@ export default {
         "form_id": 0,
         "name": "Corsola",
         "pokemon_type": [
-            "WATER",
-            "ROCK"
+            "water",
+            "rock"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -6292,17 +6292,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Corsola",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 8,
         "evolution_ids": [
@@ -6317,17 +6317,17 @@ export default {
         "form_id": 0,
         "name": "Remoraid",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6342,18 +6342,18 @@ export default {
         "form_id": 0,
         "name": "Octillery",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -6362,18 +6362,18 @@ export default {
         "form_id": 0,
         "name": "Delibird",
         "pokemon_type": [
-            "ICE",
-            "FLYING"
+            "ice",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -6382,17 +6382,17 @@ export default {
         "form_id": 0,
         "name": "Mantine",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6401,17 +6401,17 @@ export default {
         "form_id": 0,
         "name": "Skarmory",
         "pokemon_type": [
-            "STEEL",
-            "FLYING"
+            "steel",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6420,17 +6420,17 @@ export default {
         "form_id": 0,
         "name": "Houndour",
         "pokemon_type": [
-            "DARK",
-            "FIRE"
+            "dark",
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6445,18 +6445,18 @@ export default {
         "form_id": 0,
         "name": "Houndoom",
         "pokemon_type": [
-            "DARK",
-            "FIRE"
+            "dark",
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6465,18 +6465,18 @@ export default {
         "form_id": 1,
         "name": "Mega Houndoom",
         "pokemon_type": [
-            "DARK",
-            "FIRE"
+            "dark",
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -6485,18 +6485,18 @@ export default {
         "form_id": 0,
         "name": "Kingdra",
         "pokemon_type": [
-            "WATER",
-            "DRAGON"
+            "water",
+            "dragon"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -6505,16 +6505,16 @@ export default {
         "form_id": 0,
         "name": "Phanpy",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6529,17 +6529,17 @@ export default {
         "form_id": 0,
         "name": "Donphan",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -6548,16 +6548,16 @@ export default {
         "form_id": 0,
         "name": "Porygon2",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6572,16 +6572,16 @@ export default {
         "form_id": 0,
         "name": "Stantler",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6596,16 +6596,16 @@ export default {
         "form_id": 0,
         "name": "Smeargle",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -6614,17 +6614,17 @@ export default {
         "form_id": 0,
         "name": "Tyrogue",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_baby": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6647,16 +6647,16 @@ export default {
         "form_id": 0,
         "name": "Hitmontop",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 2
     },
@@ -6665,18 +6665,18 @@ export default {
         "form_id": 0,
         "name": "Smoochum",
         "pokemon_type": [
-            "ICE",
-            "PSYCHIC"
+            "ice",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "is_baby": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6691,17 +6691,17 @@ export default {
         "form_id": 0,
         "name": "Elekid",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
         "is_baby": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6716,17 +6716,17 @@ export default {
         "form_id": 0,
         "name": "Magby",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
         "is_baby": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [
@@ -6741,16 +6741,16 @@ export default {
         "form_id": 0,
         "name": "Miltank",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6759,16 +6759,16 @@ export default {
         "form_id": 0,
         "name": "Blissey",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 2
     },
@@ -6777,17 +6777,17 @@ export default {
         "form_id": 0,
         "name": "Raikou",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6796,17 +6796,17 @@ export default {
         "form_id": 0,
         "name": "Entei",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6815,17 +6815,17 @@ export default {
         "form_id": 0,
         "name": "Suicune",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6834,17 +6834,17 @@ export default {
         "form_id": 0,
         "name": "Larvitar",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6859,17 +6859,17 @@ export default {
         "form_id": 0,
         "name": "Pupitar",
         "pokemon_type": [
-            "ROCK",
-            "GROUND"
+            "rock",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 2,
         "evolution_ids": [
@@ -6884,17 +6884,17 @@ export default {
         "form_id": 0,
         "name": "Tyranitar",
         "pokemon_type": [
-            "ROCK",
-            "DARK"
+            "rock",
+            "dark"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6903,18 +6903,18 @@ export default {
         "form_id": 1,
         "name": "Mega Tyranitar",
         "pokemon_type": [
-            "ROCK",
-            "DARK"
+            "rock",
+            "dark"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -6923,18 +6923,18 @@ export default {
         "form_id": 0,
         "name": "Lugia",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6943,18 +6943,18 @@ export default {
         "form_id": 0,
         "name": "Ho-Oh",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 2
     },
@@ -6963,18 +6963,18 @@ export default {
         "form_id": 0,
         "name": "Celebi",
         "pokemon_type": [
-            "PSYCHIC",
-            "GRASS"
+            "psychic",
+            "grass"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 2
     },
@@ -6983,17 +6983,17 @@ export default {
         "form_id": 0,
         "name": "Treecko",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7008,17 +7008,17 @@ export default {
         "form_id": 0,
         "name": "Grovyle",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7033,17 +7033,17 @@ export default {
         "form_id": 0,
         "name": "Sceptile",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7052,19 +7052,19 @@ export default {
         "form_id": 1,
         "name": "Mega Sceptile",
         "pokemon_type": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -7073,17 +7073,17 @@ export default {
         "form_id": 0,
         "name": "Torchic",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7098,18 +7098,18 @@ export default {
         "form_id": 0,
         "name": "Combusken",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7124,18 +7124,18 @@ export default {
         "form_id": 0,
         "name": "Blaziken",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7144,18 +7144,18 @@ export default {
         "form_id": 1,
         "name": "Mega Blaziken",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -7164,17 +7164,17 @@ export default {
         "form_id": 0,
         "name": "Mudkip",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7189,18 +7189,18 @@ export default {
         "form_id": 0,
         "name": "Marshtomp",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7215,18 +7215,18 @@ export default {
         "form_id": 0,
         "name": "Swampert",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7235,19 +7235,19 @@ export default {
         "form_id": 1,
         "name": "Mega Swampert",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -7256,16 +7256,16 @@ export default {
         "form_id": 0,
         "name": "Poochyena",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7280,16 +7280,16 @@ export default {
         "form_id": 0,
         "name": "Mightyena",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7298,16 +7298,16 @@ export default {
         "form_id": 0,
         "name": "Zigzagoon",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7322,17 +7322,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Zigzagoon",
         "pokemon_type": [
-            "DARK",
-            "NORMAL"
+            "dark",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -7347,16 +7347,16 @@ export default {
         "form_id": 0,
         "name": "Linoone",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7365,17 +7365,17 @@ export default {
         "form_id": 1,
         "name": "Galarian Linoone",
         "pokemon_type": [
-            "DARK",
-            "NORMAL"
+            "dark",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -7390,16 +7390,16 @@ export default {
         "form_id": 0,
         "name": "Wurmple",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7418,16 +7418,16 @@ export default {
         "form_id": 0,
         "name": "Silcoon",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7442,18 +7442,18 @@ export default {
         "form_id": 0,
         "name": "Beautifly",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7462,16 +7462,16 @@ export default {
         "form_id": 0,
         "name": "Cascoon",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7486,18 +7486,18 @@ export default {
         "form_id": 0,
         "name": "Dustox",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7506,18 +7506,18 @@ export default {
         "form_id": 0,
         "name": "Lotad",
         "pokemon_type": [
-            "WATER",
-            "GRASS"
+            "water",
+            "grass"
         ],
         "egg_group": [
-            "WATER_1",
-            "GRASS"
+            "water_1",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7532,18 +7532,18 @@ export default {
         "form_id": 0,
         "name": "Lombre",
         "pokemon_type": [
-            "WATER",
-            "GRASS"
+            "water",
+            "grass"
         ],
         "egg_group": [
-            "WATER_1",
-            "GRASS"
+            "water_1",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7558,19 +7558,19 @@ export default {
         "form_id": 0,
         "name": "Ludicolo",
         "pokemon_type": [
-            "WATER",
-            "GRASS"
+            "water",
+            "grass"
         ],
         "egg_group": [
-            "WATER_1",
-            "GRASS"
+            "water_1",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7579,17 +7579,17 @@ export default {
         "form_id": 0,
         "name": "Seedot",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7604,19 +7604,19 @@ export default {
         "form_id": 0,
         "name": "Nuzleaf",
         "pokemon_type": [
-            "GRASS",
-            "DARK"
+            "grass",
+            "dark"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7631,19 +7631,19 @@ export default {
         "form_id": 0,
         "name": "Shiftry",
         "pokemon_type": [
-            "GRASS",
-            "DARK"
+            "grass",
+            "dark"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7652,17 +7652,17 @@ export default {
         "form_id": 0,
         "name": "Taillow",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7677,17 +7677,17 @@ export default {
         "form_id": 0,
         "name": "Swellow",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -7696,18 +7696,18 @@ export default {
         "form_id": 0,
         "name": "Wingull",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "FLYING"
+            "water_1",
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7722,18 +7722,18 @@ export default {
         "form_id": 0,
         "name": "Pelipper",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "FLYING"
+            "water_1",
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7742,23 +7742,23 @@ export default {
         "form_id": 0,
         "name": "Ralts",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "PSYCHIC"
+                "psychic"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7773,23 +7773,23 @@ export default {
         "form_id": 0,
         "name": "Kirlia",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "PSYCHIC"
+                "psychic"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7808,23 +7808,23 @@ export default {
         "form_id": 0,
         "name": "Gardevoir",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "PSYCHIC"
+                "psychic"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -7833,18 +7833,18 @@ export default {
         "form_id": 1,
         "name": "Mega Gardevoir",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -7853,18 +7853,18 @@ export default {
         "form_id": 0,
         "name": "Surskit",
         "pokemon_type": [
-            "BUG",
-            "WATER"
+            "bug",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "BUG"
+            "water_1",
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -7879,18 +7879,18 @@ export default {
         "form_id": 0,
         "name": "Masquerain",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "BUG"
+            "water_1",
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -7899,17 +7899,17 @@ export default {
         "form_id": 0,
         "name": "Shroomish",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Fluctuating",
         "generation": 3,
         "evolution_ids": [
@@ -7924,18 +7924,18 @@ export default {
         "form_id": 0,
         "name": "Breloom",
         "pokemon_type": [
-            "GRASS",
-            "FIGHTING"
+            "grass",
+            "fighting"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -7944,16 +7944,16 @@ export default {
         "form_id": 0,
         "name": "Slakoth",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7968,16 +7968,16 @@ export default {
         "form_id": 0,
         "name": "Vigoroth",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -7992,16 +7992,16 @@ export default {
         "form_id": 0,
         "name": "Slaking",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -8010,17 +8010,17 @@ export default {
         "form_id": 0,
         "name": "Nincada",
         "pokemon_type": [
-            "BUG",
-            "GROUND"
+            "bug",
+            "ground"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -8039,17 +8039,17 @@ export default {
         "form_id": 0,
         "name": "Ninjask",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -8058,17 +8058,17 @@ export default {
         "form_id": 0,
         "name": "Shedinja",
         "pokemon_type": [
-            "BUG",
-            "GHOST"
+            "bug",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -8077,17 +8077,17 @@ export default {
         "form_id": 0,
         "name": "Whismur",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8102,17 +8102,17 @@ export default {
         "form_id": 0,
         "name": "Loudred",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8127,17 +8127,17 @@ export default {
         "form_id": 0,
         "name": "Exploud",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -8146,16 +8146,16 @@ export default {
         "form_id": 0,
         "name": "Makuhita",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Fluctuating",
         "generation": 3,
         "evolution_ids": [
@@ -8170,16 +8170,16 @@ export default {
         "form_id": 0,
         "name": "Hariyama",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -8188,24 +8188,24 @@ export default {
         "form_id": 0,
         "name": "Azurill",
         "pokemon_type": [
-            "NORMAL",
-            "FAIRY"
+            "normal",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL"
+                "normal"
             ]
         },
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
         "is_baby": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8220,16 +8220,16 @@ export default {
         "form_id": 0,
         "name": "Nosepass",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8244,17 +8244,17 @@ export default {
         "form_id": 0,
         "name": "Skitty",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8269,17 +8269,17 @@ export default {
         "form_id": 0,
         "name": "Delcatty",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -8288,17 +8288,17 @@ export default {
         "form_id": 0,
         "name": "Sableye",
         "pokemon_type": [
-            "DARK",
-            "GHOST"
+            "dark",
+            "ghost"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -8307,18 +8307,18 @@ export default {
         "form_id": 1,
         "name": "Mega Sableye",
         "pokemon_type": [
-            "DARK",
-            "GHOST"
+            "dark",
+            "ghost"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -8327,24 +8327,24 @@ export default {
         "form_id": 0,
         "name": "Mawile",
         "pokemon_type": [
-            "STEEL",
-            "FAIRY"
+            "steel",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "STEEL"
+                "steel"
             ]
         },
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -8353,19 +8353,19 @@ export default {
         "form_id": 1,
         "name": "Mega Mawile",
         "pokemon_type": [
-            "STEEL",
-            "FAIRY"
+            "steel",
+            "fairy"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 6
     },
@@ -8374,17 +8374,17 @@ export default {
         "form_id": 0,
         "name": "Aron",
         "pokemon_type": [
-            "STEEL",
-            "ROCK"
+            "steel",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8399,17 +8399,17 @@ export default {
         "form_id": 0,
         "name": "Lairon",
         "pokemon_type": [
-            "STEEL",
-            "ROCK"
+            "steel",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8424,17 +8424,17 @@ export default {
         "form_id": 0,
         "name": "Aggron",
         "pokemon_type": [
-            "STEEL",
-            "ROCK"
+            "steel",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -8443,17 +8443,17 @@ export default {
         "form_id": 1,
         "name": "Mega Aggron",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -8462,18 +8462,18 @@ export default {
         "form_id": 0,
         "name": "Meditite",
         "pokemon_type": [
-            "FIGHTING",
-            "PSYCHIC"
+            "fighting",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8488,18 +8488,18 @@ export default {
         "form_id": 0,
         "name": "Medicham",
         "pokemon_type": [
-            "FIGHTING",
-            "PSYCHIC"
+            "fighting",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -8508,18 +8508,18 @@ export default {
         "form_id": 1,
         "name": "Mega Medicham",
         "pokemon_type": [
-            "FIGHTING",
-            "PSYCHIC"
+            "fighting",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -8528,16 +8528,16 @@ export default {
         "form_id": 0,
         "name": "Electrike",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8552,16 +8552,16 @@ export default {
         "form_id": 0,
         "name": "Manectric",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -8570,17 +8570,17 @@ export default {
         "form_id": 1,
         "name": "Mega Manectric",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -8589,16 +8589,16 @@ export default {
         "form_id": 0,
         "name": "Plusle",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -8607,16 +8607,16 @@ export default {
         "form_id": 0,
         "name": "Minun",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -8625,17 +8625,17 @@ export default {
         "form_id": 0,
         "name": "Volbeat",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG",
-            "HUMAN_LIKE"
+            "bug",
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -8644,17 +8644,17 @@ export default {
         "form_id": 0,
         "name": "Illumise",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG",
-            "HUMAN_LIKE"
+            "bug",
+            "human_like"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -8663,19 +8663,19 @@ export default {
         "form_id": 0,
         "name": "Roselia",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8690,17 +8690,17 @@ export default {
         "form_id": 0,
         "name": "Gulpin",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Fluctuating",
         "generation": 3,
         "evolution_ids": [
@@ -8715,17 +8715,17 @@ export default {
         "form_id": 0,
         "name": "Swalot",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -8734,17 +8734,17 @@ export default {
         "form_id": 0,
         "name": "Carvanha",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -8759,17 +8759,17 @@ export default {
         "form_id": 0,
         "name": "Sharpedo",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -8778,18 +8778,18 @@ export default {
         "form_id": 1,
         "name": "Mega Sharpedo",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -8798,17 +8798,17 @@ export default {
         "form_id": 0,
         "name": "Wailmer",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD",
-            "WATER_2"
+            "field",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fluctuating",
         "generation": 3,
         "evolution_ids": [
@@ -8823,17 +8823,17 @@ export default {
         "form_id": 0,
         "name": "Wailord",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD",
-            "WATER_2"
+            "field",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -8842,18 +8842,18 @@ export default {
         "form_id": 0,
         "name": "Numel",
         "pokemon_type": [
-            "FIRE",
-            "GROUND"
+            "fire",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8868,18 +8868,18 @@ export default {
         "form_id": 0,
         "name": "Camerupt",
         "pokemon_type": [
-            "FIRE",
-            "GROUND"
+            "fire",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -8888,18 +8888,18 @@ export default {
         "form_id": 1,
         "name": "Mega Camerupt",
         "pokemon_type": [
-            "FIRE",
-            "GROUND"
+            "fire",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -8908,16 +8908,16 @@ export default {
         "form_id": 0,
         "name": "Torkoal",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -8926,16 +8926,16 @@ export default {
         "form_id": 0,
         "name": "Spoink",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -8950,16 +8950,16 @@ export default {
         "form_id": 0,
         "name": "Grumpig",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -8968,17 +8968,17 @@ export default {
         "form_id": 0,
         "name": "Spinda",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -8987,16 +8987,16 @@ export default {
         "form_id": 0,
         "name": "Trapinch",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -9011,17 +9011,17 @@ export default {
         "form_id": 0,
         "name": "Vibrava",
         "pokemon_type": [
-            "GROUND",
-            "DRAGON"
+            "ground",
+            "dragon"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -9036,17 +9036,17 @@ export default {
         "form_id": 0,
         "name": "Flygon",
         "pokemon_type": [
-            "GROUND",
-            "DRAGON"
+            "ground",
+            "dragon"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -9055,17 +9055,17 @@ export default {
         "form_id": 0,
         "name": "Cacnea",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS",
-            "HUMAN_LIKE"
+            "grass",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -9080,19 +9080,19 @@ export default {
         "form_id": 0,
         "name": "Cacturne",
         "pokemon_type": [
-            "GRASS",
-            "DARK"
+            "grass",
+            "dark"
         ],
         "egg_group": [
-            "GRASS",
-            "HUMAN_LIKE"
+            "grass",
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -9101,18 +9101,18 @@ export default {
         "form_id": 0,
         "name": "Swablu",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "DRAGON"
+            "flying",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -9127,18 +9127,18 @@ export default {
         "form_id": 0,
         "name": "Altaria",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "DRAGON"
+            "flying",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9147,19 +9147,19 @@ export default {
         "form_id": 1,
         "name": "Mega Altaria",
         "pokemon_type": [
-            "DRAGON",
-            "FAIRY"
+            "dragon",
+            "fairy"
         ],
         "egg_group": [
-            "FLYING",
-            "DRAGON"
+            "flying",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 6
     },
@@ -9168,16 +9168,16 @@ export default {
         "form_id": 0,
         "name": "Zangoose",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9186,17 +9186,17 @@ export default {
         "form_id": 0,
         "name": "Seviper",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -9205,17 +9205,17 @@ export default {
         "form_id": 0,
         "name": "Lunatone",
         "pokemon_type": [
-            "ROCK",
-            "PSYCHIC"
+            "rock",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -9224,17 +9224,17 @@ export default {
         "form_id": 0,
         "name": "Solrock",
         "pokemon_type": [
-            "ROCK",
-            "PSYCHIC"
+            "rock",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -9243,17 +9243,17 @@ export default {
         "form_id": 0,
         "name": "Barboach",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9268,17 +9268,17 @@ export default {
         "form_id": 0,
         "name": "Whiscash",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -9287,17 +9287,17 @@ export default {
         "form_id": 0,
         "name": "Corphish",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fluctuating",
         "generation": 3,
         "evolution_ids": [
@@ -9312,18 +9312,18 @@ export default {
         "form_id": 0,
         "name": "Crawdaunt",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Fluctuating",
         "generation": 3
     },
@@ -9332,17 +9332,17 @@ export default {
         "form_id": 0,
         "name": "Baltoy",
         "pokemon_type": [
-            "GROUND",
-            "PSYCHIC"
+            "ground",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9357,17 +9357,17 @@ export default {
         "form_id": 0,
         "name": "Claydol",
         "pokemon_type": [
-            "GROUND",
-            "PSYCHIC"
+            "ground",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -9376,17 +9376,17 @@ export default {
         "form_id": 0,
         "name": "Lileep",
         "pokemon_type": [
-            "ROCK",
-            "GRASS"
+            "rock",
+            "grass"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -9401,17 +9401,17 @@ export default {
         "form_id": 0,
         "name": "Cradily",
         "pokemon_type": [
-            "ROCK",
-            "GRASS"
+            "rock",
+            "grass"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9420,17 +9420,17 @@ export default {
         "form_id": 0,
         "name": "Anorith",
         "pokemon_type": [
-            "ROCK",
-            "BUG"
+            "rock",
+            "bug"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -9445,17 +9445,17 @@ export default {
         "form_id": 0,
         "name": "Armaldo",
         "pokemon_type": [
-            "ROCK",
-            "BUG"
+            "rock",
+            "bug"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9464,17 +9464,17 @@ export default {
         "form_id": 0,
         "name": "Feebas",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -9489,18 +9489,18 @@ export default {
         "form_id": 0,
         "name": "Milotic",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9509,17 +9509,17 @@ export default {
         "form_id": 0,
         "name": "Castform",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FAIRY",
-            "AMORPHOUS"
+            "fairy",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -9528,16 +9528,16 @@ export default {
         "form_id": 0,
         "name": "Kecleon",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -9546,16 +9546,16 @@ export default {
         "form_id": 0,
         "name": "Shuppet",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9570,16 +9570,16 @@ export default {
         "form_id": 0,
         "name": "Banette",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -9588,17 +9588,17 @@ export default {
         "form_id": 1,
         "name": "Mega Banette",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 6
     },
@@ -9607,16 +9607,16 @@ export default {
         "form_id": 0,
         "name": "Duskull",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9631,16 +9631,16 @@ export default {
         "form_id": 0,
         "name": "Dusclops",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9655,18 +9655,18 @@ export default {
         "form_id": 0,
         "name": "Tropius",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -9675,16 +9675,16 @@ export default {
         "form_id": 0,
         "name": "Chimecho",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -9693,16 +9693,16 @@ export default {
         "form_id": 0,
         "name": "Absol",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -9711,17 +9711,17 @@ export default {
         "form_id": 1,
         "name": "Mega Absol",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -9730,17 +9730,17 @@ export default {
         "form_id": 0,
         "name": "Wynaut",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9755,17 +9755,17 @@ export default {
         "form_id": 0,
         "name": "Snorunt",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3,
         "evolution_ids": [
@@ -9784,17 +9784,17 @@ export default {
         "form_id": 0,
         "name": "Glalie",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -9803,18 +9803,18 @@ export default {
         "form_id": 1,
         "name": "Mega Glalie",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -9823,18 +9823,18 @@ export default {
         "form_id": 0,
         "name": "Spheal",
         "pokemon_type": [
-            "ICE",
-            "WATER"
+            "ice",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -9849,18 +9849,18 @@ export default {
         "form_id": 0,
         "name": "Sealeo",
         "pokemon_type": [
-            "ICE",
-            "WATER"
+            "ice",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3,
         "evolution_ids": [
@@ -9875,18 +9875,18 @@ export default {
         "form_id": 0,
         "name": "Walrein",
         "pokemon_type": [
-            "ICE",
-            "WATER"
+            "ice",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 3
     },
@@ -9895,16 +9895,16 @@ export default {
         "form_id": 0,
         "name": "Clamperl",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 3,
         "evolution_ids": [
@@ -9923,16 +9923,16 @@ export default {
         "form_id": 0,
         "name": "Huntail",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9941,16 +9941,16 @@ export default {
         "form_id": 0,
         "name": "Gorebyss",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Erratic",
         "generation": 3
     },
@@ -9959,19 +9959,19 @@ export default {
         "form_id": 0,
         "name": "Relicanth",
         "pokemon_type": [
-            "WATER",
-            "ROCK"
+            "water",
+            "rock"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -9980,16 +9980,16 @@ export default {
         "form_id": 0,
         "name": "Luvdisc",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 3
     },
@@ -9998,16 +9998,16 @@ export default {
         "form_id": 0,
         "name": "Bagon",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -10022,16 +10022,16 @@ export default {
         "form_id": 0,
         "name": "Shelgon",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -10046,17 +10046,17 @@ export default {
         "form_id": 0,
         "name": "Salamence",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10065,18 +10065,18 @@ export default {
         "form_id": 1,
         "name": "Mega Salamence",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10085,17 +10085,17 @@ export default {
         "form_id": 0,
         "name": "Beldum",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -10110,17 +10110,17 @@ export default {
         "form_id": 0,
         "name": "Metang",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3,
         "evolution_ids": [
@@ -10135,17 +10135,17 @@ export default {
         "form_id": 0,
         "name": "Metagross",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10154,18 +10154,18 @@ export default {
         "form_id": 1,
         "name": "Mega Metagross",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10174,17 +10174,17 @@ export default {
         "form_id": 0,
         "name": "Regirock",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10193,17 +10193,17 @@ export default {
         "form_id": 0,
         "name": "Regice",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10212,17 +10212,17 @@ export default {
         "form_id": 0,
         "name": "Registeel",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10231,18 +10231,18 @@ export default {
         "form_id": 0,
         "name": "Latias",
         "pokemon_type": [
-            "DRAGON",
-            "PSYCHIC"
+            "dragon",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "is_sublegendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10251,11 +10251,11 @@ export default {
         "form_id": 1,
         "name": "Mega Latias",
         "pokemon_type": [
-            "DRAGON",
-            "PSYCHIC"
+            "dragon",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
@@ -10263,7 +10263,7 @@ export default {
         "gender_ratio": 8,
         "is_sublegendary": true,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10272,18 +10272,18 @@ export default {
         "form_id": 0,
         "name": "Latios",
         "pokemon_type": [
-            "DRAGON",
-            "PSYCHIC"
+            "dragon",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10292,11 +10292,11 @@ export default {
         "form_id": 1,
         "name": "Mega Latios",
         "pokemon_type": [
-            "DRAGON",
-            "PSYCHIC"
+            "dragon",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
@@ -10304,7 +10304,7 @@ export default {
         "gender_ratio": 0,
         "is_sublegendary": true,
         "is_mega": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10313,17 +10313,17 @@ export default {
         "form_id": 0,
         "name": "Kyogre",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10332,17 +10332,17 @@ export default {
         "form_id": 1,
         "name": "Primal Kyogre",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10351,17 +10351,17 @@ export default {
         "form_id": 0,
         "name": "Groudon",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10370,18 +10370,18 @@ export default {
         "form_id": 1,
         "name": "Primal Groudon",
         "pokemon_type": [
-            "GROUND",
-            "FIRE"
+            "ground",
+            "fire"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10390,18 +10390,18 @@ export default {
         "form_id": 0,
         "name": "Rayquaza",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10410,11 +10410,11 @@ export default {
         "form_id": 1,
         "name": "Mega Rayquaza",
         "pokemon_type": [
-            "DRAGON",
-            "FLYING"
+            "dragon",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
@@ -10422,7 +10422,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -10431,18 +10431,18 @@ export default {
         "form_id": 0,
         "name": "Jirachi",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10452,17 +10452,17 @@ export default {
         "name": "Deoxys",
         "form_name": "Normal Forme",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10472,17 +10472,17 @@ export default {
         "name": "Deoxys",
         "form_name": "Attack Forme",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10492,17 +10492,17 @@ export default {
         "name": "Deoxys",
         "form_name": "Defense Forme",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10512,17 +10512,17 @@ export default {
         "name": "Deoxys",
         "form_name": "Speed Forme",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 3
     },
@@ -10531,17 +10531,17 @@ export default {
         "form_id": 0,
         "name": "Turtwig",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10556,17 +10556,17 @@ export default {
         "form_id": 0,
         "name": "Grotle",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10581,18 +10581,18 @@ export default {
         "form_id": 0,
         "name": "Torterra",
         "pokemon_type": [
-            "GRASS",
-            "GROUND"
+            "grass",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10601,17 +10601,17 @@ export default {
         "form_id": 0,
         "name": "Chimchar",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10626,18 +10626,18 @@ export default {
         "form_id": 0,
         "name": "Monferno",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10652,18 +10652,18 @@ export default {
         "form_id": 0,
         "name": "Infernape",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10672,17 +10672,17 @@ export default {
         "form_id": 0,
         "name": "Piplup",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10697,17 +10697,17 @@ export default {
         "form_id": 0,
         "name": "Prinplup",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10722,18 +10722,18 @@ export default {
         "form_id": 0,
         "name": "Empoleon",
         "pokemon_type": [
-            "WATER",
-            "STEEL"
+            "water",
+            "steel"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10742,18 +10742,18 @@ export default {
         "form_id": 0,
         "name": "Starly",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10768,18 +10768,18 @@ export default {
         "form_id": 0,
         "name": "Staravia",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10794,18 +10794,18 @@ export default {
         "form_id": 0,
         "name": "Staraptor",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10814,18 +10814,18 @@ export default {
         "form_id": 0,
         "name": "Bidoof",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -10840,19 +10840,19 @@ export default {
         "form_id": 0,
         "name": "Bibarel",
         "pokemon_type": [
-            "NORMAL",
-            "WATER"
+            "normal",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -10861,17 +10861,17 @@ export default {
         "form_id": 0,
         "name": "Kricketot",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10886,17 +10886,17 @@ export default {
         "form_id": 0,
         "name": "Kricketune",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10905,17 +10905,17 @@ export default {
         "form_id": 0,
         "name": "Shinx",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10930,17 +10930,17 @@ export default {
         "form_id": 0,
         "name": "Luxio",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -10955,17 +10955,17 @@ export default {
         "form_id": 0,
         "name": "Luxray",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -10974,18 +10974,18 @@ export default {
         "form_id": 0,
         "name": "Budew",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -11000,19 +11000,19 @@ export default {
         "form_id": 0,
         "name": "Roserade",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -11021,16 +11021,16 @@ export default {
         "form_id": 0,
         "name": "Cranidos",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 4,
         "evolution_ids": [
@@ -11045,16 +11045,16 @@ export default {
         "form_id": 0,
         "name": "Rampardos",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 4
     },
@@ -11063,17 +11063,17 @@ export default {
         "form_id": 0,
         "name": "Shieldon",
         "pokemon_type": [
-            "ROCK",
-            "STEEL"
+            "rock",
+            "steel"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 4,
         "evolution_ids": [
@@ -11088,17 +11088,17 @@ export default {
         "form_id": 0,
         "name": "Bastiodon",
         "pokemon_type": [
-            "ROCK",
-            "STEEL"
+            "rock",
+            "steel"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Erratic",
         "generation": 4
     },
@@ -11108,16 +11108,16 @@ export default {
         "name": "Burmy",
         "form_name": "Plant Cloak",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11137,16 +11137,16 @@ export default {
         "name": "Burmy",
         "form_name": "Sandy Cloak",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11166,16 +11166,16 @@ export default {
         "name": "Burmy",
         "form_name": "Trash Cloak",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11195,17 +11195,17 @@ export default {
         "name": "Wormadam",
         "form_name": "Plant Cloak",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11215,17 +11215,17 @@ export default {
         "name": "Wormadam",
         "form_name": "Sandy Cloak",
         "pokemon_type": [
-            "BUG",
-            "GROUND"
+            "bug",
+            "ground"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11235,17 +11235,17 @@ export default {
         "name": "Wormadam",
         "form_name": "Trash Cloak",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11254,17 +11254,17 @@ export default {
         "form_id": 0,
         "name": "Mothim",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11273,18 +11273,18 @@ export default {
         "form_id": 0,
         "name": "Combee",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -11299,17 +11299,17 @@ export default {
         "form_id": 0,
         "name": "Vespiquen",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -11318,18 +11318,18 @@ export default {
         "form_id": 0,
         "name": "Pachirisu",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11338,18 +11338,18 @@ export default {
         "form_id": 0,
         "name": "Buizel",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11364,18 +11364,18 @@ export default {
         "form_id": 0,
         "name": "Floatzel",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11384,17 +11384,17 @@ export default {
         "form_id": 0,
         "name": "Cherubi",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11408,18 +11408,19 @@ export default {
         "base_id": 421,
         "form_id": 1,
         "name": "Cherrim",
+        "form_name": "Sunshine Form",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11429,17 +11430,17 @@ export default {
         "name": "Shellos",
         "form_name": "West Sea",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11455,17 +11456,17 @@ export default {
         "name": "Shellos",
         "form_name": "East Sea",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11481,18 +11482,18 @@ export default {
         "name": "Gastrodon",
         "form_name": "West Sea",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11502,18 +11503,18 @@ export default {
         "name": "Gastrodon",
         "form_name": "East Sea",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11522,17 +11523,17 @@ export default {
         "form_id": 0,
         "name": "Ambipom",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 4
     },
@@ -11541,17 +11542,17 @@ export default {
         "form_id": 0,
         "name": "Drifloon",
         "pokemon_type": [
-            "GHOST",
-            "FLYING"
+            "ghost",
+            "flying"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fluctuating",
         "generation": 4,
         "evolution_ids": [
@@ -11566,17 +11567,17 @@ export default {
         "form_id": 0,
         "name": "Drifblim",
         "pokemon_type": [
-            "GHOST",
-            "FLYING"
+            "ghost",
+            "flying"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fluctuating",
         "generation": 4
     },
@@ -11585,17 +11586,17 @@ export default {
         "form_id": 0,
         "name": "Buneary",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11610,17 +11611,17 @@ export default {
         "form_id": 0,
         "name": "Lopunny",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11629,19 +11630,19 @@ export default {
         "form_id": 1,
         "name": "Mega Lopunny",
         "pokemon_type": [
-            "NORMAL",
-            "FIGHTING"
+            "normal",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -11650,16 +11651,16 @@ export default {
         "form_id": 0,
         "name": "Mismagius",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 4
     },
@@ -11668,17 +11669,17 @@ export default {
         "form_id": 0,
         "name": "Honchkrow",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -11687,16 +11688,16 @@ export default {
         "form_id": 0,
         "name": "Glameow",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11711,16 +11712,16 @@ export default {
         "form_id": 0,
         "name": "Purugly",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 4
     },
@@ -11729,17 +11730,17 @@ export default {
         "form_id": 0,
         "name": "Chingling",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11754,17 +11755,17 @@ export default {
         "form_id": 0,
         "name": "Stunky",
         "pokemon_type": [
-            "POISON",
-            "DARK"
+            "poison",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11779,17 +11780,17 @@ export default {
         "form_id": 0,
         "name": "Skuntank",
         "pokemon_type": [
-            "POISON",
-            "DARK"
+            "poison",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11798,17 +11799,17 @@ export default {
         "form_id": 0,
         "name": "Bronzor",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11823,17 +11824,17 @@ export default {
         "form_id": 0,
         "name": "Bronzong",
         "pokemon_type": [
-            "STEEL",
-            "PSYCHIC"
+            "steel",
+            "psychic"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11842,17 +11843,17 @@ export default {
         "form_id": 0,
         "name": "Bonsly",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11867,24 +11868,24 @@ export default {
         "form_id": 0,
         "name": "Mime Jr.",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "PSYCHIC"
+                "psychic"
             ]
         },
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11903,17 +11904,17 @@ export default {
         "form_id": 0,
         "name": "Happiny",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "is_baby": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 4,
         "evolution_ids": [
@@ -11928,17 +11929,17 @@ export default {
         "form_id": 0,
         "name": "Chatot",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -11947,17 +11948,17 @@ export default {
         "form_id": 0,
         "name": "Spiritomb",
         "pokemon_type": [
-            "GHOST",
-            "DARK"
+            "ghost",
+            "dark"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -11966,19 +11967,19 @@ export default {
         "form_id": 0,
         "name": "Gible",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -11993,19 +11994,19 @@ export default {
         "form_id": 0,
         "name": "Gabite",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12020,19 +12021,19 @@ export default {
         "form_id": 0,
         "name": "Garchomp",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12041,19 +12042,19 @@ export default {
         "form_id": 1,
         "name": "Mega Garchomp",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -12062,17 +12063,17 @@ export default {
         "form_id": 0,
         "name": "Munchlax",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_baby": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12087,17 +12088,17 @@ export default {
         "form_id": 0,
         "name": "Riolu",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_baby": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12112,18 +12113,18 @@ export default {
         "form_id": 0,
         "name": "Lucario",
         "pokemon_type": [
-            "FIGHTING",
-            "STEEL"
+            "fighting",
+            "steel"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -12132,19 +12133,19 @@ export default {
         "form_id": 1,
         "name": "Mega Lucario",
         "pokemon_type": [
-            "FIGHTING",
-            "STEEL"
+            "fighting",
+            "steel"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_mega": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -12153,17 +12154,17 @@ export default {
         "form_id": 0,
         "name": "Hippopotas",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12178,17 +12179,17 @@ export default {
         "form_id": 0,
         "name": "Hippowdon",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12197,18 +12198,18 @@ export default {
         "form_id": 0,
         "name": "Skorupi",
         "pokemon_type": [
-            "POISON",
-            "BUG"
+            "poison",
+            "bug"
         ],
         "egg_group": [
-            "BUG",
-            "WATER_3"
+            "bug",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12223,18 +12224,18 @@ export default {
         "form_id": 0,
         "name": "Drapion",
         "pokemon_type": [
-            "POISON",
-            "DARK"
+            "poison",
+            "dark"
         ],
         "egg_group": [
-            "BUG",
-            "WATER_3"
+            "bug",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12243,18 +12244,18 @@ export default {
         "form_id": 0,
         "name": "Croagunk",
         "pokemon_type": [
-            "POISON",
-            "FIGHTING"
+            "poison",
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4,
         "evolution_ids": [
@@ -12269,18 +12270,18 @@ export default {
         "form_id": 0,
         "name": "Toxicroak",
         "pokemon_type": [
-            "POISON",
-            "FIGHTING"
+            "poison",
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12289,16 +12290,16 @@ export default {
         "form_id": 0,
         "name": "Carnivine",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12307,17 +12308,17 @@ export default {
         "form_id": 0,
         "name": "Finneon",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 4,
         "evolution_ids": [
@@ -12332,17 +12333,17 @@ export default {
         "form_id": 0,
         "name": "Lumineon",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Erratic",
         "generation": 4
     },
@@ -12351,18 +12352,18 @@ export default {
         "form_id": 0,
         "name": "Mantyke",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12377,19 +12378,19 @@ export default {
         "form_id": 0,
         "name": "Snover",
         "pokemon_type": [
-            "GRASS",
-            "ICE"
+            "grass",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4,
         "evolution_ids": [
@@ -12404,19 +12405,19 @@ export default {
         "form_id": 0,
         "name": "Abomasnow",
         "pokemon_type": [
-            "GRASS",
-            "ICE"
+            "grass",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12425,19 +12426,19 @@ export default {
         "form_id": 1,
         "name": "Mega Abomasnow",
         "pokemon_type": [
-            "GRASS",
-            "ICE"
+            "grass",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER",
-            "GRASS"
+            "monster",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -12446,18 +12447,18 @@ export default {
         "form_id": 0,
         "name": "Weavile",
         "pokemon_type": [
-            "DARK",
-            "ICE"
+            "dark",
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -12466,17 +12467,17 @@ export default {
         "form_id": 0,
         "name": "Magnezone",
         "pokemon_type": [
-            "ELECTRIC",
-            "STEEL"
+            "electric",
+            "steel"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12485,16 +12486,16 @@ export default {
         "form_id": 0,
         "name": "Lickilicky",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12503,19 +12504,19 @@ export default {
         "form_id": 0,
         "name": "Rhyperior",
         "pokemon_type": [
-            "GROUND",
-            "ROCK"
+            "ground",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER",
-            "FIELD"
+            "monster",
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12524,17 +12525,17 @@ export default {
         "form_id": 0,
         "name": "Tangrowth",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12543,16 +12544,16 @@ export default {
         "form_id": 0,
         "name": "Electivire",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12561,16 +12562,16 @@ export default {
         "form_id": 0,
         "name": "Magmortar",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12579,25 +12580,25 @@ export default {
         "form_id": 0,
         "name": "Togekiss",
         "pokemon_type": [
-            "FAIRY",
-            "FLYING"
+            "fairy",
+            "flying"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "NORMAL",
-                "FLYING"
+                "normal",
+                "flying"
             ]
         },
         "egg_group": [
-            "FLYING",
-            "FAIRY"
+            "flying",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 4
     },
@@ -12606,17 +12607,17 @@ export default {
         "form_id": 0,
         "name": "Yanmega",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12625,16 +12626,16 @@ export default {
         "form_id": 0,
         "name": "Leafeon",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12643,16 +12644,16 @@ export default {
         "form_id": 0,
         "name": "Glaceon",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12661,17 +12662,17 @@ export default {
         "form_id": 0,
         "name": "Gliscor",
         "pokemon_type": [
-            "GROUND",
-            "FLYING"
+            "ground",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -12680,18 +12681,18 @@ export default {
         "form_id": 0,
         "name": "Mamoswine",
         "pokemon_type": [
-            "ICE",
-            "GROUND"
+            "ice",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12700,16 +12701,16 @@ export default {
         "form_id": 0,
         "name": "Porygon-Z",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12718,17 +12719,17 @@ export default {
         "form_id": 0,
         "name": "Gallade",
         "pokemon_type": [
-            "PSYCHIC",
-            "FIGHTING"
+            "psychic",
+            "fighting"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12737,18 +12738,18 @@ export default {
         "form_id": 1,
         "name": "Mega Gallade",
         "pokemon_type": [
-            "PSYCHIC",
-            "FIGHTING"
+            "psychic",
+            "fighting"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_mega": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -12757,17 +12758,17 @@ export default {
         "form_id": 0,
         "name": "Probopass",
         "pokemon_type": [
-            "ROCK",
-            "STEEL"
+            "rock",
+            "steel"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12776,16 +12777,16 @@ export default {
         "form_id": 0,
         "name": "Dusknoir",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 4
     },
@@ -12794,18 +12795,18 @@ export default {
         "form_id": 0,
         "name": "Froslass",
         "pokemon_type": [
-            "ICE",
-            "GHOST"
+            "ice",
+            "ghost"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12814,17 +12815,17 @@ export default {
         "form_id": 0,
         "name": "Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "GHOST"
+            "electric",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12833,24 +12834,24 @@ export default {
         "form_id": 1,
         "name": "Heat Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "FIRE"
+            "electric",
+            "fire"
         ],
         "past_type": {
             "generation": 5,
             "pokemon_type": [
-                "ELECTRIC",
-                "GHOST"
+                "electric",
+                "ghost"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12859,24 +12860,24 @@ export default {
         "form_id": 2,
         "name": "Wash Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "WATER"
+            "electric",
+            "water"
         ],
         "past_type": {
             "generation": 5,
             "pokemon_type": [
-                "ELECTRIC",
-                "GHOST"
+                "electric",
+                "ghost"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12885,24 +12886,24 @@ export default {
         "form_id": 3,
         "name": "Frost Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "ICE"
+            "electric",
+            "ice"
         ],
         "past_type": {
             "generation": 5,
             "pokemon_type": [
-                "ELECTRIC",
-                "GHOST"
+                "electric",
+                "ghost"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12911,24 +12912,24 @@ export default {
         "form_id": 4,
         "name": "Fan Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "past_type": {
             "generation": 5,
             "pokemon_type": [
-                "ELECTRIC",
-                "GHOST"
+                "electric",
+                "ghost"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12937,24 +12938,24 @@ export default {
         "form_id": 5,
         "name": "Mow Rotom",
         "pokemon_type": [
-            "ELECTRIC",
-            "GRASS"
+            "electric",
+            "grass"
         ],
         "past_type": {
             "generation": 5,
             "pokemon_type": [
-                "ELECTRIC",
-                "GHOST"
+                "electric",
+                "ghost"
             ]
         },
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 4
     },
@@ -12963,17 +12964,17 @@ export default {
         "form_id": 0,
         "name": "Uxie",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -12982,17 +12983,17 @@ export default {
         "form_id": 0,
         "name": "Mesprit",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13001,17 +13002,17 @@ export default {
         "form_id": 0,
         "name": "Azelf",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13020,18 +13021,18 @@ export default {
         "form_id": 0,
         "name": "Dialga",
         "pokemon_type": [
-            "STEEL",
-            "DRAGON"
+            "steel",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13041,18 +13042,18 @@ export default {
         "name": "Dialga",
         "form_name": "Origin Forme",
         "pokemon_type": [
-            "STEEL",
-            "DRAGON"
+            "steel",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -13061,18 +13062,18 @@ export default {
         "form_id": 0,
         "name": "Palkia",
         "pokemon_type": [
-            "WATER",
-            "DRAGON"
+            "water",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13082,18 +13083,18 @@ export default {
         "name": "Palkia",
         "form_name": "Origin Forme",
         "pokemon_type": [
-            "WATER",
-            "DRAGON"
+            "water",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -13102,18 +13103,18 @@ export default {
         "form_id": 0,
         "name": "Heatran",
         "pokemon_type": [
-            "FIRE",
-            "STEEL"
+            "fire",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_sublegendary": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13122,17 +13123,17 @@ export default {
         "form_id": 0,
         "name": "Regigigas",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13142,18 +13143,18 @@ export default {
         "name": "Giratina",
         "form_name": "Altered Forme",
         "pokemon_type": [
-            "GHOST",
-            "DRAGON"
+            "ghost",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13163,18 +13164,18 @@ export default {
         "name": "Giratina",
         "form_name": "Origin Forme",
         "pokemon_type": [
-            "GHOST",
-            "DRAGON"
+            "ghost",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13183,17 +13184,17 @@ export default {
         "form_id": 0,
         "name": "Cresselia",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13202,18 +13203,18 @@ export default {
         "form_id": 0,
         "name": "Phione",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FAIRY"
+            "water_1",
+            "fairy"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13222,18 +13223,18 @@ export default {
         "form_id": 0,
         "name": "Manaphy",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FAIRY"
+            "water_1",
+            "fairy"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13242,17 +13243,17 @@ export default {
         "form_id": 0,
         "name": "Darkrai",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13262,17 +13263,17 @@ export default {
         "name": "Shaymin",
         "form_name": "Land Forme",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -13282,18 +13283,18 @@ export default {
         "name": "Shaymin",
         "form_name": "Sky Forme",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 4
     },
@@ -13302,17 +13303,17 @@ export default {
         "form_id": 0,
         "name": "Arceus",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 4
     },
@@ -13321,18 +13322,18 @@ export default {
         "form_id": 0,
         "name": "Victini",
         "pokemon_type": [
-            "PSYCHIC",
-            "FIRE"
+            "psychic",
+            "fire"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -13341,17 +13342,17 @@ export default {
         "form_id": 0,
         "name": "Snivy",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13366,17 +13367,17 @@ export default {
         "form_id": 0,
         "name": "Servine",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13391,17 +13392,17 @@ export default {
         "form_id": 0,
         "name": "Serperior",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -13410,16 +13411,16 @@ export default {
         "form_id": 0,
         "name": "Tepig",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13434,17 +13435,17 @@ export default {
         "form_id": 0,
         "name": "Pignite",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13459,17 +13460,17 @@ export default {
         "form_id": 0,
         "name": "Emboar",
         "pokemon_type": [
-            "FIRE",
-            "FIGHTING"
+            "fire",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -13478,16 +13479,16 @@ export default {
         "form_id": 0,
         "name": "Oshawott",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13502,16 +13503,16 @@ export default {
         "form_id": 0,
         "name": "Dewott",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13530,16 +13531,16 @@ export default {
         "form_id": 0,
         "name": "Samurott",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -13548,17 +13549,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Samurott",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -13567,16 +13568,16 @@ export default {
         "form_id": 0,
         "name": "Patrat",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13591,16 +13592,16 @@ export default {
         "form_id": 0,
         "name": "Watchog",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13609,16 +13610,16 @@ export default {
         "form_id": 0,
         "name": "Lillipup",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13633,16 +13634,16 @@ export default {
         "form_id": 0,
         "name": "Herdier",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13657,16 +13658,16 @@ export default {
         "form_id": 0,
         "name": "Stoutland",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -13675,16 +13676,16 @@ export default {
         "form_id": 0,
         "name": "Purrloin",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13699,16 +13700,16 @@ export default {
         "form_id": 0,
         "name": "Liepard",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13717,16 +13718,16 @@ export default {
         "form_id": 0,
         "name": "Pansage",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13741,16 +13742,16 @@ export default {
         "form_id": 0,
         "name": "Simisage",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13759,16 +13760,16 @@ export default {
         "form_id": 0,
         "name": "Pansear",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13783,16 +13784,16 @@ export default {
         "form_id": 0,
         "name": "Simisear",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13801,16 +13802,16 @@ export default {
         "form_id": 0,
         "name": "Panpour",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13825,16 +13826,16 @@ export default {
         "form_id": 0,
         "name": "Simipour",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13843,16 +13844,16 @@ export default {
         "form_id": 0,
         "name": "Munna",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13867,16 +13868,16 @@ export default {
         "form_id": 0,
         "name": "Musharna",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 5
     },
@@ -13885,17 +13886,17 @@ export default {
         "form_id": 0,
         "name": "Pidove",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13910,17 +13911,17 @@ export default {
         "form_id": 0,
         "name": "Tranquill",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -13935,18 +13936,18 @@ export default {
         "form_id": 0,
         "name": "Unfezant",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -13955,16 +13956,16 @@ export default {
         "form_id": 0,
         "name": "Blitzle",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -13979,16 +13980,16 @@ export default {
         "form_id": 0,
         "name": "Zebstrika",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -13997,16 +13998,16 @@ export default {
         "form_id": 0,
         "name": "Roggenrola",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14021,16 +14022,16 @@ export default {
         "form_id": 0,
         "name": "Boldore",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14045,16 +14046,16 @@ export default {
         "form_id": 0,
         "name": "Gigalith",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14063,18 +14064,18 @@ export default {
         "form_id": 0,
         "name": "Woobat",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "FIELD"
+            "flying",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14089,18 +14090,18 @@ export default {
         "form_id": 0,
         "name": "Swoobat",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "FIELD"
+            "flying",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14109,16 +14110,16 @@ export default {
         "form_id": 0,
         "name": "Drilbur",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14133,17 +14134,17 @@ export default {
         "form_id": 0,
         "name": "Excadrill",
         "pokemon_type": [
-            "GROUND",
-            "STEEL"
+            "ground",
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14152,16 +14153,16 @@ export default {
         "form_id": 0,
         "name": "Audino",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 5
     },
@@ -14170,18 +14171,18 @@ export default {
         "form_id": 1,
         "name": "Mega Audino",
         "pokemon_type": [
-            "NORMAL",
-            "FAIRY"
+            "normal",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_mega": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 6
     },
@@ -14190,16 +14191,16 @@ export default {
         "form_id": 0,
         "name": "Timburr",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14214,16 +14215,16 @@ export default {
         "form_id": 0,
         "name": "Gurdurr",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14238,16 +14239,16 @@ export default {
         "form_id": 0,
         "name": "Conkeldurr",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 2,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14256,16 +14257,16 @@ export default {
         "form_id": 0,
         "name": "Tympole",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14280,17 +14281,17 @@ export default {
         "form_id": 0,
         "name": "Palpitoad",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14305,17 +14306,17 @@ export default {
         "form_id": 0,
         "name": "Seismitoad",
         "pokemon_type": [
-            "WATER",
-            "GROUND"
+            "water",
+            "ground"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14324,16 +14325,16 @@ export default {
         "form_id": 0,
         "name": "Throh",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14342,16 +14343,16 @@ export default {
         "form_id": 0,
         "name": "Sawk",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14360,17 +14361,17 @@ export default {
         "form_id": 0,
         "name": "Sewaddle",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14385,17 +14386,17 @@ export default {
         "form_id": 0,
         "name": "Swadloon",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14410,17 +14411,17 @@ export default {
         "form_id": 0,
         "name": "Leavanny",
         "pokemon_type": [
-            "BUG",
-            "GRASS"
+            "bug",
+            "grass"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14429,17 +14430,17 @@ export default {
         "form_id": 0,
         "name": "Venipede",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14454,17 +14455,17 @@ export default {
         "form_id": 0,
         "name": "Whirlipede",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14479,17 +14480,17 @@ export default {
         "form_id": 0,
         "name": "Scolipede",
         "pokemon_type": [
-            "BUG",
-            "POISON"
+            "bug",
+            "poison"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14498,24 +14499,24 @@ export default {
         "form_id": 0,
         "name": "Cottonee",
         "pokemon_type": [
-            "GRASS",
-            "FAIRY"
+            "grass",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "GRASS"
+                "grass"
             ]
         },
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14530,24 +14531,24 @@ export default {
         "form_id": 0,
         "name": "Whimsicott",
         "pokemon_type": [
-            "GRASS",
-            "FAIRY"
+            "grass",
+            "fairy"
         ],
         "past_type": {
             "generation": 6,
             "pokemon_type": [
-                "GRASS"
+                "grass"
             ]
         },
         "egg_group": [
-            "FAIRY",
-            "GRASS"
+            "fairy",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14556,16 +14557,16 @@ export default {
         "form_id": 0,
         "name": "Petilil",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14584,16 +14585,16 @@ export default {
         "form_id": 0,
         "name": "Lilligant",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14602,17 +14603,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Lilligant",
         "pokemon_type": [
-            "GRASS",
-            "FIGHTING"
+            "grass",
+            "fighting"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -14622,16 +14623,16 @@ export default {
         "name": "Basculin",
         "form_name": "Red-Striped Form",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14641,16 +14642,16 @@ export default {
         "name": "Basculin",
         "form_name": "Blue-Striped Form",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14660,16 +14661,16 @@ export default {
         "name": "Basculin",
         "form_name": "White-Striped Form",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -14688,17 +14689,17 @@ export default {
         "form_id": 0,
         "name": "Sandile",
         "pokemon_type": [
-            "GROUND",
-            "DARK"
+            "ground",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14713,17 +14714,17 @@ export default {
         "form_id": 0,
         "name": "Krokorok",
         "pokemon_type": [
-            "GROUND",
-            "DARK"
+            "ground",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14738,17 +14739,17 @@ export default {
         "form_id": 0,
         "name": "Krookodile",
         "pokemon_type": [
-            "GROUND",
-            "DARK"
+            "ground",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14757,16 +14758,16 @@ export default {
         "form_id": 0,
         "name": "Darumaka",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -14781,16 +14782,16 @@ export default {
         "form_id": 1,
         "name": "Galarian Darumaka",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -14804,17 +14805,18 @@ export default {
         "base_id": 555,
         "form_id": 0,
         "name": "Darmanitan",
+        "form_name": "Standard Mode",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -14822,17 +14824,18 @@ export default {
         "base_id": 555,
         "form_id": 2,
         "name": "Galarian Darmanitan",
+        "form_name": "Standard Mode",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -14841,16 +14844,16 @@ export default {
         "form_id": 0,
         "name": "Maractus",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14859,18 +14862,18 @@ export default {
         "form_id": 0,
         "name": "Dwebble",
         "pokemon_type": [
-            "BUG",
-            "ROCK"
+            "bug",
+            "rock"
         ],
         "egg_group": [
-            "BUG",
-            "MINERAL"
+            "bug",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14885,18 +14888,18 @@ export default {
         "form_id": 0,
         "name": "Crustle",
         "pokemon_type": [
-            "BUG",
-            "ROCK"
+            "bug",
+            "rock"
         ],
         "egg_group": [
-            "BUG",
-            "MINERAL"
+            "bug",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14905,18 +14908,18 @@ export default {
         "form_id": 0,
         "name": "Scraggy",
         "pokemon_type": [
-            "DARK",
-            "FIGHTING"
+            "dark",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14931,18 +14934,18 @@ export default {
         "form_id": 0,
         "name": "Scrafty",
         "pokemon_type": [
-            "DARK",
-            "FIGHTING"
+            "dark",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14951,17 +14954,17 @@ export default {
         "form_id": 0,
         "name": "Sigilyph",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -14970,17 +14973,17 @@ export default {
         "form_id": 0,
         "name": "Yamask",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -14995,18 +14998,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Yamask",
         "pokemon_type": [
-            "GROUND",
-            "GHOST"
+            "ground",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -15021,17 +15024,17 @@ export default {
         "form_id": 0,
         "name": "Cofagrigus",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15040,18 +15043,18 @@ export default {
         "form_id": 0,
         "name": "Tirtouga",
         "pokemon_type": [
-            "WATER",
-            "ROCK"
+            "water",
+            "rock"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15066,18 +15069,18 @@ export default {
         "form_id": 0,
         "name": "Carracosta",
         "pokemon_type": [
-            "WATER",
-            "ROCK"
+            "water",
+            "rock"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15086,18 +15089,18 @@ export default {
         "form_id": 0,
         "name": "Archen",
         "pokemon_type": [
-            "ROCK",
-            "FLYING"
+            "rock",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "WATER_3"
+            "flying",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15112,18 +15115,18 @@ export default {
         "form_id": 0,
         "name": "Archeops",
         "pokemon_type": [
-            "ROCK",
-            "FLYING"
+            "rock",
+            "flying"
         ],
         "egg_group": [
-            "FLYING",
-            "WATER_3"
+            "flying",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15132,16 +15135,16 @@ export default {
         "form_id": 0,
         "name": "Trubbish",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15156,17 +15159,17 @@ export default {
         "form_id": 0,
         "name": "Garbodor",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15175,16 +15178,16 @@ export default {
         "form_id": 0,
         "name": "Zorua",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15199,17 +15202,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Zorua",
         "pokemon_type": [
-            "NORMAL",
-            "GHOST"
+            "normal",
+            "ghost"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -15224,16 +15227,16 @@ export default {
         "form_id": 0,
         "name": "Zoroark",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -15242,17 +15245,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Zoroark",
         "pokemon_type": [
-            "NORMAL",
-            "GHOST"
+            "normal",
+            "ghost"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -15261,16 +15264,16 @@ export default {
         "form_id": 0,
         "name": "Minccino",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15285,16 +15288,16 @@ export default {
         "form_id": 0,
         "name": "Cinccino",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 5
     },
@@ -15303,16 +15306,16 @@ export default {
         "form_id": 0,
         "name": "Gothita",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15327,16 +15330,16 @@ export default {
         "form_id": 0,
         "name": "Gothorita",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15351,16 +15354,16 @@ export default {
         "form_id": 0,
         "name": "Gothitelle",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -15369,16 +15372,16 @@ export default {
         "form_id": 0,
         "name": "Solosis",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15393,16 +15396,16 @@ export default {
         "form_id": 0,
         "name": "Duosion",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15417,16 +15420,16 @@ export default {
         "form_id": 0,
         "name": "Reuniclus",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -15435,18 +15438,18 @@ export default {
         "form_id": 0,
         "name": "Ducklett",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "FLYING"
+            "water_1",
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15461,18 +15464,18 @@ export default {
         "form_id": 0,
         "name": "Swanna",
         "pokemon_type": [
-            "WATER",
-            "FLYING"
+            "water",
+            "flying"
         ],
         "egg_group": [
-            "WATER_1",
-            "FLYING"
+            "water_1",
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15481,16 +15484,16 @@ export default {
         "form_id": 0,
         "name": "Vanillite",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15505,16 +15508,16 @@ export default {
         "form_id": 0,
         "name": "Vanillish",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -15529,16 +15532,16 @@ export default {
         "form_id": 0,
         "name": "Vanilluxe",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -15548,17 +15551,17 @@ export default {
         "name": "Deerling",
         "form_name": "Spring Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15574,17 +15577,17 @@ export default {
         "name": "Deerling",
         "form_name": "Summer Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15600,17 +15603,17 @@ export default {
         "name": "Deerling",
         "form_name": "Autumn Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15626,17 +15629,17 @@ export default {
         "name": "Deerling",
         "form_name": "Winter Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15652,17 +15655,17 @@ export default {
         "name": "Sawsbuck",
         "form_name": "Spring Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15672,17 +15675,17 @@ export default {
         "name": "Sawsbuck",
         "form_name": "Summer Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15692,17 +15695,17 @@ export default {
         "name": "Sawsbuck",
         "form_name": "Autumn Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15712,17 +15715,17 @@ export default {
         "name": "Sawsbuck",
         "form_name": "Winter Form",
         "pokemon_type": [
-            "NORMAL",
-            "GRASS"
+            "normal",
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15731,17 +15734,17 @@ export default {
         "form_id": 0,
         "name": "Emolga",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15750,16 +15753,16 @@ export default {
         "form_id": 0,
         "name": "Karrablast",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15774,17 +15777,17 @@ export default {
         "form_id": 0,
         "name": "Escavalier",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15793,17 +15796,17 @@ export default {
         "form_id": 0,
         "name": "Foongus",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15818,17 +15821,17 @@ export default {
         "form_id": 0,
         "name": "Amoonguss",
         "pokemon_type": [
-            "GRASS",
-            "POISON"
+            "grass",
+            "poison"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15837,18 +15840,18 @@ export default {
         "form_id": 0,
         "name": "Frillish",
         "pokemon_type": [
-            "WATER",
-            "GHOST"
+            "water",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15863,18 +15866,18 @@ export default {
         "form_id": 0,
         "name": "Jellicent",
         "pokemon_type": [
-            "WATER",
-            "GHOST"
+            "water",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15883,17 +15886,17 @@ export default {
         "form_id": 0,
         "name": "Alomomola",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Fast",
         "generation": 5
     },
@@ -15902,17 +15905,17 @@ export default {
         "form_id": 0,
         "name": "Joltik",
         "pokemon_type": [
-            "BUG",
-            "ELECTRIC"
+            "bug",
+            "electric"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15927,17 +15930,17 @@ export default {
         "form_id": 0,
         "name": "Galvantula",
         "pokemon_type": [
-            "BUG",
-            "ELECTRIC"
+            "bug",
+            "electric"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15946,18 +15949,18 @@ export default {
         "form_id": 0,
         "name": "Ferroseed",
         "pokemon_type": [
-            "GRASS",
-            "STEEL"
+            "grass",
+            "steel"
         ],
         "egg_group": [
-            "GRASS",
-            "MINERAL"
+            "grass",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -15972,18 +15975,18 @@ export default {
         "form_id": 0,
         "name": "Ferrothorn",
         "pokemon_type": [
-            "GRASS",
-            "STEEL"
+            "grass",
+            "steel"
         ],
         "egg_group": [
-            "GRASS",
-            "MINERAL"
+            "grass",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -15992,16 +15995,16 @@ export default {
         "form_id": 0,
         "name": "Klink",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16016,16 +16019,16 @@ export default {
         "form_id": 0,
         "name": "Klang",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16040,16 +16043,16 @@ export default {
         "form_id": 0,
         "name": "Klinklang",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -16058,16 +16061,16 @@ export default {
         "form_id": 0,
         "name": "Tynamo",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16082,16 +16085,16 @@ export default {
         "form_id": 0,
         "name": "Eelektrik",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16106,16 +16109,16 @@ export default {
         "form_id": 0,
         "name": "Eelektross",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16124,16 +16127,16 @@ export default {
         "form_id": 0,
         "name": "Elgyem",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -16148,16 +16151,16 @@ export default {
         "form_id": 0,
         "name": "Beheeyem",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16166,17 +16169,17 @@ export default {
         "form_id": 0,
         "name": "Litwick",
         "pokemon_type": [
-            "GHOST",
-            "FIRE"
+            "ghost",
+            "fire"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16191,17 +16194,17 @@ export default {
         "form_id": 0,
         "name": "Lampent",
         "pokemon_type": [
-            "GHOST",
-            "FIRE"
+            "ghost",
+            "fire"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16216,17 +16219,17 @@ export default {
         "form_id": 0,
         "name": "Chandelure",
         "pokemon_type": [
-            "GHOST",
-            "FIRE"
+            "ghost",
+            "fire"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -16235,17 +16238,17 @@ export default {
         "form_id": 0,
         "name": "Axew",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16260,17 +16263,17 @@ export default {
         "form_id": 0,
         "name": "Fraxure",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16285,17 +16288,17 @@ export default {
         "form_id": 0,
         "name": "Haxorus",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16304,16 +16307,16 @@ export default {
         "form_id": 0,
         "name": "Cubchoo",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -16328,16 +16331,16 @@ export default {
         "form_id": 0,
         "name": "Beartic",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16346,16 +16349,16 @@ export default {
         "form_id": 0,
         "name": "Cryogonal",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16364,16 +16367,16 @@ export default {
         "form_id": 0,
         "name": "Shelmet",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -16388,16 +16391,16 @@ export default {
         "form_id": 0,
         "name": "Accelgor",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16406,18 +16409,18 @@ export default {
         "form_id": 0,
         "name": "Stunfisk",
         "pokemon_type": [
-            "GROUND",
-            "ELECTRIC"
+            "ground",
+            "electric"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16426,18 +16429,18 @@ export default {
         "form_id": 1,
         "name": "Galarian Stunfisk",
         "pokemon_type": [
-            "GROUND",
-            "STEEL"
+            "ground",
+            "steel"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -16446,17 +16449,17 @@ export default {
         "form_id": 0,
         "name": "Mienfoo",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16471,17 +16474,17 @@ export default {
         "form_id": 0,
         "name": "Mienshao",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 5
     },
@@ -16490,17 +16493,17 @@ export default {
         "form_id": 0,
         "name": "Druddigon",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16509,17 +16512,17 @@ export default {
         "form_id": 0,
         "name": "Golett",
         "pokemon_type": [
-            "GROUND",
-            "GHOST"
+            "ground",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -16534,17 +16537,17 @@ export default {
         "form_id": 0,
         "name": "Golurk",
         "pokemon_type": [
-            "GROUND",
-            "GHOST"
+            "ground",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16553,17 +16556,17 @@ export default {
         "form_id": 0,
         "name": "Pawniard",
         "pokemon_type": [
-            "DARK",
-            "STEEL"
+            "dark",
+            "steel"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
         "evolution_ids": [
@@ -16578,17 +16581,17 @@ export default {
         "form_id": 0,
         "name": "Bisharp",
         "pokemon_type": [
-            "DARK",
-            "STEEL"
+            "dark",
+            "steel"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16597,16 +16600,16 @@ export default {
         "form_id": 0,
         "name": "Bouffalant",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16615,17 +16618,17 @@ export default {
         "form_id": 0,
         "name": "Rufflet",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16644,17 +16647,17 @@ export default {
         "form_id": 0,
         "name": "Braviary",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16663,17 +16666,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Braviary",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -16682,17 +16685,17 @@ export default {
         "form_id": 0,
         "name": "Vullaby",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16707,17 +16710,17 @@ export default {
         "form_id": 0,
         "name": "Mandibuzz",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16726,16 +16729,16 @@ export default {
         "form_id": 0,
         "name": "Heatmor",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16744,17 +16747,17 @@ export default {
         "form_id": 0,
         "name": "Durant",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 5
     },
@@ -16763,17 +16766,17 @@ export default {
         "form_id": 0,
         "name": "Deino",
         "pokemon_type": [
-            "DARK",
-            "DRAGON"
+            "dark",
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16788,17 +16791,17 @@ export default {
         "form_id": 0,
         "name": "Zweilous",
         "pokemon_type": [
-            "DARK",
-            "DRAGON"
+            "dark",
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16813,17 +16816,17 @@ export default {
         "form_id": 0,
         "name": "Hydreigon",
         "pokemon_type": [
-            "DARK",
-            "DRAGON"
+            "dark",
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16832,17 +16835,17 @@ export default {
         "form_id": 0,
         "name": "Larvesta",
         "pokemon_type": [
-            "BUG",
-            "FIRE"
+            "bug",
+            "fire"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5,
         "evolution_ids": [
@@ -16857,17 +16860,17 @@ export default {
         "form_id": 0,
         "name": "Volcarona",
         "pokemon_type": [
-            "BUG",
-            "FIRE"
+            "bug",
+            "fire"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16876,18 +16879,18 @@ export default {
         "form_id": 0,
         "name": "Cobalion",
         "pokemon_type": [
-            "STEEL",
-            "FIGHTING"
+            "steel",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16896,18 +16899,18 @@ export default {
         "form_id": 0,
         "name": "Terrakion",
         "pokemon_type": [
-            "ROCK",
-            "FIGHTING"
+            "rock",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16916,18 +16919,18 @@ export default {
         "form_id": 0,
         "name": "Virizion",
         "pokemon_type": [
-            "GRASS",
-            "FIGHTING"
+            "grass",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16935,19 +16938,19 @@ export default {
         "base_id": 641,
         "form_id": 0,
         "name": "Tornadus",
-        "form_name": "Incarnate Form",
+        "form_name": "Incarnate Forme",
         "pokemon_type": [
-            "FLYING"
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16957,17 +16960,17 @@ export default {
         "name": "Tornadus",
         "form_name": "Therian Forme",
         "pokemon_type": [
-            "FLYING"
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16975,20 +16978,20 @@ export default {
         "base_id": 642,
         "form_id": 0,
         "name": "Thundurus",
-        "form_name": "Incarnate Form",
+        "form_name": "Incarnate Forme",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -16998,18 +17001,18 @@ export default {
         "name": "Thundurus",
         "form_name": "Therian Forme",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17018,18 +17021,18 @@ export default {
         "form_id": 0,
         "name": "Reshiram",
         "pokemon_type": [
-            "DRAGON",
-            "FIRE"
+            "dragon",
+            "fire"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17038,18 +17041,18 @@ export default {
         "form_id": 0,
         "name": "Zekrom",
         "pokemon_type": [
-            "DRAGON",
-            "ELECTRIC"
+            "dragon",
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17057,20 +17060,20 @@ export default {
         "base_id": 645,
         "form_id": 0,
         "name": "Landorus",
-        "form_name": "Incarnate Form",
+        "form_name": "Incarnate Forme",
         "pokemon_type": [
-            "GROUND",
-            "FLYING"
+            "ground",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17080,18 +17083,18 @@ export default {
         "name": "Landorus",
         "form_name": "Therian Forme",
         "pokemon_type": [
-            "GROUND",
-            "FLYING"
+            "ground",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "is_sublegendary": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17100,18 +17103,18 @@ export default {
         "form_id": 0,
         "name": "Kyurem",
         "pokemon_type": [
-            "DRAGON",
-            "ICE"
+            "dragon",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17120,18 +17123,18 @@ export default {
         "form_id": 1,
         "name": "White Kyurem",
         "pokemon_type": [
-            "DRAGON",
-            "ICE"
+            "dragon",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17140,18 +17143,18 @@ export default {
         "form_id": 2,
         "name": "Black Kyurem",
         "pokemon_type": [
-            "DRAGON",
-            "ICE"
+            "dragon",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17159,19 +17162,20 @@ export default {
         "base_id": 647,
         "form_id": 0,
         "name": "Keldeo",
+        "form_name": "Ordinary Form",
         "pokemon_type": [
-            "WATER",
-            "FIGHTING"
+            "water",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17179,19 +17183,20 @@ export default {
         "base_id": 648,
         "form_id": 0,
         "name": "Meloetta",
+        "form_name": "Aria Forme",
         "pokemon_type": [
-            "NORMAL",
-            "PSYCHIC"
+            "normal",
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17200,18 +17205,18 @@ export default {
         "form_id": 0,
         "name": "Genesect",
         "pokemon_type": [
-            "BUG",
-            "STEEL"
+            "bug",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 5
     },
@@ -17220,16 +17225,16 @@ export default {
         "form_id": 0,
         "name": "Chespin",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17244,16 +17249,16 @@ export default {
         "form_id": 0,
         "name": "Quilladin",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17268,17 +17273,17 @@ export default {
         "form_id": 0,
         "name": "Chesnaught",
         "pokemon_type": [
-            "GRASS",
-            "FIGHTING"
+            "grass",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -17287,16 +17292,16 @@ export default {
         "form_id": 0,
         "name": "Fennekin",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17311,16 +17316,16 @@ export default {
         "form_id": 0,
         "name": "Braixen",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17335,17 +17340,17 @@ export default {
         "form_id": 0,
         "name": "Delphox",
         "pokemon_type": [
-            "FIRE",
-            "PSYCHIC"
+            "fire",
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -17354,16 +17359,16 @@ export default {
         "form_id": 0,
         "name": "Froakie",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17378,16 +17383,16 @@ export default {
         "form_id": 0,
         "name": "Frogadier",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17402,35 +17407,54 @@ export default {
         "form_id": 0,
         "name": "Greninja",
         "pokemon_type": [
-            "WATER",
-            "DARK"
+            "water",
+            "dark"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
+    },
+    "greninja-ash": {
+        "base_id": 658,
+        "form_id": 2,
+        "name": "Ash-Greninja",
+        "pokemon_type": [
+            "water",
+            "dark"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "mo"
+        ],
+        "gender_ratio": 0,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 7
     },
     "bunnelby": {
         "base_id": 659,
         "form_id": 0,
         "name": "Bunnelby",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17445,17 +17469,17 @@ export default {
         "form_id": 0,
         "name": "Diggersby",
         "pokemon_type": [
-            "NORMAL",
-            "GROUND"
+            "normal",
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17464,17 +17488,17 @@ export default {
         "form_id": 0,
         "name": "Fletchling",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17489,17 +17513,17 @@ export default {
         "form_id": 0,
         "name": "Fletchinder",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17514,17 +17538,17 @@ export default {
         "form_id": 0,
         "name": "Talonflame",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -17533,16 +17557,16 @@ export default {
         "form_id": 6,
         "name": "Scatterbug",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17557,16 +17581,16 @@ export default {
         "form_id": 6,
         "name": "Spewpa",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17582,17 +17606,17 @@ export default {
         "name": "Vivillon",
         "form_name": "Meadow Pattern",
         "pokemon_type": [
-            "BUG",
-            "FLYING"
+            "bug",
+            "flying"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17601,17 +17625,17 @@ export default {
         "form_id": 0,
         "name": "Litleo",
         "pokemon_type": [
-            "FIRE",
-            "NORMAL"
+            "fire",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 7,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6,
         "evolution_ids": [
@@ -17626,18 +17650,18 @@ export default {
         "form_id": 0,
         "name": "Pyroar",
         "pokemon_type": [
-            "FIRE",
-            "NORMAL"
+            "fire",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fd",
             "md"
         ],
         "gender_ratio": 7,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6
     },
@@ -17647,16 +17671,16 @@ export default {
         "name": "Flab\u00c3\u00a9b\u00c3\u00a9",
         "form_name": "Red Flower",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17672,16 +17696,16 @@ export default {
         "name": "Floette",
         "form_name": "Red Flower",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17697,16 +17721,16 @@ export default {
         "name": "Florges",
         "form_name": "Red Flower",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17715,16 +17739,16 @@ export default {
         "form_id": 0,
         "name": "Skiddo",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17739,16 +17763,16 @@ export default {
         "form_id": 0,
         "name": "Gogoat",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17757,17 +17781,17 @@ export default {
         "form_id": 0,
         "name": "Pancham",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17782,18 +17806,18 @@ export default {
         "form_id": 0,
         "name": "Pangoro",
         "pokemon_type": [
-            "FIGHTING",
-            "DARK"
+            "fighting",
+            "dark"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17803,16 +17827,16 @@ export default {
         "name": "Furfrou",
         "form_name": "Natural Form",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17821,16 +17845,16 @@ export default {
         "form_id": 0,
         "name": "Espurr",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17850,16 +17874,16 @@ export default {
         "name": "Meowstic",
         "form_name": "Male",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17869,16 +17893,16 @@ export default {
         "name": "Meowstic",
         "form_name": "Female",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17887,17 +17911,17 @@ export default {
         "form_id": 0,
         "name": "Honedge",
         "pokemon_type": [
-            "STEEL",
-            "GHOST"
+            "steel",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17912,17 +17936,17 @@ export default {
         "form_id": 0,
         "name": "Doublade",
         "pokemon_type": [
-            "STEEL",
-            "GHOST"
+            "steel",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17936,18 +17960,19 @@ export default {
         "base_id": 681,
         "form_id": 1,
         "name": "Aegislash",
+        "form_name": "Blade Forme",
         "pokemon_type": [
-            "STEEL",
-            "GHOST"
+            "steel",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17956,16 +17981,16 @@ export default {
         "form_id": 0,
         "name": "Spritzee",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -17980,16 +18005,16 @@ export default {
         "form_id": 0,
         "name": "Aromatisse",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -17998,16 +18023,16 @@ export default {
         "form_id": 0,
         "name": "Swirlix",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18022,16 +18047,16 @@ export default {
         "form_id": 0,
         "name": "Slurpuff",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18040,18 +18065,18 @@ export default {
         "form_id": 0,
         "name": "Inkay",
         "pokemon_type": [
-            "DARK",
-            "PSYCHIC"
+            "dark",
+            "psychic"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18066,18 +18091,18 @@ export default {
         "form_id": 0,
         "name": "Malamar",
         "pokemon_type": [
-            "DARK",
-            "PSYCHIC"
+            "dark",
+            "psychic"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_2"
+            "water_1",
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18086,17 +18111,17 @@ export default {
         "form_id": 0,
         "name": "Binacle",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18111,17 +18136,17 @@ export default {
         "form_id": 0,
         "name": "Barbaracle",
         "pokemon_type": [
-            "ROCK",
-            "WATER"
+            "rock",
+            "water"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18130,18 +18155,18 @@ export default {
         "form_id": 0,
         "name": "Skrelp",
         "pokemon_type": [
-            "POISON",
-            "WATER"
+            "poison",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18156,18 +18181,18 @@ export default {
         "form_id": 0,
         "name": "Dragalge",
         "pokemon_type": [
-            "POISON",
-            "DRAGON"
+            "poison",
+            "dragon"
         ],
         "egg_group": [
-            "WATER_1",
-            "DRAGON"
+            "water_1",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18176,17 +18201,17 @@ export default {
         "form_id": 0,
         "name": "Clauncher",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6,
         "evolution_ids": [
@@ -18201,17 +18226,17 @@ export default {
         "form_id": 0,
         "name": "Clawitzer",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18220,18 +18245,18 @@ export default {
         "form_id": 0,
         "name": "Helioptile",
         "pokemon_type": [
-            "ELECTRIC",
-            "NORMAL"
+            "electric",
+            "normal"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18246,18 +18271,18 @@ export default {
         "form_id": 0,
         "name": "Heliolisk",
         "pokemon_type": [
-            "ELECTRIC",
-            "NORMAL"
+            "electric",
+            "normal"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18266,18 +18291,18 @@ export default {
         "form_id": 0,
         "name": "Tyrunt",
         "pokemon_type": [
-            "ROCK",
-            "DRAGON"
+            "rock",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18292,18 +18317,18 @@ export default {
         "form_id": 0,
         "name": "Tyrantrum",
         "pokemon_type": [
-            "ROCK",
-            "DRAGON"
+            "rock",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18312,17 +18337,17 @@ export default {
         "form_id": 0,
         "name": "Amaura",
         "pokemon_type": [
-            "ROCK",
-            "ICE"
+            "rock",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18337,17 +18362,17 @@ export default {
         "form_id": 0,
         "name": "Aurorus",
         "pokemon_type": [
-            "ROCK",
-            "ICE"
+            "rock",
+            "ice"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18356,16 +18381,16 @@ export default {
         "form_id": 0,
         "name": "Sylveon",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18374,17 +18399,17 @@ export default {
         "form_id": 0,
         "name": "Hawlucha",
         "pokemon_type": [
-            "FIGHTING",
-            "FLYING"
+            "fighting",
+            "flying"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18393,18 +18418,18 @@ export default {
         "form_id": 0,
         "name": "Dedenne",
         "pokemon_type": [
-            "ELECTRIC",
-            "FAIRY"
+            "electric",
+            "fairy"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18413,18 +18438,18 @@ export default {
         "form_id": 0,
         "name": "Carbink",
         "pokemon_type": [
-            "ROCK",
-            "FAIRY"
+            "rock",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18433,16 +18458,16 @@ export default {
         "form_id": 0,
         "name": "Goomy",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6,
         "evolution_ids": [
@@ -18461,16 +18486,16 @@ export default {
         "form_id": 0,
         "name": "Sliggoo",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6,
         "evolution_ids": [
@@ -18485,17 +18510,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Sliggoo",
         "pokemon_type": [
-            "STEEL",
-            "DRAGON"
+            "steel",
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -18510,16 +18535,16 @@ export default {
         "form_id": 0,
         "name": "Goodra",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18528,17 +18553,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Goodra",
         "pokemon_type": [
-            "STEEL",
-            "DRAGON"
+            "steel",
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -18547,17 +18572,17 @@ export default {
         "form_id": 0,
         "name": "Klefki",
         "pokemon_type": [
-            "STEEL",
-            "FAIRY"
+            "steel",
+            "fairy"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Fast",
         "generation": 6
     },
@@ -18566,18 +18591,18 @@ export default {
         "form_id": 0,
         "name": "Phantump",
         "pokemon_type": [
-            "GHOST",
-            "GRASS"
+            "ghost",
+            "grass"
         ],
         "egg_group": [
-            "GRASS",
-            "AMORPHOUS"
+            "grass",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18592,18 +18617,18 @@ export default {
         "form_id": 0,
         "name": "Trevenant",
         "pokemon_type": [
-            "GHOST",
-            "GRASS"
+            "ghost",
+            "grass"
         ],
         "egg_group": [
-            "GRASS",
-            "AMORPHOUS"
+            "grass",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18611,18 +18636,19 @@ export default {
         "base_id": 710,
         "form_id": 0,
         "name": "Pumpkaboo",
+        "form_name": "Average Size",
         "pokemon_type": [
-            "GHOST",
-            "GRASS"
+            "ghost",
+            "grass"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18636,18 +18662,19 @@ export default {
         "base_id": 711,
         "form_id": 0,
         "name": "Gourgeist",
+        "form_name": "Average Size",
         "pokemon_type": [
-            "GHOST",
-            "GRASS"
+            "ghost",
+            "grass"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18656,16 +18683,16 @@ export default {
         "form_id": 0,
         "name": "Bergmite",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18684,16 +18711,16 @@ export default {
         "form_id": 0,
         "name": "Avalugg",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18702,17 +18729,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Avalugg",
         "pokemon_type": [
-            "ICE",
-            "ROCK"
+            "ice",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER"
+            "monster"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -18721,17 +18748,17 @@ export default {
         "form_id": 0,
         "name": "Noibat",
         "pokemon_type": [
-            "FLYING",
-            "DRAGON"
+            "flying",
+            "dragon"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 6,
         "evolution_ids": [
@@ -18746,17 +18773,17 @@ export default {
         "form_id": 0,
         "name": "Noivern",
         "pokemon_type": [
-            "FLYING",
-            "DRAGON"
+            "flying",
+            "dragon"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 6
     },
@@ -18765,17 +18792,17 @@ export default {
         "form_id": 1,
         "name": "Xerneas",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18784,18 +18811,18 @@ export default {
         "form_id": 0,
         "name": "Yveltal",
         "pokemon_type": [
-            "DARK",
-            "FLYING"
+            "dark",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18803,19 +18830,20 @@ export default {
         "base_id": 718,
         "form_id": 0,
         "name": "Zygarde",
+        "form_name": "50% Forme",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18825,18 +18853,18 @@ export default {
         "name": "Zygarde",
         "form_name": "10% Forme",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -18846,18 +18874,18 @@ export default {
         "name": "Zygarde",
         "form_name": "Complete Forme",
         "pokemon_type": [
-            "DRAGON",
-            "GROUND"
+            "dragon",
+            "ground"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -18866,18 +18894,18 @@ export default {
         "form_id": 0,
         "name": "Diancie",
         "pokemon_type": [
-            "ROCK",
-            "FAIRY"
+            "rock",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18886,11 +18914,11 @@ export default {
         "form_id": 1,
         "name": "Mega Diancie",
         "pokemon_type": [
-            "ROCK",
-            "FAIRY"
+            "rock",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
@@ -18898,7 +18926,7 @@ export default {
         "gender_ratio": -1,
         "is_mythical": true,
         "is_mega": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18907,18 +18935,18 @@ export default {
         "form_id": 0,
         "name": "Hoopa Confined",
         "pokemon_type": [
-            "PSYCHIC",
-            "GHOST"
+            "psychic",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18927,18 +18955,18 @@ export default {
         "form_id": 1,
         "name": "Hoopa Unbound",
         "pokemon_type": [
-            "PSYCHIC",
-            "DARK"
+            "psychic",
+            "dark"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18947,18 +18975,18 @@ export default {
         "form_id": 0,
         "name": "Volcanion",
         "pokemon_type": [
-            "FIRE",
-            "WATER"
+            "fire",
+            "water"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 6
     },
@@ -18967,17 +18995,17 @@ export default {
         "form_id": 0,
         "name": "Rowlet",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -18992,17 +19020,17 @@ export default {
         "form_id": 0,
         "name": "Dartrix",
         "pokemon_type": [
-            "GRASS",
-            "FLYING"
+            "grass",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19021,17 +19049,17 @@ export default {
         "form_id": 0,
         "name": "Decidueye",
         "pokemon_type": [
-            "GRASS",
-            "GHOST"
+            "grass",
+            "ghost"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -19040,17 +19068,17 @@ export default {
         "form_id": 1,
         "name": "Hisuian Decidueye",
         "pokemon_type": [
-            "GRASS",
-            "FIGHTING"
+            "grass",
+            "fighting"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -19059,16 +19087,16 @@ export default {
         "form_id": 0,
         "name": "Litten",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19083,16 +19111,16 @@ export default {
         "form_id": 0,
         "name": "Torracat",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19107,17 +19135,17 @@ export default {
         "form_id": 0,
         "name": "Incineroar",
         "pokemon_type": [
-            "FIRE",
-            "DARK"
+            "fire",
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -19126,17 +19154,17 @@ export default {
         "form_id": 0,
         "name": "Popplio",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19151,17 +19179,17 @@ export default {
         "form_id": 0,
         "name": "Brionne",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19176,18 +19204,18 @@ export default {
         "form_id": 0,
         "name": "Primarina",
         "pokemon_type": [
-            "WATER",
-            "FAIRY"
+            "water",
+            "fairy"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -19196,17 +19224,17 @@ export default {
         "form_id": 0,
         "name": "Pikipek",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19221,17 +19249,17 @@ export default {
         "form_id": 0,
         "name": "Trumbeak",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19246,17 +19274,17 @@ export default {
         "form_id": 0,
         "name": "Toucannon",
         "pokemon_type": [
-            "NORMAL",
-            "FLYING"
+            "normal",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19265,16 +19293,16 @@ export default {
         "form_id": 0,
         "name": "Yungoos",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19289,16 +19317,16 @@ export default {
         "form_id": 0,
         "name": "Gumshoos",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19307,16 +19335,16 @@ export default {
         "form_id": 0,
         "name": "Grubbin",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19331,17 +19359,17 @@ export default {
         "form_id": 0,
         "name": "Charjabug",
         "pokemon_type": [
-            "BUG",
-            "ELECTRIC"
+            "bug",
+            "electric"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19356,17 +19384,17 @@ export default {
         "form_id": 0,
         "name": "Vikavolt",
         "pokemon_type": [
-            "BUG",
-            "ELECTRIC"
+            "bug",
+            "electric"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19375,16 +19403,16 @@ export default {
         "form_id": 0,
         "name": "Crabrawler",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19399,17 +19427,17 @@ export default {
         "form_id": 0,
         "name": "Crabominable",
         "pokemon_type": [
-            "FIGHTING",
-            "ICE"
+            "fighting",
+            "ice"
         ],
         "egg_group": [
-            "WATER_3"
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19419,17 +19447,17 @@ export default {
         "name": "Oricorio",
         "form_name": "Baile Style",
         "pokemon_type": [
-            "FIRE",
-            "FLYING"
+            "fire",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19439,17 +19467,17 @@ export default {
         "name": "Oricorio",
         "form_name": "Pom-Pom Style",
         "pokemon_type": [
-            "ELECTRIC",
-            "FLYING"
+            "electric",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19459,17 +19487,17 @@ export default {
         "name": "Oricorio",
         "form_name": "Pau'u Style",
         "pokemon_type": [
-            "PSYCHIC",
-            "FLYING"
+            "psychic",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19479,17 +19507,17 @@ export default {
         "name": "Oricorio",
         "form_name": "Sensu Style",
         "pokemon_type": [
-            "GHOST",
-            "FLYING"
+            "ghost",
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19498,18 +19526,18 @@ export default {
         "form_id": 0,
         "name": "Cutiefly",
         "pokemon_type": [
-            "BUG",
-            "FAIRY"
+            "bug",
+            "fairy"
         ],
         "egg_group": [
-            "BUG",
-            "FAIRY"
+            "bug",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19524,18 +19552,18 @@ export default {
         "form_id": 0,
         "name": "Ribombee",
         "pokemon_type": [
-            "BUG",
-            "FAIRY"
+            "bug",
+            "fairy"
         ],
         "egg_group": [
-            "BUG",
-            "FAIRY"
+            "bug",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19544,16 +19572,16 @@ export default {
         "form_id": 0,
         "name": "Rockruff",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19573,16 +19601,16 @@ export default {
         "name": "Lycanroc",
         "form_name": "Midday Form",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19592,16 +19620,16 @@ export default {
         "name": "Lycanroc",
         "form_name": "Midnight Form",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19611,16 +19639,16 @@ export default {
         "name": "Lycanroc",
         "form_name": "Dusk Form",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19628,17 +19656,18 @@ export default {
         "base_id": 746,
         "form_id": 1,
         "name": "Wishiwashi",
+        "form_name": "School Form",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Fast",
         "generation": 7
     },
@@ -19647,17 +19676,17 @@ export default {
         "form_id": 0,
         "name": "Mareanie",
         "pokemon_type": [
-            "POISON",
-            "WATER"
+            "poison",
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19672,17 +19701,17 @@ export default {
         "form_id": 0,
         "name": "Toxapex",
         "pokemon_type": [
-            "POISON",
-            "WATER"
+            "poison",
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19691,16 +19720,16 @@ export default {
         "form_id": 0,
         "name": "Mudbray",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19715,16 +19744,16 @@ export default {
         "form_id": 0,
         "name": "Mudsdale",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19733,18 +19762,18 @@ export default {
         "form_id": 0,
         "name": "Dewpider",
         "pokemon_type": [
-            "WATER",
-            "BUG"
+            "water",
+            "bug"
         ],
         "egg_group": [
-            "WATER_1",
-            "BUG"
+            "water_1",
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19759,18 +19788,18 @@ export default {
         "form_id": 0,
         "name": "Araquanid",
         "pokemon_type": [
-            "WATER",
-            "BUG"
+            "water",
+            "bug"
         ],
         "egg_group": [
-            "WATER_1",
-            "BUG"
+            "water_1",
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19779,16 +19808,16 @@ export default {
         "form_id": 0,
         "name": "Fomantis",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19803,16 +19832,16 @@ export default {
         "form_id": 0,
         "name": "Lurantis",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19821,17 +19850,17 @@ export default {
         "form_id": 0,
         "name": "Morelull",
         "pokemon_type": [
-            "GRASS",
-            "FAIRY"
+            "grass",
+            "fairy"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19846,17 +19875,17 @@ export default {
         "form_id": 0,
         "name": "Shiinotic",
         "pokemon_type": [
-            "GRASS",
-            "FAIRY"
+            "grass",
+            "fairy"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19865,18 +19894,18 @@ export default {
         "form_id": 0,
         "name": "Salandit",
         "pokemon_type": [
-            "POISON",
-            "FIRE"
+            "poison",
+            "fire"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19891,18 +19920,18 @@ export default {
         "form_id": 0,
         "name": "Salazzle",
         "pokemon_type": [
-            "POISON",
-            "FIRE"
+            "poison",
+            "fire"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19911,17 +19940,17 @@ export default {
         "form_id": 0,
         "name": "Stufful",
         "pokemon_type": [
-            "NORMAL",
-            "FIGHTING"
+            "normal",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -19936,17 +19965,17 @@ export default {
         "form_id": 0,
         "name": "Bewear",
         "pokemon_type": [
-            "NORMAL",
-            "FIGHTING"
+            "normal",
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -19955,16 +19984,16 @@ export default {
         "form_id": 0,
         "name": "Bounsweet",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -19979,16 +20008,16 @@ export default {
         "form_id": 0,
         "name": "Steenee",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20003,16 +20032,16 @@ export default {
         "form_id": 0,
         "name": "Tsareena",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -20021,16 +20050,16 @@ export default {
         "form_id": 0,
         "name": "Comfey",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Fast",
         "generation": 7
     },
@@ -20039,17 +20068,17 @@ export default {
         "form_id": 0,
         "name": "Oranguru",
         "pokemon_type": [
-            "NORMAL",
-            "PSYCHIC"
+            "normal",
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20058,16 +20087,16 @@ export default {
         "form_id": 0,
         "name": "Passimian",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20076,18 +20105,18 @@ export default {
         "form_id": 0,
         "name": "Wimpod",
         "pokemon_type": [
-            "BUG",
-            "WATER"
+            "bug",
+            "water"
         ],
         "egg_group": [
-            "BUG",
-            "WATER_3"
+            "bug",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -20102,18 +20131,18 @@ export default {
         "form_id": 0,
         "name": "Golisopod",
         "pokemon_type": [
-            "BUG",
-            "WATER"
+            "bug",
+            "water"
         ],
         "egg_group": [
-            "BUG",
-            "WATER_3"
+            "bug",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20122,17 +20151,17 @@ export default {
         "form_id": 0,
         "name": "Sandygast",
         "pokemon_type": [
-            "GHOST",
-            "GROUND"
+            "ghost",
+            "ground"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7,
         "evolution_ids": [
@@ -20147,17 +20176,17 @@ export default {
         "form_id": 0,
         "name": "Palossand",
         "pokemon_type": [
-            "GHOST",
-            "GROUND"
+            "ghost",
+            "ground"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20166,16 +20195,16 @@ export default {
         "form_id": 0,
         "name": "Pyukumuku",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1"
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Fast",
         "generation": 7
     },
@@ -20184,17 +20213,17 @@ export default {
         "form_id": 0,
         "name": "Type: Null",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20209,17 +20238,17 @@ export default {
         "form_id": 0,
         "name": "Silvally",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20229,17 +20258,17 @@ export default {
         "name": "Minior",
         "form_name": "Red Core",
         "pokemon_type": [
-            "ROCK",
-            "FLYING"
+            "rock",
+            "flying"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -20248,16 +20277,16 @@ export default {
         "form_id": 0,
         "name": "Komala",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20266,18 +20295,18 @@ export default {
         "form_id": 0,
         "name": "Turtonator",
         "pokemon_type": [
-            "FIRE",
-            "DRAGON"
+            "fire",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20286,18 +20315,18 @@ export default {
         "form_id": 0,
         "name": "Togedemaru",
         "pokemon_type": [
-            "ELECTRIC",
-            "STEEL"
+            "electric",
+            "steel"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20306,17 +20335,17 @@ export default {
         "form_id": 0,
         "name": "Mimikyu",
         "pokemon_type": [
-            "GHOST",
-            "FAIRY"
+            "ghost",
+            "fairy"
         ],
         "egg_group": [
-            "AMORPHOUS"
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20325,17 +20354,17 @@ export default {
         "form_id": 0,
         "name": "Bruxish",
         "pokemon_type": [
-            "WATER",
-            "PSYCHIC"
+            "water",
+            "psychic"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20344,18 +20373,18 @@ export default {
         "form_id": 0,
         "name": "Drampa",
         "pokemon_type": [
-            "NORMAL",
-            "DRAGON"
+            "normal",
+            "dragon"
         ],
         "egg_group": [
-            "MONSTER",
-            "DRAGON"
+            "monster",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20364,17 +20393,17 @@ export default {
         "form_id": 0,
         "name": "Dhelmise",
         "pokemon_type": [
-            "GHOST",
-            "GRASS"
+            "ghost",
+            "grass"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 7
     },
@@ -20383,16 +20412,16 @@ export default {
         "form_id": 0,
         "name": "Jangmo-o",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20407,17 +20436,17 @@ export default {
         "form_id": 0,
         "name": "Hakamo-o",
         "pokemon_type": [
-            "DRAGON",
-            "FIGHTING"
+            "dragon",
+            "fighting"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20432,17 +20461,17 @@ export default {
         "form_id": 0,
         "name": "Kommo-o",
         "pokemon_type": [
-            "DRAGON",
-            "FIGHTING"
+            "dragon",
+            "fighting"
         ],
         "egg_group": [
-            "DRAGON"
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20451,18 +20480,18 @@ export default {
         "form_id": 0,
         "name": "Tapu Koko",
         "pokemon_type": [
-            "ELECTRIC",
-            "FAIRY"
+            "electric",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20471,18 +20500,18 @@ export default {
         "form_id": 0,
         "name": "Tapu Lele",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20491,18 +20520,18 @@ export default {
         "form_id": 0,
         "name": "Tapu Bulu",
         "pokemon_type": [
-            "GRASS",
-            "FAIRY"
+            "grass",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20511,18 +20540,18 @@ export default {
         "form_id": 0,
         "name": "Tapu Fini",
         "pokemon_type": [
-            "WATER",
-            "FAIRY"
+            "water",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20531,17 +20560,17 @@ export default {
         "form_id": 0,
         "name": "Cosmog",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20556,17 +20585,17 @@ export default {
         "form_id": 0,
         "name": "Cosmoem",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20585,18 +20614,18 @@ export default {
         "form_id": 0,
         "name": "Solgaleo",
         "pokemon_type": [
-            "PSYCHIC",
-            "STEEL"
+            "psychic",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20605,18 +20634,18 @@ export default {
         "form_id": 0,
         "name": "Lunala",
         "pokemon_type": [
-            "PSYCHIC",
-            "GHOST"
+            "psychic",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20625,18 +20654,18 @@ export default {
         "form_id": 0,
         "name": "Nihilego",
         "pokemon_type": [
-            "ROCK",
-            "POISON"
+            "rock",
+            "poison"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20645,18 +20674,18 @@ export default {
         "form_id": 0,
         "name": "Buzzwole",
         "pokemon_type": [
-            "BUG",
-            "FIGHTING"
+            "bug",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20665,18 +20694,18 @@ export default {
         "form_id": 0,
         "name": "Pheromosa",
         "pokemon_type": [
-            "BUG",
-            "FIGHTING"
+            "bug",
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20685,17 +20714,17 @@ export default {
         "form_id": 0,
         "name": "Xurkitree",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20704,18 +20733,18 @@ export default {
         "form_id": 0,
         "name": "Celesteela",
         "pokemon_type": [
-            "STEEL",
-            "FLYING"
+            "steel",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20724,18 +20753,18 @@ export default {
         "form_id": 0,
         "name": "Kartana",
         "pokemon_type": [
-            "GRASS",
-            "STEEL"
+            "grass",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20744,18 +20773,18 @@ export default {
         "form_id": 0,
         "name": "Guzzlord",
         "pokemon_type": [
-            "DARK",
-            "DRAGON"
+            "dark",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20764,17 +20793,17 @@ export default {
         "form_id": 0,
         "name": "Necrozma",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20783,18 +20812,18 @@ export default {
         "form_id": 1,
         "name": "Dusk Mane Necrozma",
         "pokemon_type": [
-            "PSYCHIC",
-            "STEEL"
+            "psychic",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20803,18 +20832,18 @@ export default {
         "form_id": 2,
         "name": "Dawn Wings Necrozma",
         "pokemon_type": [
-            "PSYCHIC",
-            "GHOST"
+            "psychic",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20823,18 +20852,18 @@ export default {
         "form_id": 3,
         "name": "Ultra Necrozma",
         "pokemon_type": [
-            "PSYCHIC",
-            "DRAGON"
+            "psychic",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20843,18 +20872,18 @@ export default {
         "form_id": 0,
         "name": "Magearna",
         "pokemon_type": [
-            "STEEL",
-            "FAIRY"
+            "steel",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20863,18 +20892,18 @@ export default {
         "form_id": 1,
         "name": "Original Color Magearna",
         "pokemon_type": [
-            "STEEL",
-            "FAIRY"
+            "steel",
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20883,18 +20912,18 @@ export default {
         "form_id": 0,
         "name": "Marshadow",
         "pokemon_type": [
-            "FIGHTING",
-            "GHOST"
+            "fighting",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20903,17 +20932,17 @@ export default {
         "form_id": 0,
         "name": "Poipole",
         "pokemon_type": [
-            "POISON"
+            "poison"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -20928,18 +20957,18 @@ export default {
         "form_id": 0,
         "name": "Naganadel",
         "pokemon_type": [
-            "POISON",
-            "DRAGON"
+            "poison",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20948,18 +20977,18 @@ export default {
         "form_id": 0,
         "name": "Stakataka",
         "pokemon_type": [
-            "ROCK",
-            "STEEL"
+            "rock",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20968,18 +20997,18 @@ export default {
         "form_id": 0,
         "name": "Blacephalon",
         "pokemon_type": [
-            "FIRE",
-            "GHOST"
+            "fire",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -20988,17 +21017,17 @@ export default {
         "form_id": 0,
         "name": "Zeraora",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -21007,17 +21036,17 @@ export default {
         "form_id": 0,
         "name": "Meltan",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7,
         "evolution_ids": [
@@ -21032,10 +21061,10 @@ export default {
         "form_id": 0,
         "name": "Melmetal",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
@@ -21043,7 +21072,7 @@ export default {
         "gender_ratio": -1,
         "has_gigantamax": true,
         "is_mythical": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 7
     },
@@ -21052,17 +21081,17 @@ export default {
         "form_id": 0,
         "name": "Grookey",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21077,17 +21106,17 @@ export default {
         "form_id": 0,
         "name": "Thwackey",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21102,18 +21131,18 @@ export default {
         "form_id": 0,
         "name": "Rillaboom",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "FIELD",
-            "GRASS"
+            "field",
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21122,17 +21151,17 @@ export default {
         "form_id": 0,
         "name": "Scorbunny",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21147,17 +21176,17 @@ export default {
         "form_id": 0,
         "name": "Raboot",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21172,18 +21201,18 @@ export default {
         "form_id": 0,
         "name": "Cinderace",
         "pokemon_type": [
-            "FIRE"
+            "fire"
         ],
         "egg_group": [
-            "FIELD",
-            "HUMAN_LIKE"
+            "field",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21192,17 +21221,17 @@ export default {
         "form_id": 0,
         "name": "Sobble",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21217,17 +21246,17 @@ export default {
         "form_id": 0,
         "name": "Drizzile",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21242,18 +21271,18 @@ export default {
         "form_id": 0,
         "name": "Inteleon",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "has_gigantamax": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21262,16 +21291,16 @@ export default {
         "form_id": 0,
         "name": "Skwovet",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21286,16 +21315,16 @@ export default {
         "form_id": 0,
         "name": "Greedent",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21304,16 +21333,16 @@ export default {
         "form_id": 0,
         "name": "Rookidee",
         "pokemon_type": [
-            "FLYING"
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21328,16 +21357,16 @@ export default {
         "form_id": 0,
         "name": "Corvisquire",
         "pokemon_type": [
-            "FLYING"
+            "flying"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21352,18 +21381,18 @@ export default {
         "form_id": 0,
         "name": "Corviknight",
         "pokemon_type": [
-            "FLYING",
-            "STEEL"
+            "flying",
+            "steel"
         ],
         "egg_group": [
-            "FLYING"
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21372,16 +21401,16 @@ export default {
         "form_id": 0,
         "name": "Blipbug",
         "pokemon_type": [
-            "BUG"
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21396,17 +21425,17 @@ export default {
         "form_id": 0,
         "name": "Dottler",
         "pokemon_type": [
-            "BUG",
-            "PSYCHIC"
+            "bug",
+            "psychic"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21421,18 +21450,18 @@ export default {
         "form_id": 0,
         "name": "Orbeetle",
         "pokemon_type": [
-            "BUG",
-            "PSYCHIC"
+            "bug",
+            "psychic"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21441,16 +21470,16 @@ export default {
         "form_id": 0,
         "name": "Nickit",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21465,16 +21494,16 @@ export default {
         "form_id": 0,
         "name": "Thievul",
         "pokemon_type": [
-            "DARK"
+            "dark"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Fast",
         "generation": 8
     },
@@ -21483,16 +21512,16 @@ export default {
         "form_id": 0,
         "name": "Gossifleur",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21507,16 +21536,16 @@ export default {
         "form_id": 0,
         "name": "Eldegoss",
         "pokemon_type": [
-            "GRASS"
+            "grass"
         ],
         "egg_group": [
-            "GRASS"
+            "grass"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21525,16 +21554,16 @@ export default {
         "form_id": 0,
         "name": "Wooloo",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21549,16 +21578,16 @@ export default {
         "form_id": 0,
         "name": "Dubwool",
         "pokemon_type": [
-            "NORMAL"
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21567,17 +21596,17 @@ export default {
         "form_id": 0,
         "name": "Chewtle",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21592,19 +21621,19 @@ export default {
         "form_id": 0,
         "name": "Drednaw",
         "pokemon_type": [
-            "WATER",
-            "ROCK"
+            "water",
+            "rock"
         ],
         "egg_group": [
-            "MONSTER",
-            "WATER_1"
+            "monster",
+            "water_1"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21613,16 +21642,16 @@ export default {
         "form_id": 0,
         "name": "Yamper",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21637,16 +21666,16 @@ export default {
         "form_id": 0,
         "name": "Boltund",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Fast",
         "generation": 8
     },
@@ -21655,16 +21684,16 @@ export default {
         "form_id": 0,
         "name": "Rolycoly",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21679,17 +21708,17 @@ export default {
         "form_id": 0,
         "name": "Carkol",
         "pokemon_type": [
-            "ROCK",
-            "FIRE"
+            "rock",
+            "fire"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21704,18 +21733,18 @@ export default {
         "form_id": 0,
         "name": "Coalossal",
         "pokemon_type": [
-            "ROCK",
-            "FIRE"
+            "rock",
+            "fire"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21724,18 +21753,18 @@ export default {
         "form_id": 0,
         "name": "Applin",
         "pokemon_type": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "egg_group": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Erratic",
         "generation": 8,
         "evolution_ids": [
@@ -21754,19 +21783,19 @@ export default {
         "form_id": 0,
         "name": "Flapple",
         "pokemon_type": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "egg_group": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Erratic",
         "generation": 8
     },
@@ -21775,19 +21804,19 @@ export default {
         "form_id": 0,
         "name": "Appletun",
         "pokemon_type": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "egg_group": [
-            "GRASS",
-            "DRAGON"
+            "grass",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Erratic",
         "generation": 8
     },
@@ -21796,17 +21825,17 @@ export default {
         "form_id": 0,
         "name": "Silicobra",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -21821,18 +21850,18 @@ export default {
         "form_id": 0,
         "name": "Sandaconda",
         "pokemon_type": [
-            "GROUND"
+            "ground"
         ],
         "egg_group": [
-            "FIELD",
-            "DRAGON"
+            "field",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21841,18 +21870,18 @@ export default {
         "form_id": 0,
         "name": "Cramorant",
         "pokemon_type": [
-            "FLYING",
-            "WATER"
+            "flying",
+            "water"
         ],
         "egg_group": [
-            "WATER_1",
-            "FLYING"
+            "water_1",
+            "flying"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -21861,16 +21890,16 @@ export default {
         "form_id": 0,
         "name": "Arrokuda",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21885,16 +21914,16 @@ export default {
         "form_id": 0,
         "name": "Barraskewda",
         "pokemon_type": [
-            "WATER"
+            "water"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -21903,18 +21932,18 @@ export default {
         "form_id": 0,
         "name": "Toxel",
         "pokemon_type": [
-            "ELECTRIC",
-            "POISON"
+            "electric",
+            "poison"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "is_baby": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -21934,18 +21963,18 @@ export default {
         "name": "Toxtricity",
         "form_name": "Amped Form",
         "pokemon_type": [
-            "ELECTRIC",
-            "POISON"
+            "electric",
+            "poison"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21955,18 +21984,18 @@ export default {
         "name": "Toxtricity",
         "form_name": "Low Key Form",
         "pokemon_type": [
-            "ELECTRIC",
-            "POISON"
+            "electric",
+            "poison"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -21975,17 +22004,17 @@ export default {
         "form_id": 0,
         "name": "Sizzlipede",
         "pokemon_type": [
-            "FIRE",
-            "BUG"
+            "fire",
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22000,18 +22029,18 @@ export default {
         "form_id": 0,
         "name": "Centiskorch",
         "pokemon_type": [
-            "FIRE",
-            "BUG"
+            "fire",
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22020,17 +22049,17 @@ export default {
         "form_id": 0,
         "name": "Clobbopus",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "WATER_1",
-            "HUMAN_LIKE"
+            "water_1",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22045,17 +22074,17 @@ export default {
         "form_id": 0,
         "name": "Grapploct",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "WATER_1",
-            "HUMAN_LIKE"
+            "water_1",
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -22064,17 +22093,17 @@ export default {
         "form_id": 0,
         "name": "Sinistea",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22089,17 +22118,17 @@ export default {
         "form_id": 0,
         "name": "Polteageist",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22108,16 +22137,16 @@ export default {
         "form_id": 0,
         "name": "Hatenna",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22132,16 +22161,16 @@ export default {
         "form_id": 0,
         "name": "Hattrem",
         "pokemon_type": [
-            "PSYCHIC"
+            "psychic"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22156,18 +22185,18 @@ export default {
         "form_id": 0,
         "name": "Hatterene",
         "pokemon_type": [
-            "PSYCHIC",
-            "FAIRY"
+            "psychic",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "has_gigantamax": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22176,18 +22205,18 @@ export default {
         "form_id": 0,
         "name": "Impidimp",
         "pokemon_type": [
-            "DARK",
-            "FAIRY"
+            "dark",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "HUMAN_LIKE"
+            "fairy",
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22202,18 +22231,18 @@ export default {
         "form_id": 0,
         "name": "Morgrem",
         "pokemon_type": [
-            "DARK",
-            "FAIRY"
+            "dark",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "HUMAN_LIKE"
+            "fairy",
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22228,19 +22257,19 @@ export default {
         "form_id": 0,
         "name": "Grimmsnarl",
         "pokemon_type": [
-            "DARK",
-            "FAIRY"
+            "dark",
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "HUMAN_LIKE"
+            "fairy",
+            "human_like"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
         "has_gigantamax": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22249,17 +22278,17 @@ export default {
         "form_id": 0,
         "name": "Obstagoon",
         "pokemon_type": [
-            "DARK",
-            "NORMAL"
+            "dark",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22268,16 +22297,16 @@ export default {
         "form_id": 0,
         "name": "Perrserker",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22286,17 +22315,17 @@ export default {
         "form_id": 0,
         "name": "Cursola",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "WATER_1",
-            "WATER_3"
+            "water_1",
+            "water_3"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 6,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Fast",
         "generation": 8
     },
@@ -22305,17 +22334,17 @@ export default {
         "form_id": 0,
         "name": "Sirfetch'd",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FLYING",
-            "FIELD"
+            "flying",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22324,17 +22353,17 @@ export default {
         "form_id": 0,
         "name": "Mr. Rime",
         "pokemon_type": [
-            "ICE",
-            "PSYCHIC"
+            "ice",
+            "psychic"
         ],
         "egg_group": [
-            "HUMAN_LIKE"
+            "human_like"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22343,18 +22372,18 @@ export default {
         "form_id": 0,
         "name": "Runerigus",
         "pokemon_type": [
-            "GROUND",
-            "GHOST"
+            "ground",
+            "ghost"
         ],
         "egg_group": [
-            "MINERAL",
-            "AMORPHOUS"
+            "mineral",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22363,17 +22392,17 @@ export default {
         "form_id": 0,
         "name": "Milcery",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "AMORPHOUS"
+            "fairy",
+            "amorphous"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22388,18 +22417,18 @@ export default {
         "form_id": 0,
         "name": "Alcremie",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "FAIRY",
-            "AMORPHOUS"
+            "fairy",
+            "amorphous"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
         "has_gigantamax": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22408,17 +22437,17 @@ export default {
         "form_id": 0,
         "name": "Falinks",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "FAIRY",
-            "MINERAL"
+            "fairy",
+            "mineral"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22427,17 +22456,17 @@ export default {
         "form_id": 0,
         "name": "Pincurchin",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "WATER_1",
-            "AMORPHOUS"
+            "water_1",
+            "amorphous"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22446,17 +22475,17 @@ export default {
         "form_id": 0,
         "name": "Snom",
         "pokemon_type": [
-            "ICE",
-            "BUG"
+            "ice",
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22471,17 +22500,17 @@ export default {
         "form_id": 0,
         "name": "Frosmoth",
         "pokemon_type": [
-            "ICE",
-            "BUG"
+            "ice",
+            "bug"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22490,16 +22519,16 @@ export default {
         "form_id": 0,
         "name": "Stonjourner",
         "pokemon_type": [
-            "ROCK"
+            "rock"
         ],
         "egg_group": [
-            "MINERAL"
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22508,17 +22537,17 @@ export default {
         "form_id": 0,
         "name": "Eiscue",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "WATER_1",
-            "FIELD"
+            "water_1",
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22528,17 +22557,17 @@ export default {
         "name": "Indeedee",
         "form_name": "Male",
         "pokemon_type": [
-            "PSYCHIC",
-            "NORMAL"
+            "psychic",
+            "normal"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "mo"
         ],
         "gender_ratio": 0,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 8
     },
@@ -22548,17 +22577,17 @@ export default {
         "name": "Indeedee",
         "form_name": "Female",
         "pokemon_type": [
-            "PSYCHIC",
-            "NORMAL"
+            "psychic",
+            "normal"
         ],
         "egg_group": [
-            "FAIRY"
+            "fairy"
         ],
         "gender": [
             "fo"
         ],
         "gender_ratio": 8,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Fast",
         "generation": 8
     },
@@ -22567,18 +22596,18 @@ export default {
         "form_id": 0,
         "name": "Morpeko",
         "pokemon_type": [
-            "ELECTRIC",
-            "DARK"
+            "electric",
+            "dark"
         ],
         "egg_group": [
-            "FIELD",
-            "FAIRY"
+            "field",
+            "fairy"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22587,17 +22616,17 @@ export default {
         "form_id": 0,
         "name": "Cufant",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "FIELD",
-            "MINERAL"
+            "field",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 8,
         "evolution_ids": [
@@ -22612,18 +22641,18 @@ export default {
         "form_id": 0,
         "name": "Copperajah",
         "pokemon_type": [
-            "STEEL"
+            "steel"
         ],
         "egg_group": [
-            "FIELD",
-            "MINERAL"
+            "field",
+            "mineral"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22632,17 +22661,17 @@ export default {
         "form_id": 0,
         "name": "Dracozolt",
         "pokemon_type": [
-            "ELECTRIC",
-            "DRAGON"
+            "electric",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22651,17 +22680,17 @@ export default {
         "form_id": 0,
         "name": "Arctozolt",
         "pokemon_type": [
-            "ELECTRIC",
-            "ICE"
+            "electric",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22670,17 +22699,17 @@ export default {
         "form_id": 0,
         "name": "Dracovish",
         "pokemon_type": [
-            "WATER",
-            "DRAGON"
+            "water",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22689,17 +22718,17 @@ export default {
         "form_id": 0,
         "name": "Arctovish",
         "pokemon_type": [
-            "WATER",
-            "ICE"
+            "water",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22708,19 +22737,19 @@ export default {
         "form_id": 0,
         "name": "Duraludon",
         "pokemon_type": [
-            "STEEL",
-            "DRAGON"
+            "steel",
+            "dragon"
         ],
         "egg_group": [
-            "MINERAL",
-            "DRAGON"
+            "mineral",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
         "has_gigantamax": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22729,18 +22758,18 @@ export default {
         "form_id": 0,
         "name": "Dreepy",
         "pokemon_type": [
-            "DRAGON",
-            "GHOST"
+            "dragon",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS",
-            "DRAGON"
+            "amorphous",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22755,18 +22784,18 @@ export default {
         "form_id": 0,
         "name": "Drakloak",
         "pokemon_type": [
-            "DRAGON",
-            "GHOST"
+            "dragon",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS",
-            "DRAGON"
+            "amorphous",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22781,18 +22810,18 @@ export default {
         "form_id": 0,
         "name": "Dragapult",
         "pokemon_type": [
-            "DRAGON",
-            "GHOST"
+            "dragon",
+            "ghost"
         ],
         "egg_group": [
-            "AMORPHOUS",
-            "DRAGON"
+            "amorphous",
+            "dragon"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22802,17 +22831,17 @@ export default {
         "name": "Zacian",
         "form_name": "Hero of Many Battles",
         "pokemon_type": [
-            "FAIRY"
+            "fairy"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22822,18 +22851,18 @@ export default {
         "name": "Zacian",
         "form_name": "Crowned Sword",
         "pokemon_type": [
-            "FAIRY",
-            "STEEL"
+            "fairy",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22843,17 +22872,17 @@ export default {
         "name": "Zamazenta",
         "form_name": "Hero of Many Battles",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22863,18 +22892,18 @@ export default {
         "name": "Zamazenta",
         "form_name": "Crowned Shield",
         "pokemon_type": [
-            "FIGHTING",
-            "STEEL"
+            "fighting",
+            "steel"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "RED",
+        "color": "red",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22883,18 +22912,18 @@ export default {
         "form_id": 0,
         "name": "Eternatus",
         "pokemon_type": [
-            "POISON",
-            "DRAGON"
+            "poison",
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "PURPLE",
+        "color": "purple",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22903,17 +22932,17 @@ export default {
         "form_id": 0,
         "name": "Kubfu",
         "pokemon_type": [
-            "FIGHTING"
+            "fighting"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 1,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 8,
         "evolution_ids": [
@@ -22933,11 +22962,11 @@ export default {
         "name": "Urshifu",
         "form_name": "Single Strike Style",
         "pokemon_type": [
-            "FIGHTING",
-            "DARK"
+            "fighting",
+            "dark"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
@@ -22945,7 +22974,7 @@ export default {
         "gender_ratio": 1,
         "has_gigantamax": true,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22955,11 +22984,11 @@ export default {
         "name": "Urshifu",
         "form_name": "Rapid Strike Style",
         "pokemon_type": [
-            "FIGHTING",
-            "WATER"
+            "fighting",
+            "water"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "mf"
@@ -22967,7 +22996,7 @@ export default {
         "gender_ratio": 1,
         "has_gigantamax": true,
         "is_sublegendary": true,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22976,18 +23005,18 @@ export default {
         "form_id": 0,
         "name": "Zarude",
         "pokemon_type": [
-            "DARK",
-            "GRASS"
+            "dark",
+            "grass"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_mythical": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -22996,17 +23025,17 @@ export default {
         "form_id": 0,
         "name": "Regieleki",
         "pokemon_type": [
-            "ELECTRIC"
+            "electric"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "YELLOW",
+        "color": "yellow",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23015,17 +23044,17 @@ export default {
         "form_id": 0,
         "name": "Regidrago",
         "pokemon_type": [
-            "DRAGON"
+            "dragon"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23034,17 +23063,17 @@ export default {
         "form_id": 0,
         "name": "Glastrier",
         "pokemon_type": [
-            "ICE"
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23053,17 +23082,17 @@ export default {
         "form_id": 0,
         "name": "Spectrier",
         "pokemon_type": [
-            "GHOST"
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_sublegendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23072,18 +23101,18 @@ export default {
         "form_id": 0,
         "name": "Calyrex",
         "pokemon_type": [
-            "PSYCHIC",
-            "GRASS"
+            "psychic",
+            "grass"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23092,18 +23121,18 @@ export default {
         "form_id": 1,
         "name": "Ice Rider Calyrex",
         "pokemon_type": [
-            "PSYCHIC",
-            "ICE"
+            "psychic",
+            "ice"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "WHITE",
+        "color": "white",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23112,18 +23141,18 @@ export default {
         "form_id": 2,
         "name": "Shadow Rider Calyrex",
         "pokemon_type": [
-            "PSYCHIC",
-            "GHOST"
+            "psychic",
+            "ghost"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "uk"
         ],
         "gender_ratio": -1,
         "is_legendary": true,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23132,17 +23161,17 @@ export default {
         "form_id": 0,
         "name": "Wyrdeer",
         "pokemon_type": [
-            "NORMAL",
-            "PSYCHIC"
+            "normal",
+            "psychic"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "GRAY",
+        "color": "gray",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23151,17 +23180,17 @@ export default {
         "form_id": 0,
         "name": "Kleavor",
         "pokemon_type": [
-            "BUG",
-            "ROCK"
+            "bug",
+            "rock"
         ],
         "egg_group": [
-            "BUG"
+            "bug"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -23170,17 +23199,17 @@ export default {
         "form_id": 0,
         "name": "Ursaluna",
         "pokemon_type": [
-            "GROUND",
-            "NORMAL"
+            "ground",
+            "normal"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BROWN",
+        "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -23190,17 +23219,17 @@ export default {
         "name": "Basculegion",
         "form_name": "Male",
         "pokemon_type": [
-            "WATER",
-            "GHOST"
+            "water",
+            "ghost"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "md"
         ],
         "gender_ratio": 0,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -23210,17 +23239,17 @@ export default {
         "name": "Basculegion",
         "form_name": "Female",
         "pokemon_type": [
-            "WATER",
-            "GHOST"
+            "water",
+            "ghost"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "fd"
         ],
         "gender_ratio": 8,
-        "color": "GREEN",
+        "color": "green",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -23229,17 +23258,17 @@ export default {
         "form_id": 0,
         "name": "Sneasler",
         "pokemon_type": [
-            "FIGHTING",
-            "POISON"
+            "fighting",
+            "poison"
         ],
         "egg_group": [
-            "FIELD"
+            "field"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLUE",
+        "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 8
     },
@@ -23248,17 +23277,17 @@ export default {
         "form_id": 0,
         "name": "Overqwil",
         "pokemon_type": [
-            "DARK",
-            "POISON"
+            "dark",
+            "poison"
         ],
         "egg_group": [
-            "WATER_2"
+            "water_2"
         ],
         "gender": [
             "mf"
         ],
         "gender_ratio": 4,
-        "color": "BLACK",
+        "color": "black",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -23266,20 +23295,20 @@ export default {
         "base_id": 905,
         "form_id": 0,
         "name": "Enamorus",
-        "form_name": "Incarnate Form",
+        "form_name": "Incarnate Forme",
         "pokemon_type": [
-            "FAIRY",
-            "FLYING"
+            "fairy",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fd"
         ],
         "gender_ratio": 8,
         "is_sublegendary": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 8
     },
@@ -23289,18 +23318,18 @@ export default {
         "name": "Enamorus",
         "form_name": "Therian Forme",
         "pokemon_type": [
-            "FAIRY",
-            "FLYING"
+            "fairy",
+            "flying"
         ],
         "egg_group": [
-            "UNDISCOVERED"
+            "undiscovered"
         ],
         "gender": [
             "fd"
         ],
         "gender_ratio": 8,
         "is_sublegendary": true,
-        "color": "PINK",
+        "color": "pink",
         "experience_group": "Slow",
         "generation": 8
     }
