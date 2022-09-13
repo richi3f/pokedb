@@ -22,6 +22,10 @@ def pokemon_html(pokemon: "Pokemon"):
             <th colspan="2">{pokemon.__repr__()}</th>
         </tr>
         <tr>
+            <th>National Pokédex <abbr title="Number">No.</abbr></th>
+            <td>#{pokemon.base_id}</td>
+        </tr>
+        <tr>
             <th>Generation</th>
             <td>{pokemon.generation}</td>
         </tr>
