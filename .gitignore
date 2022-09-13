@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Jupyter NB checkpoints
+notebooks/
 .ipynb_checkpoints/
 
 # Distribution and packaging files
