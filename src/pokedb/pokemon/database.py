@@ -1,3 +1,6 @@
+__all__ = ["PokemonDatabase"]
+
+from operator import attrgetter
 from typing import TYPE_CHECKING, Any, Callable, Generator, Iterator
 
 from pokedb.core.singleton import Singleton
@@ -17,7 +20,7 @@ class PokemonDatabase(metaclass=Singleton):
         self._dict: dict[tuple[int, int], "Pokemon"] = {}
 
     def __iter__(self) -> Iterator["Pokemon"]:
-        return iter(sorted(self._dict.values()))
+        return iter(sorted(self._dict.values(), key=attrgetter("index")))
 
     def __getitem__(self, index: PokemonIndexOrSlug) -> "Pokemon":
         if isinstance(index, str):
