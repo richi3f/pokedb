@@ -71,6 +71,8 @@ def pokemon_html(pokemon: "Pokemon"):
         tags.append("Mythical")
     if pokemon.has_gigantamax:
         tags.append("Has Gigantamax Form")
+    if pokemon.is_battle_only:
+        tags.append("Battle-Only")
     if tags:
         table += f"""
         <tr>
