@@ -880,7 +880,7 @@ export default {
     "nidoran-f": {
         "base_id": 29,
         "form_id": 0,
-        "name": "Nidoran\u00e2\u2122\u20ac",
+        "name": "Nidoran♀",
         "pokemon_type": [
             "poison"
         ],
@@ -948,7 +948,7 @@ export default {
     "nidoran-m": {
         "base_id": 32,
         "form_id": 0,
-        "name": "Nidoran\u00e2\u2122\u201a",
+        "name": "Nidoran♂",
         "pokemon_type": [
             "poison"
         ],
@@ -17668,7 +17668,7 @@ export default {
     "flabebe": {
         "base_id": 669,
         "form_id": 0,
-        "name": "Flab\u00c3\u00a9b\u00c3\u00a9",
+        "name": "Flabébé",
         "form_name": "Red Flower",
         "pokemon_type": [
             "fairy"
