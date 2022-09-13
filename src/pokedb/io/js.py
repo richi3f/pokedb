@@ -56,7 +56,9 @@ def deserialize_pokemon(dct: dict[str, Any]) -> Any:
         pokedex = Pokedex()
         for attr, value in dct.items():
             if attr == "order":
-                value = dict(zip(map(int, value.keys()), [[*map(tuple, x)] for x in value.values()]))
+                dex_ids = map(int, value.keys())
+                pokemon_ids = [[*map(tuple, x)] for x in value.values()]
+                value = dict(zip(dex_ids, pokemon_ids))
             setattr(pokedex, attr, value)
         return pokedex
     return dct
@@ -72,9 +74,7 @@ def load_database(file_path: PathLike) -> PokemonDatabase:
 
 
 def load_pokedexes(file_path: PathLike) -> dict[str, Pokedex]:
-    pokedexes: dict[str, Pokedex] = read_js(
-        file_path, object_hook=deserialize_pokemon
-    )
+    pokedexes: dict[str, Pokedex] = read_js(file_path, object_hook=deserialize_pokemon)
     for slug, pokedex in pokedexes.items():
         pokedex.slug = slug
     return pokedexes
@@ -106,7 +106,10 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
             if is_false_or_empty or pokemon_asdict[key] is None:
                 pokemon_asdict.pop(key)
         database_asdict[pokemon.slug] = pokemon_asdict
-    to_js(database_asdict, file_path, indent=4, cls=PokemonJSONEncoder)
+    to_js(
+        database_asdict, file_path, indent=4, ensure_ascii=False, cls=PokemonJSONEncoder
+    )
+
 
 def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
     pokedexes_asdict = {}
