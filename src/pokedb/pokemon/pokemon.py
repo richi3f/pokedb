@@ -31,6 +31,7 @@ class Pokemon:
     is_mythical: bool = False
     is_baby: bool = False
     is_mega: bool = False
+    is_battle_only: bool = False
     color: Color = None
     experience_group: ExperienceGroup = None
     generation: int = None

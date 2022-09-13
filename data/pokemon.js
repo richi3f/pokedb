@@ -17436,6 +17436,7 @@ export default {
             "mo"
         ],
         "gender_ratio": 0,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 7
@@ -18885,6 +18886,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "is_battle_only": true,
         "color": "black",
         "experience_group": "Slow",
         "generation": 7
@@ -20863,6 +20865,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "is_battle_only": true,
         "color": "yellow",
         "experience_group": "Slow",
         "generation": 7
