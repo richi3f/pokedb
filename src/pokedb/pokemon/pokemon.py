@@ -1,5 +1,6 @@
 __all__ = ["Pokemon"]
 
+import dataclasses
 from dataclasses import dataclass
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
@@ -59,3 +60,17 @@ class Pokemon:
 
     def _repr_html_(self) -> str:
         return pokemon_html(self)
+
+    def new(self, **kwargs) -> "Pokemon":
+        """Creates a new Pokémon by copying the data from another one. Values
+        can be overriden by supplying keyword arguments.
+
+        Returns:
+            A new Pokémon instance
+        """
+        old_instance = dataclasses.asdict(self)
+        new_instance = Pokemon()
+        for field in old_instance.keys():
+            value = old_instance[field] if field not in kwargs else kwargs[field]
+            setattr(new_instance, field, value)
+        return new_instance
