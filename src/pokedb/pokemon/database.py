@@ -52,7 +52,8 @@ class PokemonDatabase(metaclass=Singleton):
     def remove(self, value: PokemonValue) -> None:
         if value.__class__.__name__ == "Pokemon":
             value = value.index
-        value = self._validate_index(value)
+        else:
+            value = self._validate_index(value)
         if value not in self._dict:
             return
         self._dict.pop(value)
