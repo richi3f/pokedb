@@ -85,7 +85,7 @@ class PokemonDatabase(metaclass=Singleton):
         return [*_generator(pokemon.index)]
 
     def query(self, search_function: Callable[["Pokemon"], bool]) -> list["Pokemon"]:
-        return [pokemon for pokemon in self._dict.values() if search_function(pokemon)]
+        return [pokemon for pokemon in self if search_function(pokemon)]
 
     def list_attr(
         self, search_function: Callable[["Pokemon"], bool], attr: str
