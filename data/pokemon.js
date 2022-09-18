@@ -17908,6 +17908,110 @@ export default {
             ]
         ]
     },
+    "flabebe-yellow": {
+        "base_id": 669,
+        "form_id": 1,
+        "name": "Flabébé",
+        "form_name": "Yellow Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                670,
+                1
+            ]
+        ]
+    },
+    "flabebe-orange": {
+        "base_id": 669,
+        "form_id": 2,
+        "name": "Flabébé",
+        "form_name": "Orange Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                670,
+                2
+            ]
+        ]
+    },
+    "flabebe-blue": {
+        "base_id": 669,
+        "form_id": 3,
+        "name": "Flabébé",
+        "form_name": "Blue Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                670,
+                3
+            ]
+        ]
+    },
+    "flabebe-white": {
+        "base_id": 669,
+        "form_id": 4,
+        "name": "Flabébé",
+        "form_name": "White Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                670,
+                4
+            ]
+        ]
+    },
     "floette": {
         "base_id": 670,
         "form_id": 0,
@@ -17933,6 +18037,110 @@ export default {
             ]
         ]
     },
+    "floette-yellow": {
+        "base_id": 670,
+        "form_id": 1,
+        "name": "Floette",
+        "form_name": "Yellow Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                671,
+                1
+            ]
+        ]
+    },
+    "floette-orange": {
+        "base_id": 670,
+        "form_id": 2,
+        "name": "Floette",
+        "form_name": "Orange Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                671,
+                2
+            ]
+        ]
+    },
+    "floette-blue": {
+        "base_id": 670,
+        "form_id": 3,
+        "name": "Floette",
+        "form_name": "Blue Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                671,
+                3
+            ]
+        ]
+    },
+    "floette-white": {
+        "base_id": 670,
+        "form_id": 4,
+        "name": "Floette",
+        "form_name": "White Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                671,
+                4
+            ]
+        ]
+    },
     "florges": {
         "base_id": 671,
         "form_id": 0,
@@ -17948,6 +18156,86 @@ export default {
             "fo"
         ],
         "gender_ratio": 8,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "florges-yellow": {
+        "base_id": 671,
+        "form_id": 1,
+        "name": "Florges",
+        "form_name": "Yellow Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "florges-orange": {
+        "base_id": 671,
+        "form_id": 2,
+        "name": "Florges",
+        "form_name": "Orange Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "florges-blue": {
+        "base_id": 671,
+        "form_id": 3,
+        "name": "Florges",
+        "form_name": "Blue Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "florges-white": {
+        "base_id": 671,
+        "form_id": 4,
+        "name": "Florges",
+        "form_name": "White Flower",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "is_cosmetic": true,
         "color": "white",
         "experience_group": "Medium Fast",
         "generation": 6
