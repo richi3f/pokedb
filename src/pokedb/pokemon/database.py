@@ -40,14 +40,16 @@ class PokemonDatabase(metaclass=Singleton):
     def __len__(self) -> int:
         return len(self._dict)
 
-    def _validate_index(self, index: PokemonIndexOrSlug) -> tuple[int, int]:
-        if isinstance(index, str):
-            return self.get_by_slug(index).index
-        if isinstance(index, int):
-            return self._validate_index((index, 0))
-        assert isinstance(index, tuple) and len(index) == 2
-        assert all([isinstance(num, int) for num in index])
-        return index
+    def _validate_index(self, value: PokemonValue) -> PokemonBaseAndFormIndex:
+        if value.__class__.__name__ == "Pokemon":
+            return value.index
+        if isinstance(value, str):
+            return self.get_by_slug(value).index
+        if isinstance(value, int):
+            return self._validate_index((value, 0))
+        assert isinstance(value, tuple) and len(value) == 2
+        assert all([isinstance(num, int) for num in value])
+        return value
 
     def remove(self, value: PokemonValue) -> None:
         if value.__class__.__name__ == "Pokemon":
@@ -79,11 +81,12 @@ class PokemonDatabase(metaclass=Singleton):
             else:
                 yield evolutions + [self._dict[index]]
 
-        if value.__class__.__name__ == "Pokemon":
-            pokemon = value
-        else:
-            pokemon = self._dict[self._validate_index(value)]
-        return [*_generator(pokemon.index)]
+        index = self._validate_index(value)
+        return [*_generator(index)]
+
+    def get_forms(self, value: PokemonValue) -> list["Pokemon"]:
+        base_id, _ = self._validate_index(value)
+        return self.query(lambda pokemon: pokemon.base_id == base_id)
 
     def query(self, search_function: Callable[["Pokemon"], bool]) -> list["Pokemon"]:
         return [pokemon for pokemon in self if search_function(pokemon)]
