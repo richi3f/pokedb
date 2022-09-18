@@ -21020,7 +21020,7 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
-        "color": "red",
+        "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 7
     },
@@ -21040,8 +21040,141 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
+        "is_cosmetic": true,
         "is_battle_only": true,
         "color": "red",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-orange": {
+        "base_id": 774,
+        "form_id": 8,
+        "name": "Minior",
+        "form_name": "Orange Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "red",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-yellow": {
+        "base_id": 774,
+        "form_id": 9,
+        "name": "Minior",
+        "form_name": "Yellow Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "yellow",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-green": {
+        "base_id": 774,
+        "form_id": 10,
+        "name": "Minior",
+        "form_name": "Green Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-blue": {
+        "base_id": 774,
+        "form_id": 11,
+        "name": "Minior",
+        "form_name": "Blue Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-indigo": {
+        "base_id": 774,
+        "form_id": 12,
+        "name": "Minior",
+        "form_name": "Indigo Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 7
+    },
+    "minior-violet": {
+        "base_id": 774,
+        "form_id": 13,
+        "name": "Minior",
+        "form_name": "Violet Core",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "is_battle_only": true,
+        "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 7
     },
