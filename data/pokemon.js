@@ -90,6 +90,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -182,6 +183,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "black",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -203,6 +205,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -293,6 +296,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -451,6 +455,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -540,6 +545,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -1948,6 +1954,7 @@ export default {
         ],
         "gender_ratio": 2,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -2451,6 +2458,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "pink",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -2888,6 +2896,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -3481,6 +3490,7 @@ export default {
         ],
         "gender_ratio": 8,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -3803,6 +3813,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Slow",
         "generation": 6
@@ -3889,6 +3900,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -4191,6 +4203,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 6
@@ -4440,6 +4453,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 6
@@ -4460,6 +4474,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 6
@@ -5233,6 +5248,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "yellow",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -5869,6 +5885,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -6009,6 +6026,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -6068,6 +6086,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -6476,6 +6495,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "black",
         "experience_group": "Slow",
         "generation": 6
@@ -6914,6 +6934,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "green",
         "experience_group": "Slow",
         "generation": 6
@@ -7064,6 +7085,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "green",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -7155,6 +7177,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -7247,6 +7270,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -7844,6 +7868,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Slow",
         "generation": 6
@@ -8318,6 +8343,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -8365,6 +8391,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "black",
         "experience_group": "Fast",
         "generation": 6
@@ -8453,6 +8480,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "gray",
         "experience_group": "Slow",
         "generation": 6
@@ -8519,6 +8547,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -8580,6 +8609,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "yellow",
         "experience_group": "Slow",
         "generation": 6
@@ -8789,6 +8819,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -8899,6 +8930,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -9159,6 +9191,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Erratic",
         "generation": 6
@@ -9508,6 +9541,7 @@ export default {
         "base_id": 351,
         "form_id": 0,
         "name": "Castform",
+        "form_name": "Normal",
         "pokemon_type": [
             "normal"
         ],
@@ -9520,6 +9554,69 @@ export default {
         ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
+    "castform-sunny": {
+        "base_id": 351,
+        "form_id": 1,
+        "name": "Castform",
+        "form_name": "Sunny Form",
+        "pokemon_type": [
+            "fire"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
+    "castform-rainy": {
+        "base_id": 351,
+        "form_id": 2,
+        "name": "Castform",
+        "form_name": "Rainy Form",
+        "pokemon_type": [
+            "water"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
+    "castform-snowy": {
+        "base_id": 351,
+        "form_id": 3,
+        "name": "Castform",
+        "form_name": "Snowy Form",
+        "pokemon_type": [
+            "ice"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "white",
         "experience_group": "Medium Fast",
         "generation": 3
     },
@@ -9598,6 +9695,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "black",
         "experience_group": "Fast",
         "generation": 6
@@ -9721,6 +9819,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -9814,6 +9913,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -10076,6 +10176,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -10165,6 +10266,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -10263,6 +10365,7 @@ export default {
         "gender_ratio": 8,
         "is_sublegendary": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 6
@@ -10304,6 +10407,7 @@ export default {
         "gender_ratio": 0,
         "is_sublegendary": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 6
@@ -10422,6 +10526,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "green",
         "experience_group": "Slow",
         "generation": 6
@@ -11400,11 +11505,32 @@ export default {
         "evolution_ids": [
             [
                 421,
-                1
+                0
             ]
         ]
     },
     "cherrim": {
+        "base_id": 421,
+        "form_id": 0,
+        "name": "Cherrim",
+        "form_name": "Overcast Form",
+        "pokemon_type": [
+            "grass"
+        ],
+        "egg_group": [
+            "fairy",
+            "grass"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "purple",
+        "experience_group": "Medium Fast",
+        "generation": 4
+    },
+    "cherrim-sunshine": {
         "base_id": 421,
         "form_id": 1,
         "name": "Cherrim",
@@ -11642,6 +11768,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -12054,6 +12181,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -12145,6 +12273,7 @@ export default {
         ],
         "gender_ratio": 1,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Medium Slow",
         "generation": 6
@@ -12438,6 +12567,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Slow",
         "generation": 6
@@ -12749,6 +12879,7 @@ export default {
         ],
         "gender_ratio": 0,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Slow",
         "generation": 6
@@ -14182,6 +14313,7 @@ export default {
         ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Fast",
         "generation": 6
@@ -14820,6 +14952,27 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 5
     },
+    "darmanitan-zen": {
+        "base_id": 555,
+        "form_id": 1,
+        "name": "Darmanitan",
+        "form_name": "Zen Mode",
+        "pokemon_type": [
+            "fire",
+            "psychic"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 5
+    },
     "darmanitan-galar": {
         "base_id": 555,
         "form_id": 2,
@@ -14835,6 +14988,27 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "white",
+        "experience_group": "Medium Slow",
+        "generation": 8
+    },
+    "darmanitan-galar-zen": {
+        "base_id": 555,
+        "form_id": 3,
+        "name": "Galarian Darmanitan",
+        "form_name": "Zen Mode",
+        "pokemon_type": [
+            "ice",
+            "fire"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Medium Slow",
         "generation": 8
@@ -17179,6 +17353,27 @@ export default {
         "experience_group": "Slow",
         "generation": 5
     },
+    "keldeo-resolute": {
+        "base_id": 647,
+        "form_id": 1,
+        "name": "Keldeo",
+        "form_name": "Resolute Form",
+        "pokemon_type": [
+            "water",
+            "fighting"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "color": "yellow",
+        "experience_group": "Slow",
+        "generation": 5
+    },
     "meloetta": {
         "base_id": 648,
         "form_id": 0,
@@ -17196,6 +17391,28 @@ export default {
         ],
         "gender_ratio": -1,
         "is_mythical": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 5
+    },
+    "meloetta-pirouette": {
+        "base_id": 648,
+        "form_id": 1,
+        "name": "Meloetta",
+        "form_name": "Pirouette Forme",
+        "pokemon_type": [
+            "normal",
+            "fighting"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_battle_only": true,
         "color": "white",
         "experience_group": "Slow",
         "generation": 5
@@ -17959,6 +18176,26 @@ export default {
     },
     "aegislash": {
         "base_id": 681,
+        "form_id": 0,
+        "name": "Aegislash",
+        "form_name": "Shield Forme",
+        "pokemon_type": [
+            "steel",
+            "ghost"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "aegislash-blade": {
+        "base_id": 681,
         "form_id": 1,
         "name": "Aegislash",
         "form_name": "Blade Forme",
@@ -17973,6 +18210,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_battle_only": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
@@ -18788,10 +19026,32 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 6
     },
+    "xerneas-neutral": {
+        "base_id": 716,
+        "form_id": 0,
+        "name": "Xerneas",
+        "form_name": "Neutral Mode",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_legendary": true,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 6
+    },
     "xerneas": {
         "base_id": 716,
         "form_id": 1,
         "name": "Xerneas",
+        "form_name": "Active Mode",
         "pokemon_type": [
             "fairy"
         ],
@@ -18928,6 +19188,7 @@ export default {
         "gender_ratio": -1,
         "is_mythical": true,
         "is_mega": true,
+        "is_battle_only": true,
         "color": "pink",
         "experience_group": "Slow",
         "generation": 6
@@ -19656,6 +19917,26 @@ export default {
     },
     "wishiwashi": {
         "base_id": 746,
+        "form_id": 0,
+        "name": "Wishiwashi",
+        "form_name": "Solo Form",
+        "pokemon_type": [
+            "water"
+        ],
+        "egg_group": [
+            "water_2"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "blue",
+        "experience_group": "Fast",
+        "generation": 7
+    },
+    "wishiwashi-school": {
+        "base_id": 746,
         "form_id": 1,
         "name": "Wishiwashi",
         "form_name": "School Form",
@@ -20239,6 +20520,7 @@ export default {
         "base_id": 773,
         "form_id": 0,
         "name": "Silvally",
+        "form_name": "Type: Normal",
         "pokemon_type": [
             "normal"
         ],
@@ -20252,6 +20534,26 @@ export default {
         "is_sublegendary": true,
         "color": "gray",
         "experience_group": "Slow",
+        "generation": 7
+    },
+    "minior-meteor": {
+        "base_id": 774,
+        "form_id": 0,
+        "name": "Minior",
+        "form_name": "Meteor Form",
+        "pokemon_type": [
+            "rock",
+            "flying"
+        ],
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "color": "red",
+        "experience_group": "Medium Slow",
         "generation": 7
     },
     "minior": {
@@ -20270,6 +20572,7 @@ export default {
             "uk"
         ],
         "gender_ratio": -1,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Medium Slow",
         "generation": 7
@@ -20336,6 +20639,7 @@ export default {
         "base_id": 778,
         "form_id": 0,
         "name": "Mimikyu",
+        "form_name": "Disguised Form",
         "pokemon_type": [
             "ghost",
             "fairy"
@@ -22419,6 +22723,7 @@ export default {
         "base_id": 869,
         "form_id": 0,
         "name": "Alcremie",
+        "form_name": "Vanilla Cream",
         "pokemon_type": [
             "fairy"
         ],
@@ -22539,6 +22844,7 @@ export default {
         "base_id": 875,
         "form_id": 0,
         "name": "Eiscue",
+        "form_name": "Ice Face",
         "pokemon_type": [
             "ice"
         ],
@@ -22550,6 +22856,27 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 8
+    },
+    "eiscue-noice": {
+        "base_id": 875,
+        "form_id": 1,
+        "name": "Eiscue",
+        "form_name": "Noice Face",
+        "pokemon_type": [
+            "ice"
+        ],
+        "egg_group": [
+            "water_1",
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 8
@@ -22598,6 +22925,7 @@ export default {
         "base_id": 877,
         "form_id": 0,
         "name": "Morpeko",
+        "form_name": "Full Belly Mode",
         "pokemon_type": [
             "electric",
             "dark"
@@ -22611,6 +22939,28 @@ export default {
         ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "morpeko-hangry": {
+        "base_id": 877,
+        "form_id": 1,
+        "name": "Morpeko",
+        "form_name": "Hangry Mode",
+        "pokemon_type": [
+            "electric",
+            "dark"
+        ],
+        "egg_group": [
+            "field",
+            "fairy"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
+        "color": "purple",
         "experience_group": "Medium Fast",
         "generation": 8
     },
@@ -22926,6 +23276,28 @@ export default {
         ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "color": "purple",
+        "experience_group": "Slow",
+        "generation": 8
+    },
+    "eternatus-eternamax": {
+        "base_id": 890,
+        "form_id": 1,
+        "name": "Eternatus",
+        "form_name": "Eternamax",
+        "pokemon_type": [
+            "poison",
+            "dragon"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_legendary": true,
+        "is_battle_only": true,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 8
