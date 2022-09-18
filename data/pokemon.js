@@ -22095,6 +22095,363 @@ export default {
         "experience_group": "Slow",
         "generation": 7
     },
+    "silvally-fighting": {
+        "base_id": 773,
+        "form_id": 1,
+        "name": "Silvally",
+        "form_name": "Type: Fighting",
+        "pokemon_type": [
+            "fighting"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-flying": {
+        "base_id": 773,
+        "form_id": 2,
+        "name": "Silvally",
+        "form_name": "Type: Flying",
+        "pokemon_type": [
+            "flying"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-poison": {
+        "base_id": 773,
+        "form_id": 3,
+        "name": "Silvally",
+        "form_name": "Type: Poison",
+        "pokemon_type": [
+            "poison"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-ground": {
+        "base_id": 773,
+        "form_id": 4,
+        "name": "Silvally",
+        "form_name": "Type: Ground",
+        "pokemon_type": [
+            "ground"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-rock": {
+        "base_id": 773,
+        "form_id": 5,
+        "name": "Silvally",
+        "form_name": "Type: Rock",
+        "pokemon_type": [
+            "rock"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-bug": {
+        "base_id": 773,
+        "form_id": 6,
+        "name": "Silvally",
+        "form_name": "Type: Bug",
+        "pokemon_type": [
+            "bug"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-ghost": {
+        "base_id": 773,
+        "form_id": 7,
+        "name": "Silvally",
+        "form_name": "Type: Ghost",
+        "pokemon_type": [
+            "ghost"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-steel": {
+        "base_id": 773,
+        "form_id": 8,
+        "name": "Silvally",
+        "form_name": "Type: Steel",
+        "pokemon_type": [
+            "steel"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-fire": {
+        "base_id": 773,
+        "form_id": 9,
+        "name": "Silvally",
+        "form_name": "Type: Fire",
+        "pokemon_type": [
+            "fire"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-water": {
+        "base_id": 773,
+        "form_id": 10,
+        "name": "Silvally",
+        "form_name": "Type: Water",
+        "pokemon_type": [
+            "water"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-grass": {
+        "base_id": 773,
+        "form_id": 11,
+        "name": "Silvally",
+        "form_name": "Type: Grass",
+        "pokemon_type": [
+            "grass"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-electric": {
+        "base_id": 773,
+        "form_id": 12,
+        "name": "Silvally",
+        "form_name": "Type: Electric",
+        "pokemon_type": [
+            "electric"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-psychic": {
+        "base_id": 773,
+        "form_id": 13,
+        "name": "Silvally",
+        "form_name": "Type: Psychic",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-ice": {
+        "base_id": 773,
+        "form_id": 14,
+        "name": "Silvally",
+        "form_name": "Type: Ice",
+        "pokemon_type": [
+            "ice"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-dragon": {
+        "base_id": 773,
+        "form_id": 15,
+        "name": "Silvally",
+        "form_name": "Type: Dragon",
+        "pokemon_type": [
+            "dragon"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-dark": {
+        "base_id": 773,
+        "form_id": 16,
+        "name": "Silvally",
+        "form_name": "Type: Dark",
+        "pokemon_type": [
+            "dark"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
+    "silvally-fairy": {
+        "base_id": 773,
+        "form_id": 17,
+        "name": "Silvally",
+        "form_name": "Type: Fairy",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_sublegendary": true,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Slow",
+        "generation": 7
+    },
     "minior-meteor": {
         "base_id": 774,
         "form_id": 0,
