@@ -1,19 +1,23 @@
 __all__ = [
     "dump_database",
     "dump_pokedexes",
+    "dump_versions",
     "load_database",
     "load_pokedexes",
+    "load_versions",
     "read_js",
     "to_js",
 ]
 
 import dataclasses
 import json
+import re
 from typing import Any
 
 from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
 from pokedb.core.typing import PathLike
 from pokedb.games.pokedex import Pokedex
+from pokedb.games.versions import VersionData
 from pokedb.pokemon.database import PokemonDatabase
 from pokedb.pokemon.pokemon import PastType, Pokemon
 
@@ -52,7 +56,7 @@ def deserialize_pokemon(dct: dict[str, Any]) -> Any:
                 value = PastType(value["generation"], pokemon_type)
             setattr(pokemon, attr, value)
         return pokemon
-    if "name" in dct and "order" in dct:
+    elif "name" in dct and "order" in dct:
         pokedex = Pokedex()
         for attr, value in dct.items():
             if attr == "order":
@@ -78,6 +82,15 @@ def load_pokedexes(file_path: PathLike) -> dict[str, Pokedex]:
     for slug, pokedex in pokedexes.items():
         pokedex.slug = slug
     return pokedexes
+
+
+def load_versions(file_path: PathLike) -> dict[str, VersionData]:
+    dct = read_js(file_path)
+    versions = {}
+    for slug, value in dct.items():
+        exclusives = sorted(map(tuple, value))
+        versions[slug] = VersionData(slug, exclusives)
+    return versions
 
 
 def to_js(data: dict, file_path: PathLike, **kwargs) -> None:
@@ -117,3 +130,18 @@ def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
         pokedex_asdict = dataclasses.asdict(pokedex)
         pokedexes_asdict[pokedex_asdict.pop("slug")] = pokedex_asdict
     to_js(pokedexes_asdict, file_path, indent=4)
+
+
+def dump_versions(versions: dict[str, VersionData], file_path: PathLike) -> None:
+    versions_asdict = {}
+    for version in versions.values():
+        version_asdict = dataclasses.asdict(version)
+        versions_asdict[version_asdict["slug"]] = version_asdict["exclusives"]
+    to_js(versions_asdict, file_path, indent=4)
+    with open(file_path, "r+", encoding="utf-8") as file:
+        file_contents = file.read()
+        file_contents = re.sub("\n\s{12}", " ", file_contents)
+        file_contents = re.sub("\n\s{8}\]", " ]", file_contents)
+        file.seek(0)
+        file.write(file_contents)
+        file.truncate()
