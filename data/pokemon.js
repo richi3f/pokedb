@@ -16302,6 +16302,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "green",
         "experience_group": "Medium Fast",
         "generation": 5,
@@ -16328,6 +16329,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "red",
         "experience_group": "Medium Fast",
         "generation": 5,
@@ -16354,6 +16356,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5,
@@ -16400,6 +16403,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
@@ -16420,6 +16424,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
@@ -16440,6 +16445,7 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 5
@@ -17911,6 +17917,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_mythical": true,
+        "is_cosmetic": true,
         "color": "yellow",
         "experience_group": "Slow",
         "generation": 5
@@ -22895,6 +22902,7 @@ export default {
         ],
         "gender_ratio": -1,
         "is_mythical": true,
+        "is_cosmetic": true,
         "color": "red",
         "experience_group": "Slow",
         "generation": 7
