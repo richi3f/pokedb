@@ -23317,6 +23317,38 @@ export default {
             [
                 869,
                 0
+            ],
+            [
+                869,
+                1
+            ],
+            [
+                869,
+                2
+            ],
+            [
+                869,
+                3
+            ],
+            [
+                869,
+                4
+            ],
+            [
+                869,
+                5
+            ],
+            [
+                869,
+                6
+            ],
+            [
+                869,
+                7
+            ],
+            [
+                869,
+                8
             ]
         ]
     },
@@ -23338,6 +23370,182 @@ export default {
         "gender_ratio": 8,
         "has_gigantamax": true,
         "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-ruby-cream": {
+        "base_id": 869,
+        "form_id": 1,
+        "name": "Alcremie",
+        "form_name": "Ruby Cream",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "pink",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-matcha-cream": {
+        "base_id": 869,
+        "form_id": 2,
+        "name": "Alcremie",
+        "form_name": "Matcha Cream",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "green",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-mint-cream": {
+        "base_id": 869,
+        "form_id": 3,
+        "name": "Alcremie",
+        "form_name": "Mint Cream",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "blue",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-lemon-cream": {
+        "base_id": 869,
+        "form_id": 4,
+        "name": "Alcremie",
+        "form_name": "Lemon Cream",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "yellow",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-salted-cream": {
+        "base_id": 869,
+        "form_id": 5,
+        "name": "Alcremie",
+        "form_name": "Salted Cream",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-ruby-swirl": {
+        "base_id": 869,
+        "form_id": 6,
+        "name": "Alcremie",
+        "form_name": "Ruby Swirl",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "yellow",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-caramel-swirl": {
+        "base_id": 869,
+        "form_id": 7,
+        "name": "Alcremie",
+        "form_name": "Caramel Swirl",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 8
+    },
+    "alcremie-rainbow-swirl": {
+        "base_id": 869,
+        "form_id": 8,
+        "name": "Alcremie",
+        "form_name": "Rainbow Swirl",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "fairy",
+            "amorphous"
+        ],
+        "gender": [
+            "fo"
+        ],
+        "gender_ratio": 8,
+        "has_gigantamax": true,
+        "is_cosmetic": true,
+        "color": "yellow",
         "experience_group": "Medium Fast",
         "generation": 8
     },
