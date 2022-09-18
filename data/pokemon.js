@@ -5709,6 +5709,7 @@ export default {
         "base_id": 201,
         "form_id": 0,
         "name": "Unown",
+        "form_name": "One form",
         "pokemon_type": [
             "psychic"
         ],
@@ -5722,6 +5723,546 @@ export default {
         "color": "black",
         "experience_group": "Medium Fast",
         "generation": 2
+    },
+    "unown-b": {
+        "base_id": 201,
+        "form_id": 1,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-c": {
+        "base_id": 201,
+        "form_id": 2,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-d": {
+        "base_id": 201,
+        "form_id": 3,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-e": {
+        "base_id": 201,
+        "form_id": 4,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-f": {
+        "base_id": 201,
+        "form_id": 5,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-g": {
+        "base_id": 201,
+        "form_id": 6,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-h": {
+        "base_id": 201,
+        "form_id": 7,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-i": {
+        "base_id": 201,
+        "form_id": 8,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-j": {
+        "base_id": 201,
+        "form_id": 9,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-k": {
+        "base_id": 201,
+        "form_id": 10,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-l": {
+        "base_id": 201,
+        "form_id": 11,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-m": {
+        "base_id": 201,
+        "form_id": 12,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-n": {
+        "base_id": 201,
+        "form_id": 13,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-o": {
+        "base_id": 201,
+        "form_id": 14,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-p": {
+        "base_id": 201,
+        "form_id": 15,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-q": {
+        "base_id": 201,
+        "form_id": 16,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-r": {
+        "base_id": 201,
+        "form_id": 17,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-s": {
+        "base_id": 201,
+        "form_id": 18,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-t": {
+        "base_id": 201,
+        "form_id": 19,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-u": {
+        "base_id": 201,
+        "form_id": 20,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-v": {
+        "base_id": 201,
+        "form_id": 21,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-w": {
+        "base_id": 201,
+        "form_id": 22,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-x": {
+        "base_id": 201,
+        "form_id": 23,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-y": {
+        "base_id": 201,
+        "form_id": 24,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-z": {
+        "base_id": 201,
+        "form_id": 25,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "unown-excl": {
+        "base_id": 201,
+        "form_id": 26,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
+    "unown-quest": {
+        "base_id": 201,
+        "form_id": 27,
+        "name": "Unown",
+        "form_name": "One form",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_cosmetic": true,
+        "color": "black",
+        "experience_group": "Medium Fast",
+        "generation": 3
     },
     "wobbuffet": {
         "base_id": 202,
