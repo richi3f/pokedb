@@ -8335,7 +8335,7 @@ export default {
         "is_cosmetic": true,
         "color": "white",
         "experience_group": "Slow",
-        "generation": 4
+        "generation": 6
     },
     "victini": {
         "base_id": 494,
