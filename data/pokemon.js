@@ -18359,6 +18359,132 @@ export default {
             ]
         ]
     },
+    "vivillon-icy-snow": {
+        "base_id": 666,
+        "form_id": 0,
+        "name": "Vivillon",
+        "form_name": "Icy Snow Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-polar": {
+        "base_id": 666,
+        "form_id": 1,
+        "name": "Vivillon",
+        "form_name": "Polar Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "blue",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-tundra": {
+        "base_id": 666,
+        "form_id": 2,
+        "name": "Vivillon",
+        "form_name": "Tundra Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "blue",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-continental": {
+        "base_id": 666,
+        "form_id": 3,
+        "name": "Vivillon",
+        "form_name": "Continental Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "yellow",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-garden": {
+        "base_id": 666,
+        "form_id": 4,
+        "name": "Vivillon",
+        "form_name": "Garden Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "green",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-elegant": {
+        "base_id": 666,
+        "form_id": 5,
+        "name": "Vivillon",
+        "form_name": "Elegant Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "purple",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
     "vivillon": {
         "base_id": 666,
         "form_id": 6,
@@ -18376,6 +18502,279 @@ export default {
         ],
         "gender_ratio": 4,
         "color": "pink",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-modern": {
+        "base_id": 666,
+        "form_id": 7,
+        "name": "Vivillon",
+        "form_name": "Modern Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-marine": {
+        "base_id": 666,
+        "form_id": 8,
+        "name": "Vivillon",
+        "form_name": "Marine Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "blue",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-archipelago": {
+        "base_id": 666,
+        "form_id": 9,
+        "name": "Vivillon",
+        "form_name": "Archipelago Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-high-plains": {
+        "base_id": 666,
+        "form_id": 10,
+        "name": "Vivillon",
+        "form_name": "High Plains Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-sandstorm": {
+        "base_id": 666,
+        "form_id": 11,
+        "name": "Vivillon",
+        "form_name": "Sandstorm Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-river": {
+        "base_id": 666,
+        "form_id": 12,
+        "name": "Vivillon",
+        "form_name": "River Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-monsoon": {
+        "base_id": 666,
+        "form_id": 13,
+        "name": "Vivillon",
+        "form_name": "Monsoon Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "gray",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-savanna": {
+        "base_id": 666,
+        "form_id": 14,
+        "name": "Vivillon",
+        "form_name": "Savanna Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "green",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-sun": {
+        "base_id": 666,
+        "form_id": 15,
+        "name": "Vivillon",
+        "form_name": "Sun Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-ocean": {
+        "base_id": 666,
+        "form_id": 16,
+        "name": "Vivillon",
+        "form_name": "Ocean Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-jungle": {
+        "base_id": 666,
+        "form_id": 17,
+        "name": "Vivillon",
+        "form_name": "Jungle Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "green",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-fancy": {
+        "base_id": 666,
+        "form_id": 18,
+        "name": "Vivillon",
+        "form_name": "Fancy Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "pink",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "vivillon-poke-ball": {
+        "base_id": 666,
+        "form_id": 19,
+        "name": "Vivillon",
+        "form_name": "Poké Ball Pattern",
+        "pokemon_type": [
+            "bug",
+            "flying"
+        ],
+        "egg_group": [
+            "bug"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "red",
         "experience_group": "Medium Fast",
         "generation": 6
     },
