@@ -20305,6 +20305,87 @@ export default {
             ]
         ]
     },
+    "pumpkaboo-small": {
+        "base_id": 710,
+        "form_id": 1,
+        "name": "Pumpkaboo",
+        "form_name": "Small Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                711,
+                1
+            ]
+        ]
+    },
+    "pumpkaboo-large": {
+        "base_id": 710,
+        "form_id": 2,
+        "name": "Pumpkaboo",
+        "form_name": "Large Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                711,
+                2
+            ]
+        ]
+    },
+    "pumpkaboo-super": {
+        "base_id": 710,
+        "form_id": 3,
+        "name": "Pumpkaboo",
+        "form_name": "Super Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6,
+        "evolution_ids": [
+            [
+                711,
+                3
+            ]
+        ]
+    },
     "gourgeist": {
         "base_id": 711,
         "form_id": 0,
@@ -20321,6 +20402,69 @@ export default {
             "mf"
         ],
         "gender_ratio": 4,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "gourgeist-small": {
+        "base_id": 711,
+        "form_id": 1,
+        "name": "Gourgeist",
+        "form_name": "Small Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "gourgeist-large": {
+        "base_id": 711,
+        "form_id": 2,
+        "name": "Gourgeist",
+        "form_name": "Large Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "gourgeist-super": {
+        "base_id": 711,
+        "form_id": 3,
+        "name": "Gourgeist",
+        "form_name": "Super Size",
+        "pokemon_type": [
+            "ghost",
+            "grass"
+        ],
+        "egg_group": [
+            "amorphous"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 6
