@@ -122,6 +122,16 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
     to_js(
         database_asdict, file_path, indent=4, ensure_ascii=False, cls=PokemonJSONEncoder
     )
+    with open(file_path, "r+", encoding="utf-8") as file:
+        file_contents = file.read()
+        file_contents = re.sub("\n\s{16}", " ", file_contents)
+        file_contents = re.sub("\n\s{12}\]", " ]", file_contents)
+        file_contents = re.sub("\n\s{12}", " ", file_contents)
+        file_contents = re.sub("\n\s{8}\]", " ]", file_contents)
+        file_contents = re.sub("\n\s{8}\}", " }", file_contents)
+        file.seek(0)
+        file.write(file_contents)
+        file.truncate()
 
 
 def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
@@ -130,6 +140,15 @@ def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
         pokedex_asdict = dataclasses.asdict(pokedex)
         pokedexes_asdict[pokedex_asdict.pop("slug")] = pokedex_asdict
     to_js(pokedexes_asdict, file_path, indent=4)
+    with open(file_path, "r+", encoding="utf-8") as file:
+        file_contents = file.read()
+        file_contents = re.sub("\n\s{20}", " ", file_contents)
+        file_contents = re.sub("\n\s{16}\]", " ]", file_contents)
+        file_contents = re.sub("\n\s{16}", " ", file_contents)
+        file_contents = re.sub("\n\s{12}\]", " ]", file_contents)
+        file.seek(0)
+        file.write(file_contents)
+        file.truncate()
 
 
 def dump_versions(versions: dict[str, VersionData], file_path: PathLike) -> None:
