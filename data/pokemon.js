@@ -13989,6 +13989,346 @@ export default {
         "experience_group": "Slow",
         "generation": 4
     },
+    "arceus-fighting": {
+        "base_id": 493,
+        "form_id": 1,
+        "name": "Arceus",
+        "pokemon_type": [
+            "fighting"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-flying": {
+        "base_id": 493,
+        "form_id": 2,
+        "name": "Arceus",
+        "pokemon_type": [
+            "flying"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-poison": {
+        "base_id": 493,
+        "form_id": 3,
+        "name": "Arceus",
+        "pokemon_type": [
+            "poison"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-ground": {
+        "base_id": 493,
+        "form_id": 4,
+        "name": "Arceus",
+        "pokemon_type": [
+            "ground"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-rock": {
+        "base_id": 493,
+        "form_id": 5,
+        "name": "Arceus",
+        "pokemon_type": [
+            "rock"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-bug": {
+        "base_id": 493,
+        "form_id": 6,
+        "name": "Arceus",
+        "pokemon_type": [
+            "bug"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-ghost": {
+        "base_id": 493,
+        "form_id": 7,
+        "name": "Arceus",
+        "pokemon_type": [
+            "ghost"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-steel": {
+        "base_id": 493,
+        "form_id": 8,
+        "name": "Arceus",
+        "pokemon_type": [
+            "steel"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-fire": {
+        "base_id": 493,
+        "form_id": 9,
+        "name": "Arceus",
+        "pokemon_type": [
+            "fire"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-water": {
+        "base_id": 493,
+        "form_id": 10,
+        "name": "Arceus",
+        "pokemon_type": [
+            "water"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-grass": {
+        "base_id": 493,
+        "form_id": 11,
+        "name": "Arceus",
+        "pokemon_type": [
+            "grass"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-electric": {
+        "base_id": 493,
+        "form_id": 12,
+        "name": "Arceus",
+        "pokemon_type": [
+            "electric"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-psychic": {
+        "base_id": 493,
+        "form_id": 13,
+        "name": "Arceus",
+        "pokemon_type": [
+            "psychic"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-ice": {
+        "base_id": 493,
+        "form_id": 14,
+        "name": "Arceus",
+        "pokemon_type": [
+            "ice"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-dragon": {
+        "base_id": 493,
+        "form_id": 15,
+        "name": "Arceus",
+        "pokemon_type": [
+            "dragon"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-dark": {
+        "base_id": 493,
+        "form_id": 16,
+        "name": "Arceus",
+        "pokemon_type": [
+            "dark"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
+    "arceus-fairy": {
+        "base_id": 493,
+        "form_id": 17,
+        "name": "Arceus",
+        "pokemon_type": [
+            "fairy"
+        ],
+        "egg_group": [
+            "undiscovered"
+        ],
+        "gender": [
+            "uk"
+        ],
+        "gender_ratio": -1,
+        "is_mythical": true,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Slow",
+        "generation": 4
+    },
     "victini": {
         "base_id": 494,
         "form_id": 0,
