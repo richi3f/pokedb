@@ -18058,6 +18058,186 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 6
     },
+    "furfrou-heart": {
+        "base_id": 676,
+        "form_id": 1,
+        "name": "Furfrou",
+        "form_name": "Heart Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-star": {
+        "base_id": 676,
+        "form_id": 2,
+        "name": "Furfrou",
+        "form_name": "Star Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-diamond": {
+        "base_id": 676,
+        "form_id": 3,
+        "name": "Furfrou",
+        "form_name": "Diamond Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-debutante": {
+        "base_id": 676,
+        "form_id": 4,
+        "name": "Furfrou",
+        "form_name": "Debutante Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-matron": {
+        "base_id": 676,
+        "form_id": 5,
+        "name": "Furfrou",
+        "form_name": "Matron Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-dandy": {
+        "base_id": 676,
+        "form_id": 6,
+        "name": "Furfrou",
+        "form_name": "Dandy Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-la-reine": {
+        "base_id": 676,
+        "form_id": 7,
+        "name": "Furfrou",
+        "form_name": "La Reine Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-kabuki": {
+        "base_id": 676,
+        "form_id": 8,
+        "name": "Furfrou",
+        "form_name": "Kabuki Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
+    "furfrou-pharaoh": {
+        "base_id": 676,
+        "form_id": 9,
+        "name": "Furfrou",
+        "form_name": "Pharaoh Trim",
+        "pokemon_type": [
+            "normal"
+        ],
+        "egg_group": [
+            "field"
+        ],
+        "gender": [
+            "mf"
+        ],
+        "gender_ratio": 4,
+        "is_cosmetic": true,
+        "color": "white",
+        "experience_group": "Medium Fast",
+        "generation": 6
+    },
     "espurr": {
         "base_id": 677,
         "form_id": 0,
