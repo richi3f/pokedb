@@ -6332,6 +6332,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "is_battle_only": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 6
@@ -6358,6 +6359,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_legendary": true,
+        "is_battle_only": true,
         "color": "red",
         "experience_group": "Slow",
         "generation": 6
