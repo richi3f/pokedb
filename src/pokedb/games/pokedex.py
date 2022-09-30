@@ -1,6 +1,7 @@
 __all__ = ["Pokedex"]
 
 from dataclasses import dataclass, field
+from typing import Optional
 
 from pokedb.core.typing import PokemonBaseAndFormIndex, PokemonValue
 from pokedb.pokemon.database import PokemonDatabase
@@ -9,8 +10,8 @@ from pokedb.pokemon.pokemon import Pokemon
 
 @dataclass
 class Pokedex:
-    slug: str = None
-    name: str = None
+    slug: Optional[str] = None
+    name: Optional[str] = None
     order: dict[int, list[PokemonBaseAndFormIndex]] = field(default_factory=dict)
 
     def __getitem__(self, dex_index: int) -> list[Pokemon]:

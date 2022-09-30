@@ -1,31 +1,39 @@
 __all__ = ["Pokemon"]
 
 import dataclasses
+from functools import total_ordering
 from dataclasses import dataclass
+from typing import Optional, Union
 
-from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
-from pokedb.core.typing import DualType, SingleOrDualType
+from pokedb.core.enums import Color, ExperienceGroup, Gender, Type
+from pokedb.core.typing import (
+    PokemonBaseAndFormIndex,
+    PokemonEggGroup,
+    PokemonType,
+    SingleOrDualType,
+)
 from pokedb.pokemon.html_repr import pokemon_html
 
 
 @dataclass
 class PastType:
-    generation: int = None
-    pokemon_type: tuple[Type, Type] = ()
+    generation: Optional[int] = None
+    pokemon_type: PokemonType = ()
 
 
 @dataclass
+@total_ordering
 class Pokemon:
-    base_id: int = None
-    form_id: int = None
-    slug: str = None
-    name: str = None
-    form_name: str = None
-    pokemon_type: DualType = ()
-    past_type: PastType = None
-    egg_group: tuple[EggGroup, EggGroup] = ()
-    gender: tuple[Gender] = ()
-    gender_ratio: int = None
+    base_id: Optional[int] = None
+    form_id: Optional[int] = None
+    slug: Optional[str] = None
+    name: Optional[str] = None
+    form_name: Optional[str] = None
+    pokemon_type: PokemonType = ()
+    past_type: Optional[PastType] = None
+    egg_group: PokemonEggGroup = ()
+    gender: tuple[Gender, ...] = ()
+    gender_ratio: Optional[int] = None
     has_gigantamax: bool = False
     is_sublegendary: bool = False
     is_legendary: bool = False
@@ -34,26 +42,29 @@ class Pokemon:
     is_mega: bool = False
     is_cosmetic: bool = False
     is_battle_only: bool = False
-    color: Color = None
-    experience_group: ExperienceGroup = None
-    generation: int = None
-    evolution_ids: tuple[tuple[int, int], ...] = ()
-
-    @property
-    def base_form_index(self) -> tuple[int, int]:
-        return self.base_id, 0
+    color: Optional[Color] = None
+    experience_group: Optional[ExperienceGroup] = None
+    generation: Optional[int] = None
+    evolution_ids: tuple[PokemonBaseAndFormIndex, ...] = ()
 
     @property
     def index(self) -> tuple[int, int]:
+        assert self.base_id is not None
+        assert self.form_id is not None
         return self.base_id, self.form_id
 
-    def set_past_type(self, generation: int, pokemon_type: SingleOrDualType) -> None:
+    def set_past_type(
+        self, generation: int, pokemon_type: Union[Type, SingleOrDualType]
+    ) -> None:
         if isinstance(pokemon_type, Type):
             pokemon_type = (pokemon_type,)
         self.past_type = PastType(generation, pokemon_type)
 
+    def __eq__(self, other: "Pokemon") -> bool:
+        return self.index == other.index
+
     def __lt__(self, other: "Pokemon") -> bool:
-        return self.base_id < other.base_id and self.form_id < other.base_id
+        return self.index < other.index
 
     def __repr__(self) -> str:
         suffix = "" if not self.form_name else f" ({self.form_name})"

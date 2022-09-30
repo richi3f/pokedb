@@ -6,7 +6,10 @@ if TYPE_CHECKING:
     from pokedb.pokemon.pokemon import Pokemon
 
 
-def pokemon_html(pokemon: "Pokemon"):
+def pokemon_html(pokemon: "Pokemon") -> str:
+    assert pokemon.color is not None
+    assert pokemon.experience_group is not None
+    assert pokemon.gender_ratio is not None
     gender_ratio = pokemon.gender_ratio / 8
     if gender_ratio < 0:
         gender_ratio = "Gender unkown"

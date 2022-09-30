@@ -3,7 +3,7 @@ __all__ = ["VersionData"]
 import bisect
 from dataclasses import dataclass, field
 from operator import itemgetter
-from typing import Iterator
+from typing import Iterator, Optional
 
 from pokedb.core.typing import PokemonBaseAndFormIndex, PokemonValue
 from pokedb.pokemon.database import PokemonDatabase
@@ -14,7 +14,7 @@ _database = PokemonDatabase()
 
 @dataclass
 class VersionData:
-    slug: str = None
+    slug: Optional[str] = None
     exclusives: list[PokemonBaseAndFormIndex] = field(default_factory=list)
 
     def _validate_pokemon(self, value: PokemonValue) -> PokemonBaseAndFormIndex:
