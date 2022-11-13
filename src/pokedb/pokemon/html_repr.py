@@ -7,16 +7,16 @@ if TYPE_CHECKING:
 
 
 def pokemon_html(pokemon: "Pokemon") -> str:
-    assert pokemon.color is not None
-    assert pokemon.experience_group is not None
     assert pokemon.gender_ratio is not None
+    color = pokemon.color.name if pokemon.color is not None else "UNSET"
+    experience_group = pokemon.experience_group.name if pokemon.experience_group is not None else "UNSET"
     gender_ratio = pokemon.gender_ratio / 8
     if gender_ratio < 0:
         gender_ratio = "Gender unkown"
     elif gender_ratio == 0:
-        gender_ratio = "100% male"
+        gender_ratio = r"100% male"
     elif gender_ratio == 1:
-        gender_ratio = "100% female"
+        gender_ratio = r"100% female"
     else:
         gender_ratio = f"{1 - gender_ratio:.0%} male, {gender_ratio:.0%} female"
     table = f"""
@@ -54,11 +54,11 @@ def pokemon_html(pokemon: "Pokemon") -> str:
         </tr>
         <tr>
             <th>Color</th>
-            <th>{pokemon.color.name}</th>
+            <th>{color}</th>
         </tr>
         <tr>
             <th>Experience Group</th>
-            <th>{pokemon.experience_group.name}</th>
+            <th>{experience_group}</th>
         </tr>
         """
     tags = []
