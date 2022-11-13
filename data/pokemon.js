@@ -2155,6 +2155,19 @@ export default {
         "experience_group": "Slow",
         "generation": 1
     },
+    "tauros-paldea": {
+        "base_id": 128,
+        "form_id": 1,
+        "name": "Tauros",
+        "form_name": "Paldean Form",
+        "pokemon_type": [ "fighting" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mo" ],
+        "gender_ratio": 0,
+        "color": "black",
+        "experience_group": "Slow",
+        "generation": 9
+    },
     "magikarp": {
         "base_id": 129,
         "form_id": 0,
@@ -3120,6 +3133,20 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [ [ 195, 0 ] ]
+    },
+    "wooper-paldea": {
+        "base_id": 194,
+        "form_id": 1,
+        "name": "Wooper",
+        "form_name": "Paldean Form",
+        "pokemon_type": [ "poison", "ground" ],
+        "egg_group": [ "water_1", "field" ],
+        "gender": [ "fd", "md" ],
+        "gender_ratio": 4,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 9,
+        "evolution_ids": [ [ 1009, 0 ] ]
     },
     "quagsire": {
         "base_id": 195,
@@ -15647,6 +15674,18 @@ export default {
         "base_id": 916,
         "form_id": 0,
         "name": "Oinkologne",
+        "form_name": "Male",
+        "pokemon_type": [ "normal" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mo" ],
+        "gender_ratio": 0,
+        "generation": 9
+    },
+    "oinkologne-female": {
+        "base_id": 916,
+        "form_id": 1,
+        "name": "Oinkologne",
+        "form_name": "Female",
         "pokemon_type": [ "normal" ],
         "egg_group": [ "field" ],
         "gender": [ "mo" ],
@@ -15657,6 +15696,7 @@ export default {
         "base_id": 917,
         "form_id": 0,
         "name": "Dudunsparce",
+        "form_name": "Two-Segment Form",
         "pokemon_type": [ "normal" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
@@ -15960,6 +16000,18 @@ export default {
         "base_id": 946,
         "form_id": 0,
         "name": "Maushold",
+        "form_name": "Family of Three",
+        "pokemon_type": [ "normal" ],
+        "egg_group": [ "field", "fairy" ],
+        "gender": [ "uk" ],
+        "gender_ratio": -1,
+        "generation": 9
+    },
+    "maushold-four": {
+        "base_id": 946,
+        "form_id": 1,
+        "name": "Maushold",
+        "form_name": "Family of Four",
         "pokemon_type": [ "normal" ],
         "egg_group": [ "field", "fairy" ],
         "gender": [ "uk" ],
@@ -16106,6 +16158,7 @@ export default {
         "base_id": 960,
         "form_id": 0,
         "name": "Squawkabilly",
+        "form_name": "Green Plumage",
         "pokemon_type": [ "normal", "flying" ],
         "egg_group": [ "flying" ],
         "gender": [ "mf" ],
@@ -16273,6 +16326,7 @@ export default {
         "base_id": 976,
         "form_id": 0,
         "name": "Gimmighoul",
+        "form_name": "Chest Form",
         "pokemon_type": [ "ghost" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
@@ -16478,6 +16532,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
+        "is_legendary": true,
         "generation": 9
     },
     "miraidon": {
@@ -16488,6 +16543,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
+        "is_legendary": true,
         "generation": 9
     },
     "tinkatink": {
