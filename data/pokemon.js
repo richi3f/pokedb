@@ -2168,6 +2168,32 @@ export default {
         "experience_group": "Slow",
         "generation": 9
     },
+    "tauros-paldea-fire": {
+        "base_id": 128,
+        "form_id": 2,
+        "name": "Tauros",
+        "form_name": "Paldean Form",
+        "pokemon_type": [ "fighting", "fire" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mo" ],
+        "gender_ratio": 0,
+        "color": "black",
+        "experience_group": "Slow",
+        "generation": 9
+    },
+    "tauros-paldea-water": {
+        "base_id": 128,
+        "form_id": 3,
+        "name": "Tauros",
+        "form_name": "Paldean Form",
+        "pokemon_type": [ "fighting", "water" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mo" ],
+        "gender_ratio": 0,
+        "color": "black",
+        "experience_group": "Slow",
+        "generation": 9
+    },
     "magikarp": {
         "base_id": 129,
         "form_id": 0,
@@ -16248,6 +16274,18 @@ export default {
         "egg_group": [ "field", "water_2" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
+        "generation": 9
+    },
+    "palafin-hero": {
+        "base_id": 968,
+        "form_id": 1,
+        "name": "Palafin",
+        "form_name": "Hero Form",
+        "pokemon_type": [ "water" ],
+        "egg_group": [ "field", "water_2" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "is_battle_only": true,
         "generation": 9
     },
     "varoom": {
