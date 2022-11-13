@@ -16436,6 +16436,7 @@ export default {
         "base_id": 983,
         "form_id": 0,
         "name": "Tatsugiri",
+        "form_name": "Curly Form",
         "pokemon_type": [ "dragon", "water" ],
         "egg_group": [ "water_2" ],
         "gender": [ "mf" ],
