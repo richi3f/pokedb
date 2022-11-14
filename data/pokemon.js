@@ -959,7 +959,8 @@ export default {
         "gender_ratio": 4,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 1
+        "generation": 1,
+        "evolution_ids": [ [ 936, 0 ] ]
     },
     "growlithe": {
         "base_id": 58,
@@ -3673,7 +3674,8 @@ export default {
         "gender_ratio": 4,
         "color": "yellow",
         "experience_group": "Medium Fast",
-        "generation": 2
+        "generation": 2,
+        "evolution_ids": [ [ 945, 0 ] ]
     },
     "pineco": {
         "base_id": 204,
@@ -3710,7 +3712,8 @@ export default {
         "gender_ratio": 4,
         "color": "yellow",
         "experience_group": "Medium Fast",
-        "generation": 2
+        "generation": 2,
+        "evolution_ids": [ [ 944, 0 ] ]
     },
     "gligar": {
         "base_id": 207,
@@ -10307,7 +10310,8 @@ export default {
         "gender_ratio": 4,
         "color": "red",
         "experience_group": "Medium Fast",
-        "generation": 5
+        "generation": 5,
+        "evolution_ids": [ [ 980, 0 ] ]
     },
     "bouffalant": {
         "base_id": 626,
@@ -15727,7 +15731,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 917, 0 ] ]
+        "evolution_ids": [ [ 918, 0 ] ]
     },
     "spidops": {
         "base_id": 918,
@@ -15865,7 +15869,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 929, 0 ] ]
+        "evolution_ids": [ [ 930, 0 ] ]
     },
     "dolliv": {
         "base_id": 930,
@@ -15876,7 +15880,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 930, 0 ] ]
+        "evolution_ids": [ [ 931, 0 ] ]
     },
     "arboliva": {
         "base_id": 931,
@@ -15908,7 +15912,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 933, 0 ] ]
+        "evolution_ids": [ [ 934, 0 ] ]
     },
     "naclstack": {
         "base_id": 934,
@@ -15919,7 +15923,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 934, 0 ] ]
+        "evolution_ids": [ [ 935, 0 ] ]
     },
     "garganacl": {
         "base_id": 935,
@@ -15935,6 +15939,7 @@ export default {
         "base_id": 936,
         "form_id": 0,
         "name": "Annihilape",
+        "pokemon_type": [ "fighting", "ghost" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -16158,7 +16163,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 957, 0 ] ]
+        "evolution_ids": [ [ 958, 0 ] ]
     },
     "rabsca": {
         "base_id": 958,
@@ -16179,7 +16184,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "generation": 9,
-        "evolution_ids": [ [ 959, 0 ] ]
+        "evolution_ids": [ [ 960, 0 ] ]
     },
     "espathra": {
         "base_id": 960,
