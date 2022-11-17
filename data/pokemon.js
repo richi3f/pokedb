@@ -2210,7 +2210,7 @@ export default {
         "experience_group": "Slow",
         "generation": 9
     },
-    "tauros-paldea-fire": {
+    "tauros-paldea-blaze": {
         "base_id": 128,
         "form_id": 2,
         "name": "Tauros",
@@ -2223,7 +2223,7 @@ export default {
         "experience_group": "Slow",
         "generation": 9
     },
-    "tauros-paldea-water": {
+    "tauros-paldea-aqua": {
         "base_id": 128,
         "form_id": 3,
         "name": "Tauros",
@@ -15986,6 +15986,7 @@ export default {
         "egg_group": [ "field", "fairy" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
+        "is_cosmetic": true,
         "color": "white",
         "experience_group": "Fast",
         "generation": 9
@@ -15999,7 +16000,6 @@ export default {
         "egg_group": [ "field", "fairy" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
-        "is_cosmetic": true,
         "color": "white",
         "experience_group": "Fast",
         "generation": 9
