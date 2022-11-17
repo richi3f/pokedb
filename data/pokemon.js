@@ -15720,6 +15720,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 907, 0 ] ]
     },
@@ -15732,6 +15733,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 908, 0 ] ]
     },
@@ -15744,6 +15746,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "fuecoco": {
@@ -15755,6 +15758,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "red",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 910, 0 ] ]
     },
@@ -15767,6 +15771,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "red",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 911, 0 ] ]
     },
@@ -15779,6 +15784,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "red",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "quaxly": {
@@ -15790,6 +15796,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "blue",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 913, 0 ] ]
     },
@@ -15802,6 +15809,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "blue",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 914, 0 ] ]
     },
@@ -15814,6 +15822,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "color": "blue",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "lechonk": {
@@ -15825,6 +15834,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 916, 0 ], [ 916, 1 ] ]
     },
@@ -15838,6 +15848,7 @@ export default {
         "gender": [ "mo" ],
         "gender_ratio": 0,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "oinkologne-female": {
@@ -15850,6 +15861,7 @@ export default {
         "gender": [ "mo" ],
         "gender_ratio": 0,
         "color": "brown",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "tarountula": {
@@ -15861,6 +15873,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Erratic",
         "generation": 9,
         "evolution_ids": [ [ 918, 0 ] ]
     },
@@ -15873,6 +15886,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Erratic",
         "generation": 9
     },
     "nymble": {
@@ -15884,6 +15898,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 920, 0 ] ]
     },
@@ -15896,6 +15911,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "pawmi": {
@@ -15907,6 +15923,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 922, 0 ] ]
     },
@@ -15919,6 +15936,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 923, 0 ] ]
     },
@@ -15931,6 +15949,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "clodsire": {
@@ -15954,6 +15973,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "white",
+        "experience_group": "Fast",
         "generation": 9,
         "evolution_ids": [ [ 926, 0 ], [ 926, 1 ] ]
     },
@@ -15967,6 +15987,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "white",
+        "experience_group": "Fast",
         "generation": 9
     },
     "maushold-four": {
@@ -15980,6 +16001,7 @@ export default {
         "gender_ratio": -1,
         "is_cosmetic": true,
         "color": "white",
+        "experience_group": "Fast",
         "generation": 9
     },
     "fidough": {
@@ -15991,6 +16013,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 928, 0 ] ]
     },
@@ -16003,6 +16026,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "smoliv": {
@@ -16014,6 +16038,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 930, 0 ] ]
     },
@@ -16026,6 +16051,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 931, 0 ] ]
     },
@@ -16038,6 +16064,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "squawkabilly": {
@@ -16050,6 +16077,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Erratic",
         "generation": 9
     },
     "squawkabilly-blue": {
@@ -16063,6 +16091,7 @@ export default {
         "gender_ratio": 4,
         "is_cosmetic": true,
         "color": "blue",
+        "experience_group": "Erratic",
         "generation": 9
     },
     "squawkabilly-yellow": {
@@ -16076,6 +16105,7 @@ export default {
         "gender_ratio": 4,
         "is_cosmetic": true,
         "color": "yellow",
+        "experience_group": "Erratic",
         "generation": 9
     },
     "squawkabilly-white": {
@@ -16089,6 +16119,7 @@ export default {
         "gender_ratio": 4,
         "is_cosmetic": true,
         "color": "white",
+        "experience_group": "Erratic",
         "generation": 9
     },
     "nacli": {
@@ -16100,6 +16131,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 934, 0 ] ]
     },
@@ -16112,6 +16144,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 935, 0 ] ]
     },
@@ -16124,6 +16157,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "annihilape": {
@@ -16147,6 +16181,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 938, 0 ], [ 939, 0 ] ]
     },
@@ -16159,6 +16194,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9
     },
     "ceruledge": {
@@ -16170,6 +16206,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     },
     "tadbulb": {
@@ -16181,6 +16218,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 941, 0 ] ]
     },
@@ -16193,6 +16231,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "wattrel": {
@@ -16204,6 +16243,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "black",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 943, 0 ] ]
     },
@@ -16216,6 +16256,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "dudunsparce": {
@@ -16266,6 +16307,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 947, 0 ] ]
     },
@@ -16278,6 +16320,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "shroodle": {
@@ -16289,6 +16332,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 949, 0 ] ]
     },
@@ -16301,6 +16345,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "bramblin": {
@@ -16312,6 +16357,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 951, 0 ] ]
     },
@@ -16324,6 +16370,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "toedscool": {
@@ -16335,6 +16382,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 953, 0 ] ]
     },
@@ -16347,6 +16395,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "black",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "klawf": {
@@ -16358,6 +16407,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "red",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "capsakid": {
@@ -16369,6 +16419,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 956, 0 ] ]
     },
@@ -16381,6 +16432,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "rellor": {
@@ -16392,6 +16444,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "brown",
+        "experience_group": "Fast",
         "generation": 9,
         "evolution_ids": [ [ 958, 0 ] ]
     },
@@ -16404,6 +16457,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Fast",
         "generation": 9
     },
     "flittle": {
@@ -16415,6 +16469,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 960, 0 ] ]
     },
@@ -16427,6 +16482,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "tinkatink": {
@@ -16438,6 +16494,7 @@ export default {
         "gender": [ "fo" ],
         "gender_ratio": 0,
         "color": "pink",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 962, 0 ] ]
     },
@@ -16450,6 +16507,7 @@ export default {
         "gender": [ "fo" ],
         "gender_ratio": 0,
         "color": "pink",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 963, 0 ] ]
     },
@@ -16462,6 +16520,7 @@ export default {
         "gender": [ "fo" ],
         "gender_ratio": 0,
         "color": "pink",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "wiglett": {
@@ -16473,6 +16532,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 965, 0 ] ]
     },
@@ -16485,6 +16545,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "red",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "bombirdier": {
@@ -16496,6 +16557,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Slow",
         "generation": 9
     },
     "finizen": {
@@ -16507,6 +16569,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 968, 0 ] ]
     },
@@ -16520,6 +16583,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     },
     "palafin-hero": {
@@ -16533,6 +16597,7 @@ export default {
         "gender_ratio": 4,
         "is_battle_only": true,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     },
     "varoom": {
@@ -16544,6 +16609,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9,
         "evolution_ids": [ [ 970, 0 ] ]
     },
@@ -16556,6 +16622,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Medium Fast",
         "generation": 9
     },
     "cyclizar": {
@@ -16567,6 +16634,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "green",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "orthworm": {
@@ -16578,6 +16646,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "pink",
+        "experience_group": "Slow",
         "generation": 9
     },
     "glimmet": {
@@ -16589,6 +16658,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 974, 0 ] ]
     },
@@ -16601,6 +16671,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "greavard": {
@@ -16612,6 +16683,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 976, 0 ] ]
     },
@@ -16624,6 +16696,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "flamigo": {
@@ -16635,6 +16708,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "pink",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "cetoddle": {
@@ -16646,6 +16720,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Medium Slow",
         "generation": 9,
         "evolution_ids": [ [ 979, 0 ] ]
     },
@@ -16658,6 +16733,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "white",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "kingambit": {
@@ -16681,6 +16757,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Fast",
         "generation": 9
     },
     "dondozo": {
@@ -16692,6 +16769,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     },
     "tatsugiri": {
@@ -16704,6 +16782,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "pink",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "tatsugiri-droopy": {
@@ -16717,6 +16796,7 @@ export default {
         "gender_ratio": 4,
         "is_cosmetic": true,
         "color": "red",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "tatsugiri-stretchy": {
@@ -16730,6 +16810,7 @@ export default {
         "gender_ratio": 4,
         "is_cosmetic": true,
         "color": "yellow",
+        "experience_group": "Medium Slow",
         "generation": 9
     },
     "great-tusk": {
@@ -16741,6 +16822,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "purple",
+        "experience_group": "Slow",
         "generation": 9
     },
     "scream-tail": {
@@ -16752,6 +16834,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "pink",
+        "experience_group": "Slow",
         "generation": 9
     },
     "brute-bonnet": {
@@ -16763,6 +16846,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "flutter-mane": {
@@ -16774,6 +16858,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "slither-wing": {
@@ -16785,6 +16870,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9
     },
     "sandy-shocks": {
@@ -16796,6 +16882,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-treads": {
@@ -16807,6 +16894,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-bundle": {
@@ -16818,6 +16906,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-hands": {
@@ -16829,6 +16918,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-jugulis": {
@@ -16840,6 +16930,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-moth": {
@@ -16851,6 +16942,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "yellow",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-thorns": {
@@ -16862,6 +16954,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "green",
+        "experience_group": "Slow",
         "generation": 9
     },
     "frigibax": {
@@ -16873,6 +16966,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 997, 0 ] ]
     },
@@ -16885,6 +16979,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 998, 0 ] ]
     },
@@ -16897,6 +16992,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "color": "gray",
+        "experience_group": "Slow",
         "generation": 9
     },
     "gimmighoul": {
@@ -16909,6 +17005,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "brown",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 1000, 0 ] ]
     },
@@ -16922,6 +17019,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9,
         "evolution_ids": [ [ 1000, 0 ] ]
     },
@@ -16934,6 +17032,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "yellow",
+        "experience_group": "Slow",
         "generation": 9
     },
     "wo-chien": {
@@ -16946,6 +17045,7 @@ export default {
         "gender_ratio": -1,
         "is_sublegendary": true,
         "color": "brown",
+        "experience_group": "Slow",
         "generation": 9
     },
     "chien-pao": {
@@ -16958,6 +17058,7 @@ export default {
         "gender_ratio": -1,
         "is_sublegendary": true,
         "color": "white",
+        "experience_group": "Slow",
         "generation": 9
     },
     "ting-lu": {
@@ -16970,6 +17071,7 @@ export default {
         "gender_ratio": -1,
         "is_sublegendary": true,
         "color": "brown",
+        "experience_group": "Slow",
         "generation": 9
     },
     "chi-yu": {
@@ -16982,6 +17084,7 @@ export default {
         "gender_ratio": -1,
         "is_sublegendary": true,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9
     },
     "roaring-moon": {
@@ -16993,6 +17096,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "green",
+        "experience_group": "Slow",
         "generation": 9
     },
     "iron-valiant": {
@@ -17004,6 +17108,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "color": "white",
+        "experience_group": "Slow",
         "generation": 9
     },
     "koraidon": {
@@ -17016,6 +17121,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "color": "red",
+        "experience_group": "Slow",
         "generation": 9
     },
     "miraidon": {
@@ -17028,6 +17134,7 @@ export default {
         "gender_ratio": -1,
         "is_legendary": true,
         "color": "blue",
+        "experience_group": "Slow",
         "generation": 9
     }
 };
