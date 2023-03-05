@@ -38,6 +38,8 @@ class Pokemon:
     is_sublegendary: bool = False
     is_legendary: bool = False
     is_mythical: bool = False
+    is_ub: bool = False
+    is_paradox: bool = False
     is_baby: bool = False
     is_mega: bool = False
     is_cosmetic: bool = False

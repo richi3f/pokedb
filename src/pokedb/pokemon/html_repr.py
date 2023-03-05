@@ -72,6 +72,10 @@ def pokemon_html(pokemon: "Pokemon") -> str:
         tags.append("Legendary")
     if pokemon.is_mythical:
         tags.append("Mythical")
+    if pokemon.is_ub:
+        tags.append("Ultra Beast")
+    if pokemon.is_paradox:
+        tags.append("Paradox")
     if pokemon.has_gigantamax:
         tags.append("Has Gigantamax Form")
     if pokemon.is_cosmetic:
