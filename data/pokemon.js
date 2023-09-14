@@ -14591,7 +14591,7 @@ export default {
         "color": "green",
         "experience_group": "Erratic",
         "generation": 8,
-        "evolution_ids": [ [ 841, 0 ], [ 842, 0 ] ]
+        "evolution_ids": [ [ 841, 0 ], [ 842, 0 ], [ 1011, 0 ] ]
     },
     "flapple": {
         "base_id": 841,
@@ -17217,7 +17217,8 @@ export default {
         "gender_ratio": -1,
         "color": "green",
         "experience_group": "Medium Fast",
-        "generation": 9
+        "generation": 9,
+        "evolution_ids": [ [ 1013, 0 ] ]
     },
     "sinistcha": {
         "base_id": 1013,
@@ -17239,6 +17240,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "md" ],
         "gender_ratio": 0,
+        "is_sublegendary": true,
         "color": "black",
         "experience_group": "Slow",
         "generation": 9
@@ -17251,6 +17253,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "md" ],
         "gender_ratio": 0,
+        "is_sublegendary": true,
         "color": "black",
         "experience_group": "Slow",
         "generation": 9
@@ -17263,6 +17266,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "md" ],
         "gender_ratio": 0,
+        "is_sublegendary": true,
         "color": "black",
         "experience_group": "Slow",
         "generation": 9
@@ -17275,6 +17279,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "fd" ],
         "gender_ratio": -1,
+        "is_sublegendary": true,
         "color": "green",
         "experience_group": "Slow",
         "generation": 9
@@ -17288,6 +17293,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "fd" ],
         "gender_ratio": -1,
+        "is_sublegendary": true,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 9
@@ -17301,6 +17307,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "fd" ],
         "gender_ratio": -1,
+        "is_sublegendary": true,
         "color": "red",
         "experience_group": "Slow",
         "generation": 9
@@ -17314,6 +17321,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "fd" ],
         "gender_ratio": -1,
+        "is_sublegendary": true,
         "color": "gray",
         "experience_group": "Slow",
         "generation": 9
