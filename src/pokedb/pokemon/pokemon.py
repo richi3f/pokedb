@@ -44,6 +44,7 @@ class Pokemon:
     is_mega: bool = False
     is_cosmetic: bool = False
     is_battle_only: bool = False
+    shape: Optional[int] = None
     color: Optional[Color] = None
     experience_group: Optional[ExperienceGroup] = None
     generation: Optional[int] = None
