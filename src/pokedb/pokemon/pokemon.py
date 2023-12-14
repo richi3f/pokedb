@@ -76,6 +76,10 @@ class Pokemon:
     def _repr_html_(self) -> str:
         return pokemon_html(self)
 
+    def add_evolution(self, other: "Pokemon") -> None:
+        if other.index not in self.evolution_ids:
+            self.evolution_ids = tuple(sorted(self.evolution_ids + (other.index,)))
+
     def new(self, **kwargs) -> "Pokemon":
         """Creates a new Pokémon by copying the data from another one. Values
         can be overriden by supplying keyword arguments.
