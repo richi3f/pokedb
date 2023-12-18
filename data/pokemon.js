@@ -18665,6 +18665,7 @@ export default {
         "egg_group": [ "mineral", "dragon" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
+        "shape": 6,
         "color": "white",
         "experience_group": "Medium Fast",
         "generation": 9
@@ -18677,6 +18678,7 @@ export default {
         "egg_group": [ "grass", "dragon" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
+        "shape": 1,
         "color": "green",
         "experience_group": "Erratic",
         "generation": 9
@@ -18690,6 +18692,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_paradox": true,
+        "shape": 8,
         "color": "brown",
         "experience_group": "Slow",
         "generation": 9
@@ -18703,6 +18706,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_paradox": true,
+        "shape": 8,
         "color": "yellow",
         "experience_group": "Slow",
         "generation": 9
@@ -18716,6 +18720,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_paradox": true,
+        "shape": 8,
         "color": "gray",
         "experience_group": "Slow",
         "generation": 9
@@ -18729,6 +18734,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_paradox": true,
+        "shape": 8,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 9
@@ -18737,11 +18743,44 @@ export default {
         "base_id": 1024,
         "form_id": 0,
         "name": "Terapagos",
+        "form_name": "Normal Form",
         "pokemon_type": [ "normal" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "is_legendary": true,
+        "shape": 8,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 9
+    },
+    "terapagos-terastal": {
+        "base_id": 1024,
+        "form_id": 1,
+        "name": "Terapagos",
+        "form_name": "Terastal Form",
+        "pokemon_type": [ "normal" ],
+        "egg_group": [ "undiscovered" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "is_legendary": true,
+        "shape": 1,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 9
+    },
+    "terapagos-stellar": {
+        "base_id": 1024,
+        "form_id": 2,
+        "name": "Terapagos",
+        "form_name": "Stellar Form",
+        "pokemon_type": [ "normal" ],
+        "egg_group": [ "undiscovered" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "is_legendary": true,
+        "is_battle_only": true,
+        "shape": 1,
         "color": "blue",
         "experience_group": "Slow",
         "generation": 9
@@ -18755,6 +18794,7 @@ export default {
         "gender": [ "uk" ],
         "gender_ratio": -1,
         "is_mythical": true,
+        "shape": 3,
         "color": "purple",
         "experience_group": "Slow",
         "generation": 9
