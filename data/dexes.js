@@ -10908,7 +10908,7 @@ export default {
             "232": [ [ 150, 0 ], [ 150, 1 ], [ 150, 2 ] ]
         }
     },
-    "lumiose-hyperspace": {
+    "lumiose_hyperspace": {
         "name": "Hyperspace Lumiose",
         "order": {
             "26": [ [ 26, 2 ], [ 26, 3 ] ],
