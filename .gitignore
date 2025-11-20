@@ -8,3 +8,6 @@ notebooks/
 
 # Distribution and packaging files
 *.egg-info/
+
+# DS Store
+.DS_Store
