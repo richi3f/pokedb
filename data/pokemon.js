@@ -13153,6 +13153,7 @@ export default {
         "gender": [ "mo" ],
         "gender_ratio": 0,
         "is_mega": true,
+        "is_cosmetic": true,
         "is_battle_only": true,
         "experience_group": "Medium Fast",
         "generation": 9
@@ -15754,6 +15755,7 @@ export default {
         "gender_ratio": -1,
         "is_mythical": true,
         "is_mega": true,
+        "is_cosmetic": true,
         "is_battle_only": true,
         "experience_group": "Slow",
         "generation": 9
@@ -18709,6 +18711,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_cosmetic": true,
         "is_battle_only": true,
         "experience_group": "Medium Slow",
         "generation": 9
@@ -18723,6 +18726,7 @@ export default {
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "is_mega": true,
+        "is_cosmetic": true,
         "is_battle_only": true,
         "experience_group": "Medium Slow",
         "generation": 9
