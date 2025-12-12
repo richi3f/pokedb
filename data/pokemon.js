@@ -13150,7 +13150,7 @@ export default {
         "form_name": "Mega Meowstic",
         "pokemon_type": [ "psychic" ],
         "egg_group": [ "field" ],
-        "gender": [ "mo" ],
+        "gender": [ "fo" ],
         "gender_ratio": 0,
         "is_mega": true,
         "is_cosmetic": true,
