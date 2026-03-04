@@ -2491,7 +2491,16 @@ export default {
         "color": "brown",
         "experience_group": "Medium Fast",
         "generation": 1,
-        "evolution_ids": [ [ 134, 0 ], [ 135, 0 ], [ 136, 0 ], [ 196, 0 ], [ 197, 0 ], [ 470, 0 ], [ 471, 0 ], [ 700, 0 ] ]
+        "evolution_ids": [
+            [ 134, 0 ],
+            [ 135, 0 ],
+            [ 136, 0 ],
+            [ 196, 0 ],
+            [ 197, 0 ],
+            [ 470, 0 ],
+            [ 471, 0 ],
+            [ 700, 0 ]
+        ]
     },
     "vaporeon": {
         "base_id": 134,
@@ -16107,7 +16116,17 @@ export default {
         "color": "white",
         "experience_group": "Medium Fast",
         "generation": 8,
-        "evolution_ids": [ [ 869, 0 ], [ 869, 1 ], [ 869, 2 ], [ 869, 3 ], [ 869, 4 ], [ 869, 5 ], [ 869, 6 ], [ 869, 7 ], [ 869, 8 ] ]
+        "evolution_ids": [
+            [ 869, 0 ],
+            [ 869, 1 ],
+            [ 869, 2 ],
+            [ 869, 3 ],
+            [ 869, 4 ],
+            [ 869, 5 ],
+            [ 869, 6 ],
+            [ 869, 7 ],
+            [ 869, 8 ]
+        ]
     },
     "alcremie": {
         "base_id": 869,
