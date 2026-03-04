@@ -1,11 +1,12 @@
 __all__ = ["Pokemon"]
 
 import dataclasses
+from collections import defaultdict
 from functools import total_ordering
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Optional, Union
 
-from pokedb.core.enums import Color, ExperienceGroup, Gender, Type
+from pokedb.core.enums import Color, ExperienceGroup, Gender, HiddenMove, Type
 from pokedb.core.typing import (
     PokemonBaseAndFormIndex,
     PokemonEggGroup,
@@ -49,6 +50,9 @@ class Pokemon:
     experience_group: Optional[ExperienceGroup] = None
     generation: Optional[int] = None
     evolution_ids: tuple[PokemonBaseAndFormIndex, ...] = ()
+    hidden_moves: dict[HiddenMove, list[int]] = field(
+        default_factory=lambda: defaultdict(list)
+    )
 
     @property
     def index(self) -> tuple[int, int]:
@@ -63,8 +67,10 @@ class Pokemon:
             pokemon_type = (pokemon_type,)
         self.past_type = PastType(generation, pokemon_type)
 
-    def __eq__(self, other: "Pokemon") -> bool:
-        return self.index == other.index
+    def __eq__(self, other: object) -> bool:
+        if isinstance(other, Pokemon):
+            return self.index == other.index
+        return NotImplemented
 
     def __lt__(self, other: "Pokemon") -> bool:
         return self.index < other.index
@@ -80,8 +86,14 @@ class Pokemon:
         if other.index not in self.evolution_ids:
             self.evolution_ids = tuple(sorted(self.evolution_ids + (other.index,)))
 
+    def can_learn(self, hidden_move: Union[HiddenMove, str]) -> list[int]:
+        """Return a list of generations in which the Pokémon can learn a hidden move."""
+        if isinstance(hidden_move, str):
+            hidden_move = HiddenMove[hidden_move.upper()]
+        return self.hidden_moves[hidden_move]
+
     def new(self, **kwargs) -> "Pokemon":
-        """Creates a new Pokémon by copying the data from another one. Values
+        """Create a new Pokémon by copying the data from another one. Values
         can be overriden by supplying keyword arguments.
 
         Returns:

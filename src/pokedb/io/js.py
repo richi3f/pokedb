@@ -14,7 +14,7 @@ import json
 import re
 from typing import Any
 
-from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
+from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, HiddenMove, Type
 from pokedb.core.typing import PathLike
 from pokedb.games.pokedex import Pokedex
 from pokedb.games.versions import VersionData
@@ -23,6 +23,8 @@ from pokedb.pokemon.pokemon import PastType, Pokemon
 
 JS_PREFIX = "export default "
 JS_SUFFIX = ";"
+INDENT_SIZE = 4
+MAX_LINE_LEN = 88
 
 
 def read_js(file_path: PathLike, **kwargs) -> dict:
@@ -49,11 +51,16 @@ def deserialize_pokemon(dct: dict[str, Any]) -> Any:
                 value = tuple(map(Gender._value2member_map_.__getitem__, value))
             elif attr == "pokemon_type":
                 value = tuple(map(strtotype, value))
+                assert len(value) <= 2
             elif attr == "evolution_ids":
                 value = tuple(map(tuple, value))
             elif attr == "past_type":
                 pokemon_type = tuple(map(strtotype, value["pokemon_type"]))
+                assert len(pokemon_type) <= 2
                 value = PastType(value["generation"], pokemon_type)
+            elif attr == "hidden_moves":
+                keys = map(lambda x: HiddenMove[str.upper(x)], value.keys())
+                value = dict(zip(keys, value.values()))
             setattr(pokemon, attr, value)
         return pokemon
     elif "name" in dct and "order" in dct:
@@ -118,9 +125,19 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
             is_false_or_empty = is_bool_or_iter and not value
             if is_false_or_empty or pokemon_asdict[key] is None:
                 pokemon_asdict.pop(key)
+        if "hidden_moves" in pokemon_asdict:
+            hidden_moves = pokemon_asdict.pop("hidden_moves")
+            if hidden_moves:
+                keys = map(lambda x: x.name.lower(), hidden_moves.keys())
+                vals = hidden_moves.values()
+                pokemon_asdict["hidden_moves"] = {k: v for k, v in zip(keys, vals) if v}
         database_asdict[pokemon.slug] = pokemon_asdict
     to_js(
-        database_asdict, file_path, indent=4, ensure_ascii=False, cls=PokemonJSONEncoder
+        database_asdict,
+        file_path,
+        indent=INDENT_SIZE,
+        ensure_ascii=False,
+        cls=PokemonJSONEncoder,
     )
     with open(file_path, "r+", encoding="utf-8") as file:
         file_contents = file.read()
@@ -129,8 +146,16 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
         file_contents = re.sub(r"\n\s{12}", " ", file_contents)
         file_contents = re.sub(r"\n\s{8}\]", " ]", file_contents)
         file_contents = re.sub(r"\n\s{8}\}", " }", file_contents)
+        newlines = []
+        for line in file_contents.splitlines():
+            if len(line) > MAX_LINE_LEN:
+                indent = " " * (line.index('"') + INDENT_SIZE)
+                line = re.sub(r"\], (\"|\[)", rf"],\n{indent}\1", line)
+                line = re.sub(r"(\{|\[) (\[|\")", rf"\1\n{indent}\2", line)
+                line = re.sub(r"\] (\}|\])", rf"]\n{indent[:-INDENT_SIZE]}\1", line)
+            newlines.append(line)
         file.seek(0)
-        file.write(file_contents)
+        file.write("\n".join(newlines))
         file.truncate()
 
 
@@ -139,7 +164,7 @@ def dump_pokedexes(pokedexes: dict[str, Pokedex], file_path: PathLike) -> None:
     for pokedex in pokedexes.values():
         pokedex_asdict = dataclasses.asdict(pokedex)
         pokedexes_asdict[pokedex_asdict.pop("slug")] = pokedex_asdict
-    to_js(pokedexes_asdict, file_path, indent=4)
+    to_js(pokedexes_asdict, file_path, indent=INDENT_SIZE)
     with open(file_path, "r+", encoding="utf-8") as file:
         file_contents = file.read()
         file_contents = re.sub(r"\n\s{20}", " ", file_contents)
@@ -156,7 +181,7 @@ def dump_versions(versions: dict[str, VersionData], file_path: PathLike) -> None
     for version in versions.values():
         version_asdict = dataclasses.asdict(version)
         versions_asdict[version_asdict["slug"]] = version_asdict["exclusives"]
-    to_js(versions_asdict, file_path, indent=4)
+    to_js(versions_asdict, file_path, indent=INDENT_SIZE)
     with open(file_path, "r+", encoding="utf-8") as file:
         file_contents = file.read()
         file_contents = re.sub(r"\n\s{12}", " ", file_contents)
