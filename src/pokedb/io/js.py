@@ -14,7 +14,7 @@ import json
 import re
 from typing import Any
 
-from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, Type
+from pokedb.core.enums import Color, EggGroup, ExperienceGroup, Gender, HiddenMove, Type
 from pokedb.core.typing import PathLike
 from pokedb.games.pokedex import Pokedex
 from pokedb.games.versions import VersionData
@@ -49,11 +49,16 @@ def deserialize_pokemon(dct: dict[str, Any]) -> Any:
                 value = tuple(map(Gender._value2member_map_.__getitem__, value))
             elif attr == "pokemon_type":
                 value = tuple(map(strtotype, value))
+                assert len(value) <= 2
             elif attr == "evolution_ids":
                 value = tuple(map(tuple, value))
             elif attr == "past_type":
                 pokemon_type = tuple(map(strtotype, value["pokemon_type"]))
+                assert len(pokemon_type) <= 2
                 value = PastType(value["generation"], pokemon_type)
+            elif attr == "hidden_moves":
+                keys = map(lambda x: HiddenMove[str.upper(x)], value.keys())
+                value = dict(zip(keys, value.values()))
             setattr(pokemon, attr, value)
         return pokemon
     elif "name" in dct and "order" in dct:
@@ -118,6 +123,12 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
             is_false_or_empty = is_bool_or_iter and not value
             if is_false_or_empty or pokemon_asdict[key] is None:
                 pokemon_asdict.pop(key)
+        if "hidden_moves" in pokemon_asdict:
+            hidden_moves = pokemon_asdict.pop("hidden_moves")
+            if hidden_moves:
+                keys = map(lambda x: x.name.lower(), hidden_moves.keys())
+                vals = hidden_moves.values()
+                pokemon_asdict["hidden_moves"] = {k: v for k, v in zip(keys, vals) if v}
         database_asdict[pokemon.slug] = pokemon_asdict
     to_js(
         database_asdict, file_path, indent=4, ensure_ascii=False, cls=PokemonJSONEncoder
