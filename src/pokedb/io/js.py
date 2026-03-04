@@ -150,8 +150,8 @@ def dump_database(database: PokemonDatabase, file_path: PathLike) -> None:
         for line in file_contents.splitlines():
             if len(line) > MAX_LINE_LEN:
                 indent = " " * (line.index('"') + INDENT_SIZE)
-                line = re.sub(r"\], \[", rf"],\n{indent}[", line)
-                line = re.sub(r"(\{|\[) \[", rf"\1\n{indent}[", line)
+                line = re.sub(r"\], (\"|\[)", rf"],\n{indent}\1", line)
+                line = re.sub(r"(\{|\[) (\[|\")", rf"\1\n{indent}\2", line)
                 line = re.sub(r"\] (\}|\])", rf"]\n{indent[:-INDENT_SIZE]}\1", line)
             newlines.append(line)
         file.seek(0)
