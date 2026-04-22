@@ -54,6 +54,9 @@ class Pokedex:
             return dex_index
         raise KeyError(f"{value} is not part of {self.name}.")
 
+    def sort(self) -> None:
+        self.order = dict(sorted(self.order.items()))
+
     def __len__(self) -> int:
         return sum(map(len, self.order.values()))
 
