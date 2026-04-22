@@ -72,6 +72,9 @@ class Pokemon:
             return self.index == other.index
         return NotImplemented
 
+    def __hash__(self) -> int:
+        return hash(self.index)
+
     def __lt__(self, other: "Pokemon") -> bool:
         return self.index < other.index
 
