@@ -75,6 +75,9 @@ class Pokemon:
     def __lt__(self, other: "Pokemon") -> bool:
         return self.index < other.index
 
+    def __hash__(self) -> int:
+        return hash(self.index)
+
     def __repr__(self) -> str:
         suffix = "" if not self.form_name else f" ({self.form_name})"
         return f"{self.name}{suffix}"
